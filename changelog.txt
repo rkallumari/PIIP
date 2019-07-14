@@ -1,0 +1,505 @@
+Week 4, Monday, 25/March
+Finished
+- Read the assessment booklet for the structure requirements of project
+- Created a basic structure of project folder with all necessary folders and files.
+- Created the index.html and filled it with basic html structure
+- Started working on data collection and structuring
+- Formed items.js and rooms.js for holding the basic data.
+- Included the files in index.html and checked that they are loading in browser
+Still working on
+- Collect images required.
+- Form separate data js file for rooms.
+Milestone 1 progress
+- The project is kicked off with just a 2% progress this week.
+- Target to complete the data collection to proceed with coding.
+
+Week 4, Tuesday, 26/March
+Finished
+- Started collecting images of various rooms
+- Filled in license of images accordingly
+- Filled in rooms.js with data and images of five rooms
+Still working on
+- Collect images of items.
+- Form separate js file for items.
+Milestone 1 progress
+- Data collection is still in progress and a 5% progress overall is achieved.
+- Complete the data for images as well and get done with data collection.
+
+Week 4, Wednesday, 27/March
+Finished
+- Started collecting images of various items in each room.
+- Populated the license accordingly
+- Finished collecting details of items of two rooms.
+- Filled in the data to items.js
+Still working on
+- Finish collecting images for all the rooms.
+- Populate and finalize the items and rooms.js
+Milestone 1 progress
+- The data collection is still in progress.
+
+Week 4, Thursday, 28/March
+Finished
+- Collected more images for remaining three rooms
+- A total of 32 images are collected and entered into license text file.
+- rooms.js and items.js is ready with necessary data.
+Still working on
+- Fonts download.
+- Style sheet creation and font inclusion.
+Milestone 1 progress
+- Data collection part is almost over which constitutes to 10% completion.
+- Target to set up the initial set up viz fonts, sounds and necessary
+   style sheets.
+
+Week 4, Friday, 29/March
+Finished
+- Downloaded the sansserifpro fonts from font squirrel
+- Included the fonts into the css and defined a font family
+- Included styling to include the font for the html body
+- Included the style sheet game.css into HTML
+- Tested for the font to appear on browser
+Still working on
+- Download different sounds required for the game.
+- Create various js files required for the game.
+Milestone 1 progress
+- The initial set up is still in progress. A 15% completion can be marked.
+- Target to complete all the external downloads required.
+
+Week 4, Saturday, 30/March
+Finished
+- Searched for sounds for different pages
+- Downloaded the background sounds.
+- Respective license is recorded.
+Still working on
+- Create the js files for various functionalities.
+Milestone 1 progress
+- The initial set up is still in progress. The progress rate is at 18%.
+- Target to complete the js set up and start with initial page coding.
+
+Week 4, Sunday, 31/March
+Finished
+- Wrote a onLoad function in app.js for initiating game landing page
+- Wrote a function in ui.js to add game title
+- Wrote a function in ui.js to add buttons
+Still working on
+- Create separate js for game elements.
+- Create content for landing page.
+- Create a on load function for loading game.
+Milestone 1 progress
+- The initial set up is finally done marking a 20% of progress.
+- Target to complete the components of landing page and finally the game
+  pages for release one.
+
+Week 5, Monday, 1/April
+Finished
+- Created the file gameElements.js for holding creating elements
+- Created function createLandingPageContent for landing page content
+- Created function loadLandingPage for loading the first page
+- Added code in load game to utilize the above functions and load the pages
+Still working on
+- Add styles for landing page
+Milestone 1 progress
+- Completed about 25% of the targets for release one.
+- Target to complete the landing page and proceed with level selection page.
+
+Week 5, Tuesday, 2/April
+Finished
+- Added the css for the landing page in game.css
+- Modified code in landing page functions to add the classes accordingly
+Still working on
+- Add functions for level selection page
+- Add styles for the level selection page
+Milestone 1 progress
+- One of the page is completed. Around 30% of progress is achieved.
+- Target to comaplete the level selection page and progress to the main game
+  page
+
+Week 5, Wednesday, 3/April
+Finished
+- Added functions for level selection page which include
+  createLevelSelectionPage, loadLevelSelectionPage
+- Added css for the level selection page
+Still working on
+- Create header for game page.
+- Add event handlers to load game as per level button clicked.
+Milestone 1 progress
+- Completed about 40%of targets.
+- Target to start with the game page.
+
+Week 5, Thursday, 4/April
+Finished
+- Added the event handlers for level selection buttons in level selection
+  page which includes the functions addLevelEventHandler, loadGamePage,
+  loadGamePage
+- Created function createGameLevelHeader for the header part of game.
+Still working on
+- Create the left and right panels of the game.
+- Create logic to randomly fetch rooms and items.
+Milestone 1 progress
+- Two of the pages targeted for release 1 are done marking 50% of
+  progress.
+- Target to complete the game page with necessary logic in place.
+
+Week 5, Friday, 5/April
+Finished
+- Added the function createLeftPanel for the left part of game
+- Added the file utilityFunctions.js with the getRandomInt function to
+  get random number between two digits
+- Added function fetchRoomList to select random rooms
+Still working on
+- Create right panel with the question element.
+- Fetch item as per the rooms randomly selected in left panel.
+Milestone 1 progress
+- Completed around 60% of target to be achieved.
+- Target to complete the right panel with main logic of drag and drop
+
+Week 5, Saturday, 6/April
+Finished
+- Added the CSS for the left panel of the game
+- Added the function createRightPanel for the right side part of game
+- Added the function fetchItemList to fetch the items list based on rooms list.
+Still working on
+- Add styling for the game page
+- Validate the name entered in right panel.
+Milestone 1 progress:
+- The major design of the game is done. So around 65% progress can be
+  marked.
+- Target for the entire logic of the game.
+
+Week 5, Sunday, 7/April
+Finished
+- Added the CSS for the right panel of the game
+- Added the event handler validateTheEnteredName to check the input given
+  in right panel
+- Added console.log to the see the comparison result between entered item
+  name and actual name.
+Still working on
+- Add drop handlers and logic to validate mapping.
+Milestone 1 progress
+- Completed around 70% of the target for release 1.
+- Target the mapping logic that constitutes major part of implementation.
+
+Week 6, Monday, 8/April
+Finished
+- Added the addDropAttributes function in app.js
+- Added the event handlers for drop and drag for the item on right hand
+  side and the rooms on the left hand side
+- Added the logic to make item draggable only on giving correct item name
+Still working on
+- Add score details.
+- Handle level transitions.
+Milestone 1 progress
+- About 80% of target is achieved for release 1.
+- Target the score and timer to fill in the gaps.
+
+Week 6, Tuesday, 9/April
+Finished
+- Added the score variable in app.js
+- Handled the score logic on correct mapping of items and rooms
+- Handled the function gameOver in app.js to handle the level transitions
+Still working on
+- Add styles across for the teddy dialogue boxes.
+- Change the dialogue accordingly.
+Milestone 1 progress
+- About 85% of target is achieved for release 1.
+- Target to finsih on timer and dialogue boxes which will leave sounds.
+
+Week 6, Wednesday, 10/April
+Finished
+- Added the style to get the dialogue box for teddy in first two pages.
+- Added the logic to change the logic for dialogue as the correct item name
+  is given.
+Still working on
+- Add the timer function and logic for the same.
+- Add counter to right panel.
+Milestone 1 progress
+- Around 90% of work is done for release one.
+- Target to get the counter displayed and add sounds.
+
+Week 6, Thursday, 11/April
+Finished
+- Added a setTimer function in utilityFunction.js for getting a counter
+- Added the counter to the right panel in game element.
+Still working on
+- Add the logic to vary time as per levels.
+- Add logic for game over scenario based on time.
+Milestone 1 progress
+- About 94% of release 1 target is done.
+- Add the necessary animations and sounds
+
+Week 6, Friday, 12/April
+Finished
+- Added the logic to set time per item as per level.
+- Added animations for teddy and dialog box on time up scenario.
+- Added animation for score going below zero scenarios
+Still working on
+- Add animations for teddy moment.
+- Handle level transition. win/ lost scenario buttons in dialogue box.
+Milestone 1 progress
+- About 96% of release 1 targets have been met.
+- Animations and sounds will complete the release 1.
+
+Week 6, Saturday, 13/April
+Finished
+- Added the logic for animations to be in place on completing all levels.
+- Added the buttons in the dialogue of teddy to resume,traverse to home
+  page as per the scenario of the game.
+Still working on
+- Add the logic to load sounds and logic to toggle the sounds as per scenario
+Milestone 1 progress
+- Almost 98% of release one is completed.
+- Complete the sounds part and release one is good to go.
+
+Week 6,Sunday, 14/April
+Finished
+- Added the function loadSounds() in app.js to load the sounds.
+- Added logic to toggle between sounds as per the win/lose scenario in
+  the game
+Still working on
+- Start with the release two targets.
+Milestone 1 progress
+RELEASE ONE ACHIEVED
+- 100% of release one targets are achieved.
+- Landing, level selection and game pages are implemented with necessary core
+  game logic.
+
+Week 7,Monday, 15/April
+- Started with the release two functionalities
+Finished
+- Added function to create the room selection page
+- Added function to retrieve list of items as per the room selected
+Still working on
+- pagination for room selection page
+- styles for room selection page
+Milestone 2 progress:
+- Around 25% of work is done, need to start with item page as well.
+
+Week 7,Tuesday, 16/April
+Finished
+- Added pagination feature to the room selection page
+- Added necessary stylings for room selection page
+Still working on
+- Create the page for items to be displayed
+- Handle back navigation flow.
+Milestone 2 progress:
+- Around 50% of work is done, need to complete the item page and headers.
+
+Week 7,Wednesday, 17/April
+Finished
+- Added the function to create item display page
+- Handled back navigation from item page to room selection page
+Still working on
+- Stylings for item page
+- Add back flow from room selection page
+Milestone 2 progress
+- Around 75% of work is done, need to add final styles and back flow
+  to successfully complete the release 2 goals.
+
+Week 7,Thursday, 18/April
+Finished
+- Added stylings for the item selection page.
+- Added back flow from room selection page to landing page.
+Still working on
+- Testing the end to end learning scenario flows.
+- Regression testing that includes testing first release deliveries.
+Milestone 2 progress
+- All the goals targeted for release 2 are done. Focus is on testing the app.
+
+Week 7, Friday, 19/April
+Finished
+- A round of regression testing.
+- Got the app tested by various friends and classmates
+- Listed out the bugs and improvements
+Still Working on
+- Things to be improved and fixed as per the testing outcomes:
+  - Handle the screens in mobile portrait flow.
+  - Correct the animation for teddy moment.
+  - Add around 12 levels.
+  - Make game code independent of levels.
+  - Add a manual key pad.
+  - Collect more data for increasing levels.
+  - Add home icon to traverse to landing page from any screen.
+  - Add catchy images in headers for learn, speaker, home and back buttons.
+Milestone 2 progress
+RELEASE TWO ACHIEVED
+- First two milestones are met.
+- A new milestone to build a release with all above fixes
+  in place is targeted
+
+Week 8, Monday, 29/April
+Finished
+ - Collected more images along with licenses for the game.
+ - Added them into items and rooms.js
+ - Modified the level selection section to handle more levels.
+Still working on
+- Collecting images for header icons
+- Portrait mode of landing page.
+Milestone 3 progress
+- Completed 10% of estimated fixes.
+- Completing the header section would be the next target.
+
+Week 8, Tuesday, 30/April
+Finished
+- Collected images for the header section with licenses.
+- Collected sound for button click.
+- Added the header icons which include home, learn button, speaker and
+  back icons.
+- Styled the header in each level with new icons.
+Still working on
+- Adding focus stylings to the buttons to make to look responsive.
+- Portrait mode of landing and level selection page.
+Milestone 3 progress
+- Completed about 20% of the fixes estimated.
+- Need to focus on completing the portrait mode for all screens.
+
+Week 8, Wednesday, 1/May
+Finished
+- Added styles for button focus across the app.
+- Finished portrait view for landing and level selection page.
+Still working on
+- portrait view for learning pages.
+- Manual keypad for the game page.
+Milestone 3 progress
+- Completed about 30% of the fixes estimated.
+- Need to focus on completing the portrait mode for learning and game pages.
+- Manual keypad is also another major change to be taken.
+
+Week 8, Thursday, 2/May
+Finished
+- Completed portrait view for the room selection and item display pages.
+- Added function to create a manual key pad for the game page.
+Still working on
+- Adding 'clear', 'backspace', 'clear' and 'check' functionalities in keypad.
+- Adding styles to key pad.
+Milestone 3 progress
+- Completed about 40% of the fixes estimated.
+- Need to focus on adding necessary functionalities to manual key pad.
+- Work on portrait design and styling of game page.
+
+Week 8, Friday, 3/May
+Finished
+- Added 'clear', 'backspace', 'clear' and 'check' functionalities in keypad.
+- Added styles to keypad.
+- Came up with a portrait design for the game.
+Still working on
+- Portrait design implementation for the game page.
+- Adding more animation to the teddy moment.
+Milestone 3 progress
+- Completed around 50% of the fixes estimated.
+- Need to focus on implementing the portrait design for game page.
+- Also, need to generalize the teddy messages as per the device.
+
+Week 8, Saturday, 4/may
+Finished
+- Implemented the portrait design of game page.
+- Changed the game logic to work on click of room instead of drag and drop
+  for portrait mode.
+Still working on
+- Adding animations to the teddy moment.
+- Adding more stylings to the room selection images.
+Milestone 3 progress
+- Completed around 70% of the fixes estimated.
+- Need to add animations to teddy element.
+- Maintain and add proper messages.
+- Separate game heading to other file.
+
+Week 8, Sunday, 5/May
+Finished
+- Added the animation for teddy movement after level completion/ game won or
+  game lost scenarios.
+- Added a new messages.js file to maintain all the teddy dialogues.
+- Added a separate headings.js to maintain all the game labels.
+Still working on
+- Teddy element styles in various pages especially in mobile screens.
+- Adding more comments for functions.
+- Cleaning the code wherever necessary.
+- More rigorous testing especially on the newly added things.
+Milestone 3 progress
+- Almost 90% of the estimated fixes for release 3 are done.
+- Target to finish all the minor alignment fixes.
+- Also, add proper readme text file with game information.
+- Add proper comments all through the code.
+
+Week 9, Monday, 6/May
+Finished
+- Teddy stylings in various pages.
+- Added a new file config.js to hold the level configurations for the game
+- Started with adding comments for code in gameelements.js
+Still working on
+- Make the level creation change as per configuration in config.js
+- Complete the comments in gameElements.js
+Milestone 3 progress
+- Almost 95% of the estimated fixes for release 3 are done.
+- Target to finish level configurations functionality.
+- Target to finish adding comments to code.
+
+Week 9, Tuesday, 7/May
+Finished
+- Completed the level configuration logic as per the options configured in
+  config.js
+- Finished adding comments in gameelements.js file
+Still working on
+- Complete adding comments in app.js
+- Cleaning and rearranging the code in css to order page specific.
+Milestone 3 progress
+- Almost 98% of the estimated fixes for release 3 are done.
+- Target to complete adding comments in all files and cleaning css file.
+
+Week 9, Wednesday, 8/May
+Finished
+- Completed adding comments in the app.js
+- Completed adding comments in all data and util js files
+Still working on
+- Arranging code in css page specific
+- Start with the readme text file
+Milestone 3 progress
+- Almost 99% of the estimated fixes for releases are done.
+- Target to complete arranging code in CSS files.
+
+Week 9, Thursday, 9/May
+Finished
+- Completed the code cleaning, comments in CSS file.
+- Started with readme text file.
+Still working on
+- Working on readme text file
+- Start on Demonstration video for the game.
+Milestone 3 progress
+RELEASE 3 ACHIEVED
+- All the three milestones planned are met.
+- The game is fully playable now with 12 levels.
+- The code is cleaned, properly indented and comments are in place.
+
+Week 9, Friday, 10/May
+Finished
+- Completed the readme text file.
+- Started with testing app end to end.
+Still working on
+- Regression testing
+- Game demonstration video.
+
+Week 9, Saturday, 11/May
+Finished
+- Testing of the app end to end.
+- Found bug that Nan is coming up in items remaining placeholder.
+Still working on
+- The items remaining Nan bug fix.
+- The video for demonstrating the app.
+
+Week 9,Sunday, 12/May
+Finished
+- The bug about displaying Nan in items remaining placeholder is fixed.
+- Some drafts of the video has been prepared.
+Still working on
+- More takes on video.
+- video editing.
+
+Week 10,Monday, 13/May
+Finished
+- The final recording of video is done.
+- A separate page in game for attributions is added.
+Still working on
+- Edits on the Video.
+
+Week 10,Tuesday, 14/May
+Finished
+- The final recording of video is done.
+THE PROJECT IS COMPLETED

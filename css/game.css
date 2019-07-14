@@ -1,0 +1,1149 @@
+
+
+                /*** Fonts ***/
+
+
+/*
+ Font Families
+*/
+@font-face {
+    font-family: 'sansProRegular';
+    src: url('../fonts/sourcesanspro-regular-webfont.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'sansProSemiBold';
+    src: url('../fonts/sourcesanspro-semibold-webfont.woff') format('woff');
+}
+
+
+                /*** Generic styles ***/
+
+
+/*
+  Applying font to the main body content
+*/
+body {
+  font-family: 'sansProRegular';
+  background-color: rgb(112,142,164);
+  color: rgb(224,224,224);
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+/*
+  Applying styles for the button
+*/
+button {
+  background-color : rgb(41,81,109);
+  color: rgb(224,224,224);
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+/*
+  Styles for the main heading
+*/
+h1 {
+  font-size: 100px;
+  margin: 20px;
+  padding-left: 10%;
+  display: inline-block;
+  width: 77%;
+}
+
+/*
+  Making the buttons greyed when disabled
+*/
+button[disabled = 'true'] {
+  cursor: none;
+  background-color: grey;
+}
+
+/*
+  The main container in the landing page
+*/
+.mainContainer {
+  margin: 10px;
+  padding: 5px;
+  height: 90vh;
+  position: relative;
+}
+
+/*
+  Adding this class hides the element
+*/
+.hide {
+  display: none;
+}
+
+/*
+  Button gihlight on hover styles
+  source : https://codepen.io/FelixRilling/pen/vEKGC
+*/
+button:hover {
+  opacity: 0.9;
+  -webkit-transform: scale(1.1, 1.1);
+  -moz-transform: scale(1.1, 1.1);
+  transform: scale(1.1, 1.1);
+}
+
+/*
+  Button highlight on focus styles for mobile screens
+  source : https://codepen.io/FelixRilling/pen/vEKGC
+*/
+button:focus{
+  opacity: 1;
+  background-color: #063c62;
+}
+
+/*
+  This class when added increses the visibility of the element
+*/
+.focus {
+  opacity: 1 !important;
+}
+
+/*
+  This class ensures a fixed height is achieved and overflow in vertical
+  direction is hidden
+*/
+.fixedHeight {
+  height: 100vh;
+  overflow-y: hidden;
+}
+
+
+                /***  Styles for landing page  ***/
+
+
+/*
+  Styles for the teddy in landing page
+*/
+.teddyLandingPage {
+  width: 20%;
+  position: absolute;
+  top: 25vh;
+  right: 0%;
+}
+
+/*
+  Styles for the teddy container in landing page
+*/
+.teddyLandingPageContainer {
+  width: 50%;
+  display: inline-block;
+  position: relative;
+}
+
+/*
+  Teddy dialogue box position in landing page
+*/
+.landing-dialogue-box {
+  top: 10vh;
+  left: 60%;
+}
+
+/*
+  Styles for landing page header
+*/
+.landingPageHeader {
+  width: 100%;
+  margin-top : 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/*
+  Styles for speaker in the landing page header
+*/
+.landingPageHeader #speaker {
+  float: right;
+}
+
+/*
+  Main game title stylings
+*/
+.mainTitle {
+  display: inline-block;
+  width: 80%;
+  font-size: 15vh;
+  text-align: center;
+}
+
+.ccContainer {
+  width: 5%;
+  display: inline-block;
+  margin: 1%;
+  float:right;
+}
+
+.ccContainer img {
+  width: 80%;
+  cursor: pointer;
+}
+
+.attributionHeader {
+  width: 100%;
+}
+
+.attributionHeading {
+  font-size: 15vh;
+  text-Align: center;
+  width: 80%;
+  display: inline-block;
+}
+.attributionSection {
+  font-size: 5vh;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  margin-top: 5vh;
+  margin-bottom:5vh;
+}
+.attributionText {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+.attributionSection label{
+  font-weight: bold;
+}
+
+
+
+                /***   Styles for level selection page  ***/
+
+
+/*
+  The main conatiner in level selection page
+*/
+.levelOneTitleContainer {
+  width: 50%;
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  margin-top: 10%;
+}
+
+/*
+ Styles for buttons in the level one
+*/
+.levelOneTitleContainer button {
+  height: 10vh;
+  width: 26vw;
+  font-size: 3vh;
+  margin: 10px;
+}
+
+/*
+  Styles for the heading in level selection page
+*/
+.levelSelectionHeading {
+  display: inline-block;
+  width: 72%;
+  text-align: center;
+  font-size: 15vh;
+}
+
+/*
+  Level heading container styles
+*/
+.levelHeading {
+  display: inline-block;
+  width: 70%;
+  text-align: center;
+  font-size: 30px;
+}
+
+/*
+  Level selection section styles
+*/
+.levelSelectionSection {
+  width: 50%;
+  margin-top: 2%;
+  display: inline-block;
+}
+
+/*
+  Level selection sub section styles
+*/
+.levelSelectionSubSection button {
+  display: block;
+  margin-top: 2vh;
+  height: 8vh;
+  width: 15vw;
+  font-size: 3vh;
+}
+
+/*
+  Level selection page teddy styles
+*/
+.teddyLevelSelectionPage {
+  width: 20%;
+  position: absolute;
+  top: 25vh;
+  right: 0%;
+}
+
+/*
+  Teddy container styles in level selection page
+*/
+.teddyLevelSelectionPageContainer {
+  width: 50%;
+  display: inline-block;
+  position: relative;
+  vertical-align: top;
+}
+
+/*
+  Level selection page header styles
+*/
+.levelSelectionHeader {
+  width: 100%;
+}
+
+/*
+  Level selection sub section styles
+*/
+.levelSelectionSubSection {
+  width: 40%;
+  display: inline-block;
+  margin: 5%;
+}
+
+                        /*** Styles for gamepage ***/
+
+
+/*
+  Style for image in left panel
+*/
+.leftPanelImageElement {
+  width: 46%;
+  display: inline-block;
+  padding: 2%;
+  height: 34vh;
+  font-size: 3vh;
+  opacity: 0.7;
+}
+
+/*
+  left panel main conatiner styles
+*/
+.leftPanelContainer {
+  width: 64%;
+  display: inline-block;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  border: black solid 1px;
+  height: auto;
+  position: relative;
+}
+
+/*
+  Right panel main container styles
+*/
+.rightPanelContainer {
+  width: 27%;
+  display: inline-block;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  border: black solid 1px;
+  color: black;
+  background-color: rgb(224,224,224);
+  float: right;
+  height: 75vh;
+  vertical-align: top;
+}
+
+/*
+  Styles for the room names displayedin left panel
+*/
+.leftPanelImageElement label {
+  text-align: center;
+  color: rgba(34,14,28,1);
+}
+
+/*
+  Styles for room images dispalyed in left panel
+*/
+.leftPanelImageElement img {
+  width: 100%;
+  height: 30vh;
+}
+
+/*
+  Question element container styling
+*/
+.questionElement {
+  width: 90%;
+  margin: 5%;
+  background-color: rgba(144,238,194,1);
+  height: 60%;
+}
+
+/*
+  Styles for item image shownin question element
+*/
+.questionElement img {
+  width: 100%;
+  height: 30vh;
+}
+
+/*
+  style to position teddy image in game pages
+*/
+.gameTeddyImage {
+  width: 20%;
+  float: right;
+  height: 10vh;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
+/*
+  style to position teddy content in game pages
+*/
+.gameTeddyElement {
+  height: 25vh;
+  position: relative;
+}
+
+/*
+  Dialogue box for teddy styles for main container
+*/
+.game-dialogue-box {
+  left: 5vw;
+  top: 2vh;
+  color: rgb(224,224,224);
+  width: 60% !important;
+}
+
+/*
+  Generic dialogue box styling
+  source: https://codepen.io/angelagiese/pen/zvKzBG
+*/
+.dialogue-box {
+    background: rgba(31,92,134,1);
+    border: none;
+    padding: 2vh;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(50, 50, 50, 0.25);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(50, 50, 50, 0.25);
+    box-shadow: 0px 0px 10px 0px rgba(50, 50, 50, 0.25);
+    position: relative;
+    opacity: 0.9;
+    width: 30%;
+}
+
+/*
+  Customising to the game page
+*/
+.level-dialogue-box {
+  top: 10vh;
+  left: 60%;
+}
+
+/*
+   Font size for text displayed in the teddy dialogue box
+*/
+.tdialogue-box-text {
+  font-size: 2vh;
+}
+
+/*
+ Getting the feel of dialogue arrow
+ source: https://codepen.io/angelagiese/pen/zvKzBG
+*/
+.triangle-with-shadow {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 16px 10px -17px rgba(0, 0, 0, 0.25);
+    transform: rotate(45deg);
+    position: absolute;
+    right: -40px;
+    bottom: -39px;
+}
+
+/*
+ Getting the feel of dialogue arrow
+ source: https://codepen.io/angelagiese/pen/zvKzBG
+*/
+.triangle-with-shadow:after {
+    content: "";
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: rgba(31,92,134,1);
+    transform: rotate(45deg);
+    top: 75px;
+    left: 25px;
+    -webkit-box-shadow: 10px 1px 10px 0px rgba(50, 50, 50, 0.25);
+    -moz-box-shadow: 10px 1px 10px 0px rgba(50, 50, 50, 0.25);
+    box-shadow: 10px 1px 10px 0px rgba(50, 50, 50, 0.25);
+    opacity: 0.9;
+}
+
+/*
+  Added after the teddy moves to center of the page
+*/
+.moved {
+  bottom: 144px;
+}
+
+/*
+  Styling teddy dialogue that talks about timeover
+  Adding animation to move teddy to center of page
+*/
+.timeOver {
+  animation-name: teddyMoment;
+  animation-duration: 3s;
+  animation-timing-function: ease-in;
+  animation-fill-mode: forwards;
+}
+
+/*
+  Adding animation to increase teddy size as it moves to center of page
+*/
+.teddySize {
+  animation-name: teddySizeIncrease;
+  animation-duration: 3s;
+  animation-timing-function: ease-in;
+  animation-fill-mode: forwards;
+}
+
+/*
+ Increasing font for the text in dialogue box during result descriptions
+*/
+.resultDescription {
+  font-size: 3vh;
+}
+
+/*
+  Style button in result descripton within teddy dialogue box
+*/
+.resetContainer button {
+  margin: 2%;
+  font-size: 2vh;
+}
+
+/*
+  Style button in text descripton within teddy dialogue box
+*/
+.tdialogue-box-text button {
+  background-color: rgb(212,166,106);
+}
+
+/*
+  Style the input box for item name
+*/
+#answerInputElement {
+  width: 90%;
+  margin-left: 5%;
+  border: black solid 1px;
+  border-radius: 5px;
+}
+
+/*
+  Manual keyboard container styles
+*/
+.keyBoardContainer {
+  width: 100%;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  background-color: #90eec2;
+  height: 65vh;
+}
+
+/*
+  Manual keyboard buttons styles
+*/
+.keyBoardContainer button {
+  width: 8%;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  height: 10vh;
+  font-size: 2vh;
+}
+
+/*
+  Left panel container width making it 100 percent
+*/
+.leftPanelRoomsContainer {
+  width: 100%;
+}
+
+/*
+  Manual keyboard last row buttons styles
+*/
+.lastRow button{
+    width: auto !important;
+    padding: 2%;
+}
+
+
+                  /*** Styles for room selection page ***/
+
+
+/*
+  Styles for main container for the room in room selection page
+*/
+.roomContainer {
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+  background-color: rgb(104, 116, 181);
+  font-size: 10vh;
+  cursor: pointer;
+  position: absolute;
+  right: 0;
+  left: 0;
+  width: 60%;
+  top: 20%;
+  height: 75vh;
+}
+
+/*
+  Styles for room image in main container for the room in room selection page
+*/
+.roomContainer img {
+  width: 80%;
+  height: 60vh;
+}
+
+/*
+  Styles for pagination
+*/
+.prevElement, .nextElement {
+  display: inline-block;
+  width: 20%;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  cursor: pointer;
+}
+
+/*
+  Previous icon width
+*/
+.prevElement {
+  left: 5%;
+}
+
+/*
+  Next icon width
+*/
+.nextElement {
+  left: 90%;
+}
+
+/*
+ Styles for button in header of room selection page
+*/
+.roomSelectionHeader button {
+  height: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/*
+  Styles for speaker icon in room selection page header
+*/
+.roomSelectionHeader #speaker {
+  float: right;
+}
+
+
+                /*** Styles for items display page ***/
+
+
+/*
+   Styles for main items container
+*/
+.itemsContainer {
+  margin-left: 5%;
+  margin-right: 5%;
+  height: auto;
+  background-color: #7F80B2;
+}
+
+/*
+   Styles for each item image conatiner
+*/
+.itemImageContainer {
+  width: 23%;
+  margin: 5%;
+  background-color: rgb(73,147,113);
+  text-align: center;
+  display: inline-block;
+  border-radius: 5px;
+  vertical-align: top;
+  font-size: 5vh;
+}
+
+/*
+   Styles for each item image within the conatiner
+*/
+.itemImageContainer img {
+  height: 50vh;
+  width: 100%;
+}
+
+/*
+  Styles for buttons in header of items display page
+*/
+.itemsPageHeader button {
+  height: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/*
+  Styles for speaker icon in header of items display page
+*/
+.itemsPageHeader #speaker {
+  float: right;
+}
+
+
+                  /*** Header icons general style ***/
+
+
+/*
+  Back icon Styles
+*/
+.pageBack {
+  width: 4%;
+  margin-right: 1%;
+}
+
+/*
+  Home page icon styles
+*/
+.homePageIcon {
+  width: 4%;
+  margin-right: 1%;
+}
+
+/*
+  Learn icon Styles
+*/
+.pageLearn {
+  width: 20%;
+  float: right;
+}
+
+/*
+  Time remaining section Styles
+*/
+#timer {
+  float:right;
+  font-weight: bold;
+  font-size: 3vh;
+}
+
+/*
+  Score section Styles
+*/
+#score {
+  float: left;
+  font-weight: bold;
+  font-size: 3vh;
+}
+
+/*
+  Items remaining section Styles
+*/
+#itemsRemaining {
+  float: left;
+  font-size: 3vh;
+  font-weight: bold;
+  display: block;
+  clear: both;
+}
+
+/*
+  Speaker width when on icon is displayed
+*/
+.musicOn {
+  width: 35% !important;
+}
+
+/*
+  Speaker icon styles
+*/
+#speaker {
+  width: 5%;
+  display: inline-block;
+  margin: 1%;
+}
+
+/*
+  Speaker image styles
+*/
+#speaker img {
+  width: 80%;
+  cursor: pointer;
+}
+
+/*
+  back icon container styles
+*/
+.backContainer {
+  display: inline-block;
+  width: 5%;
+  margin: 1%;
+}
+
+/*
+  back icon image styles
+*/
+.backContainer img {
+  width: 80%;
+  cursor: pointer;
+}
+
+/*
+  Home icon container styles
+*/
+.homePageContainer {
+  display: inline-block;
+  width: 5%;
+  margin: 1%;
+}
+
+/*
+  Home icon image styles
+*/
+.homePageContainer img {
+  width: 80%;
+  cursor: pointer;
+}
+
+/*
+  Learn icon container styles
+*/
+.learnContainer {
+  display: inline-block;
+  width: 5%;
+  margin: 1%;
+}
+
+/*
+  Learn icon image styles
+*/
+.learnContainer img {
+  width: 80%;
+  cursor: pointer;
+}
+
+/*
+  Add highlight for all the header icons on hover
+*/
+.headerIcon:hover {
+  -webkit-transform: scale(1.1, 1.1);
+  -moz-transform: scale(1.1, 1.1);
+  transform: scale(1.1, 1.1);
+}
+
+/*
+  Add highlight for all the header icons on focus
+*/
+.headerIcon:focus {
+  -webkit-transform: scale(1.1, 1.1);
+  -moz-transform: scale(1.1, 1.1);
+  transform: scale(1.1, 1.1);
+}
+
+
+            /*** Media queries for responsiveness ***/
+
+
+/*
+  Styles for screens below desktop widths
+*/
+@media screen and (max-width: 1024px) {
+  .moved {
+    right: 15px;
+    bottom: 182px;
+    width: 100% !important;
+  }
+
+  .teddySize {
+    animation-name: teddySizeIncreaseMobile;
+    animation-duration: 5s;
+    animation-timing-function: ease-in;
+    animation-fill-mode: forwards;
+  }
+}
+
+/*
+  Styles for portrait mode in mobile/tablet devices
+*/
+@media screen and (orientation:portrait) {
+  #speaker {
+    width: 8vw !important;
+  }
+
+  .ccContainer img {
+    width: 7vw !important;
+  }
+
+  .ccContainer {
+    width: 7% !important;
+  }
+
+  .backContainer {
+    width: 8vw !important;
+  }
+
+  .homePageContainer {
+    width: 8vw !important;
+  }
+
+  .roomCarouselContainer {
+    width: 100% !important;
+  }
+
+  .levelOneTitleContainer {
+    width: 90vw;
+  }
+  .levelOneTitleContainer button {
+    width: 80%;
+  }
+  .teddyLandingPageContainer {
+    width: 90vw;
+  }
+  .prevElement {
+    top: 40vh;
+    left: 0;
+  }
+  .roomContainer {
+    margin-left: 12vw;
+    margin-right: 12vw;
+    width: 65vw;
+    top: 25vh;
+    font-size: 6vh;
+    height: 50vh;
+  }
+  .roomContainer img {
+    width: 60vw;
+    height: 35vh;
+  }
+  .nextElement {
+    right: 0px;
+    top: 40vh;
+  }
+  .itemImageContainer {
+    width: 90%;
+  }
+  .levelSelectionHeading {
+    font-size: 10vw !important;
+    width: 46vw !important;
+  }
+  .learnContainer {
+    width: 8vw !important;
+  }
+  .levelSelectionHeader {
+    width: 100% !important;
+  }
+  .levelSelectionSection {
+    width: 100% !important;
+  }
+  .levelSelectionSubSection button {
+    width: 90% !important;
+  }
+  .teddyLevelSelectionPageContainer {
+    width: 100% !important;
+  }
+  .level-dialogue-box {
+    top: 0;
+    left: 54%;
+  }
+  .levelHeading {
+    font-size: 10vw !important;
+    width: 46vw !important;
+  }
+  .leftPanelContainer {
+    width: 100%;
+    height: auto;
+  }
+  .leftPanelRoomsContainer  {
+    height: auto;
+  }
+  .keyBoardContainer {
+    height: 40vh !important;
+  }
+  .keyBoardContainer button{
+    height: 6vh !important;
+    margin-top: 1vh !important;
+    margin-bottom: 1vh !important;
+  }
+  .rightPanelContainer {
+    width: 100% !important;
+  }
+  .game-dialogue-box {
+    left: 20vw;
+  }
+  .game-dialogue-box img {
+    left: 92vw;
+    top: 26vh;
+  }
+  .moved {
+    left: 35vw;
+  }
+  .itemsContainer {
+    margin-left: 0;
+    mergin-right: 0;
+  }
+  .mainContainer {
+    height:auto;
+  }
+  .leftPanelContainer {
+    margin-left: 1%;
+    margin-right: 1%;
+  }
+  body {
+    height: auto !important;
+    overflow-y: scroll !important;
+  }
+  .leftPanelRoomsContainer:focus {
+    opacity: 1;
+  }
+  .attributionSection {
+    font-size: 3vh;
+  }
+  .attributionHeading {
+    font-size : 7vh;
+  }
+}
+
+/*
+  Styles for landscape mode in mobile/tablet devices
+*/
+@media screen and (max-height : 400px) {
+  .roomContainer img {
+    width: 70%;
+  }
+
+  h1 {
+    font-size: 60px;
+    margin: 10px;
+  }
+
+  .teddyLandingPage {
+    top: 25vh;
+    right: 0%;
+  }
+
+  .leftPanelContainer {
+    height: auto;
+  }
+}
+
+
+                    /*** Animations ***/
+
+
+/*
+  Animation for teddy movement in game page
+*/
+@keyframes teddyMoment {
+  from{}
+  to{position:relative ; right:40vw;bottom:40vh;}
+  0% {
+    position:relative ;
+    right:25vw;
+    bottom:20vh;
+   }
+
+   50% {
+     position:relative ;
+     right:30vw;
+     bottom:30vh;
+   }
+
+   100% {
+     position:relative ;
+     right:40vw;
+     bottom:40vh;
+   }
+}
+
+/*
+  Animation for teddy size increase in game page for desktop devices
+*/
+@keyframes teddySizeIncrease {
+  0% {
+    width: 4vw;
+    height: 5vh;
+   }
+
+   50% {
+     top: 35vh;
+     width: 6vw;
+     height: 10vh;
+   }
+
+   100% {
+     top: 25vh;
+     width: 8vw;
+     height: 15vh;
+   }
+}
+
+/*
+  Animation for teddy size increase in game page for mobile devices
+*/
+@keyFrames teddySizeIncreaseMobile {
+  0% {
+    width: 4vw;
+    height: 5vh;
+   }
+
+   50% {
+     top: 35vh;
+     width: 6vw;
+     height: 10vh;
+     left: 20vw
+   }
+
+   100% {
+     top: 25vh;
+     width: 8vw;
+     height: 15vh;
+     left: 30vw;
+   }
+}
+
+/*
+  Animation for teddy dialogue box in game page
+*/
+@keyframes teddyDialogueCorrect {
+  0% {
+    background-color:
+   }
+
+   50% {
+     top: 35vh;
+     width: 6vw;
+     height: 10vh;
+     left: 20vw
+   }
+
+   100% {
+     top: 25vh;
+     width: 8vw;
+     height: 15vh;
+     left: 30vw;
+   }
+}

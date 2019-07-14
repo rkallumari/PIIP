@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52.565" height="84.126" version="1.1" viewBox="0 0 52.565319 84.125996" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="mr" x1="5.7139" x2="19.189" y1="-4.666" y2="-7.216" gradientUnits="userSpaceOnUse"><stop stop-color="#6F0B00" offset="0"/><stop stop-color="#FFBFAA" offset=".7843"/><stop stop-color="#FBBBA6" offset=".8275"/><stop stop-color="#EFAE9A" offset=".8706"/><stop stop-color="#DB9A86" offset=".9137"/><stop stop-color="#C07D6A" offset=".9569"/><stop stop-color="#9E5947" offset="1"/></linearGradient><linearGradient id="ms" x1="3.9058" x2="1.5808" y1=".5781" y2="-4.4719" gradientUnits="userSpaceOnUse"><stop stop-color="#BC2000" offset="0"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><linearGradient id="mt" x1="3.7661" x2="6.9161" y1="-3.7427" y2="-5.2927" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" offset="0"/><stop stop-color="#FBF5F5" offset=".0235"/><stop stop-color="#E2BAB9" offset=".1765"/><stop stop-color="#CD8885" offset=".3333"/><stop stop-color="#BB5E5B" offset=".4824"/><stop stop-color="#AD3E3A" offset=".6235"/><stop stop-color="#A42622" offset=".7647"/><stop stop-color="#9E1814" offset=".8902"/><stop stop-color="#9C140F" offset="1"/></linearGradient><linearGradient id="mu" x1="3.8022" x2="1.4772" y1="1.23" y2="-3.82" gradientUnits="userSpaceOnUse"><stop stop-color="#BC2000" offset="0"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><linearGradient id="mv" x1="4.7627" x2="2.4377" y1="-1.1748" y2="-6.2248" gradientUnits="userSpaceOnUse"><stop stop-color="#BC2000" offset="0"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><linearGradient id="mw" x1="3.7476" x2="8.5476" y1="-3.8359" y2="-4.3109" gradientUnits="userSpaceOnUse"><stop stop-color="#94D5E5" offset="0"/><stop stop-color="#96ACB8" offset=".1255"/><stop stop-color="#987E85" offset=".2863"/><stop stop-color="#99585A" offset=".4471"/><stop stop-color="#9A3A39" offset=".6"/><stop stop-color="#9B2522" offset=".7451"/><stop stop-color="#9C1814" offset=".8824"/><stop stop-color="#9C140F" offset="1"/></linearGradient><linearGradient id="mx" x1="5.689" x2="3.364" y1="-1.1016" y2="-6.1766" gradientUnits="userSpaceOnUse"><stop stop-color="#BC2000" offset="0"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><linearGradient id="my" x1="21.816" x2="2.4914" y1="-12.252" y2="-5.7265" gradientUnits="userSpaceOnUse"><stop stop-color="#FF3B1E" offset="0"/><stop stop-color="#E1200C" offset="1"/></linearGradient><linearGradient id="mz" x1=".5376" x2="21.063" y1="-2.8994" y2="-2.9494" gradientUnits="userSpaceOnUse"><stop stop-color="#FF393A" offset="0"/><stop stop-color="#C31A00" offset="1"/></linearGradient><linearGradient id="na" x1="3.4766" x2="8.3266" y1="-3.0981" y2="-3.5731" gradientUnits="userSpaceOnUse"><stop stop-color="#95D7E7" offset="0"/><stop stop-color="#97ACB8" offset=".1294"/><stop stop-color="#987E85" offset=".2902"/><stop stop-color="#99585B" offset=".451"/><stop stop-color="#9A3A3A" offset=".6039"/><stop stop-color="#9B2522" offset=".749"/><stop stop-color="#9C1814" offset=".8824"/><stop stop-color="#9C140F" offset="1"/></linearGradient><linearGradient id="nb" x1="38.657" x2="20.207" y1="-36.921" y2="-21.121" gradientUnits="userSpaceOnUse"><stop stop-color="#FF7C71" offset="0"/><stop stop-color="#FD7167" offset=".0706"/><stop stop-color="#FA514A" offset=".3294"/><stop stop-color="#F73934" offset=".5765"/><stop stop-color="#F52A27" offset=".8039"/><stop stop-color="#F52523" offset="1"/></linearGradient><linearGradient id="nc" x1="16.823" x2="18.898" y1="-23.99" y2="-16.115" gradientUnits="userSpaceOnUse"><stop stop-color="#FF7B6B" offset="0"/><stop stop-color="#F96C5D" offset=".098"/><stop stop-color="#ED4B3E" offset=".3451"/><stop stop-color="#E53428" offset=".5843"/><stop stop-color="#DF251A" offset=".8078"/><stop stop-color="#DE2016" offset="1"/></linearGradient><linearGradient id="nd" x1=".0752" x2="4.0252" y1="-1.8999" y2="-1.8999" gradientUnits="userSpaceOnUse"><stop stop-color="#231E20" offset="0"/><stop stop-color="#3D393C" offset=".0627"/><stop stop-color="#7F7F82" offset=".1922"/><stop stop-color="#B1B3B7" offset=".2863"/><stop stop-color="#231E20" offset="1"/></linearGradient><linearGradient id="ne" x1="2.4229" x2="1.3479" y1="1.2534" y2="-3.5466" gradientUnits="userSpaceOnUse"><stop stop-color="#FF8B80" offset="0"/><stop stop-color="#FA7E74" offset=".0235"/><stop stop-color="#ED5E55" offset=".102"/><stop stop-color="#E3463E" offset=".1725"/><stop stop-color="#DE3831" offset=".2392"/><stop stop-color="#DC332C" offset=".298"/><stop stop-color="#FFBEB5" offset=".4824"/><stop stop-color="#FEBCB3" offset=".5451"/><stop stop-color="#FCB6AC" offset=".5686"/><stop stop-color="#F7ACA0" offset=".5843"/><stop stop-color="#F19D90" offset=".5961"/><stop stop-color="#E98A79" offset=".6078"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-opacity="0" offset="1"/></linearGradient><linearGradient id="ls" x1="2.4229" x2="1.3479" y1="1.2534" y2="-3.5466" gradientUnits="userSpaceOnUse"><stop stop-opacity="0" offset="0"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#D3563E" offset=".6235"/><stop stop-color="#C53619" offset=".6314"/><stop stop-color="#BC2000" offset=".6392"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><linearGradient id="lt" x1="11.9" x2="33.7" y1="-22.726" y2="-22.651" gradientUnits="userSpaceOnUse"><stop offset="0"/><stop stop-color="#515151" offset=".1686"/><stop stop-color="#fff" offset=".5176"/><stop stop-color="#F6F6F6" offset=".5216"/><stop stop-color="#C8C8C8" offset=".5412"/><stop stop-color="#9D9D9D" offset=".5608"/><stop stop-color="#777" offset=".5843"/><stop stop-color="#575757" offset=".6118"/><stop stop-color="#3B3B3B" offset=".6392"/><stop stop-color="#252525" offset=".6706"/><stop stop-color="#141414" offset=".7098"/><stop stop-color="#090909" offset=".7569"/><stop stop-color="#020202" offset=".8196"/><stop offset="1"/></linearGradient><linearGradient id="a" x1=".0249" x2="3.9749" y1="-1.8999" y2="-1.8999" gradientUnits="userSpaceOnUse"><stop stop-color="#231E20" offset="0"/><stop stop-color="#3D393C" offset=".0627"/><stop stop-color="#7F7F82" offset=".1922"/><stop stop-color="#B1B3B7" offset=".2863"/><stop stop-color="#231E20" offset="1"/></linearGradient><linearGradient id="lu" x1="22.582" x2="17.807" y1="-8.1104" y2="-19.985" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" offset="0"/><stop stop-color="#E6E6E6" offset=".0588"/><stop stop-color="#aaa" offset=".2078"/><stop stop-color="#767676" offset=".3529"/><stop stop-color="#4C4C4C" offset=".498"/><stop stop-color="#2B2B2B" offset=".6392"/><stop stop-color="#131313" offset=".7725"/><stop stop-color="#050505" offset=".8941"/><stop offset="1"/></linearGradient><linearGradient id="lv" x1="11.71" x2="8.6104" y1="-5.5146" y2="-23.79" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" offset="0"/><stop stop-color="#E6E6E6" offset=".0588"/><stop stop-color="#aaa" offset=".2078"/><stop stop-color="#767676" offset=".3529"/><stop stop-color="#4C4C4C" offset=".498"/><stop stop-color="#2B2B2B" offset=".6392"/><stop stop-color="#131313" offset=".7725"/><stop stop-color="#050505" offset=".8941"/><stop offset="1"/></linearGradient><linearGradient id="lw" x1="12.946" x2="9.9958" y1="-10.842" y2="-5.6918" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" offset="0"/><stop stop-color="#E6E6E6" offset=".0588"/><stop stop-color="#aaa" offset=".2078"/><stop stop-color="#767676" offset=".3529"/><stop stop-color="#4C4C4C" offset=".498"/><stop stop-color="#2B2B2B" offset=".6392"/><stop stop-color="#131313" offset=".7725"/><stop stop-color="#050505" offset=".8941"/><stop offset="1"/></linearGradient><linearGradient id="lx" x1="3.9155" x2="2.8405" y1="-1.2578" y2="-6.0328" gradientUnits="userSpaceOnUse"><stop stop-color="#FF8B80" offset="0"/><stop stop-color="#FA7E74" offset=".0235"/><stop stop-color="#ED5E55" offset=".102"/><stop stop-color="#E3463E" offset=".1725"/><stop stop-color="#DE3831" offset=".2392"/><stop stop-color="#DC332C" offset=".298"/><stop stop-color="#FFBEB5" offset=".4824"/><stop stop-color="#FEBCB3" offset=".5451"/><stop stop-color="#FCB6AC" offset=".5686"/><stop stop-color="#F7ACA0" offset=".5843"/><stop stop-color="#F19D90" offset=".5961"/><stop stop-color="#E98A79" offset=".6078"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-opacity="0" offset="1"/></linearGradient><linearGradient id="ly" x1="3.9155" x2="2.8405" y1="-1.2578" y2="-6.0328" gradientUnits="userSpaceOnUse"><stop stop-opacity="0" offset="0"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#D3563E" offset=".6235"/><stop stop-color="#C53619" offset=".6314"/><stop stop-color="#BC2000" offset=".6392"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><linearGradient id="lz" x1="2.3809" x2="1.3059" y1=".9888" y2="-3.7862" gradientUnits="userSpaceOnUse"><stop stop-color="#FF8B80" offset="0"/><stop stop-color="#FA7E74" offset=".0235"/><stop stop-color="#ED5E55" offset=".102"/><stop stop-color="#E3463E" offset=".1725"/><stop stop-color="#DE3831" offset=".2392"/><stop stop-color="#DC332C" offset=".298"/><stop stop-color="#FFBEB5" offset=".4824"/><stop stop-color="#FEBCB3" offset=".5451"/><stop stop-color="#FCB6AC" offset=".5686"/><stop stop-color="#F7ACA0" offset=".5843"/><stop stop-color="#F19D90" offset=".5961"/><stop stop-color="#E98A79" offset=".6078"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-opacity="0" offset="1"/></linearGradient><linearGradient id="ma" x1="2.3809" x2="1.3059" y1=".9888" y2="-3.7862" gradientUnits="userSpaceOnUse"><stop stop-opacity="0" offset="0"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#D3563E" offset=".6235"/><stop stop-color="#C53619" offset=".6314"/><stop stop-color="#BC2000" offset=".6392"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><linearGradient id="mb" x1="2.7363" x2="1.6613" y1="1.2002" y2="-3.5998" gradientUnits="userSpaceOnUse"><stop stop-color="#FF8B80" offset="0"/><stop stop-color="#FA7E74" offset=".0235"/><stop stop-color="#ED5E55" offset=".102"/><stop stop-color="#E3463E" offset=".1725"/><stop stop-color="#DE3831" offset=".2392"/><stop stop-color="#DC332C" offset=".298"/><stop stop-color="#FFBEB5" offset=".4824"/><stop stop-color="#FEBCB3" offset=".5451"/><stop stop-color="#FCB6AC" offset=".5686"/><stop stop-color="#F7ACA0" offset=".5843"/><stop stop-color="#F19D90" offset=".5961"/><stop stop-color="#E98A79" offset=".6078"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-opacity="0" offset="1"/></linearGradient><linearGradient id="mc" x1="2.7363" x2="1.6613" y1="1.2002" y2="-3.5998" gradientUnits="userSpaceOnUse"><stop stop-opacity="0" offset="0"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#D3563E" offset=".6235"/><stop stop-color="#C53619" offset=".6314"/><stop stop-color="#BC2000" offset=".6392"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><radialGradient id="mp" cx="11.05" cy="-14.75" r="31.812" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" offset="0"/><stop stop-color="#F9FCFC" offset=".0431"/><stop stop-color="#D8EEED" offset=".3059"/><stop stop-color="#C1E3E3" offset=".5608"/><stop stop-color="#B3DDDC" offset=".7961"/><stop stop-color="#AEDBDA" offset="1"/></radialGradient><linearGradient id="md" x1="2.457" x2="1.382" y1="1.2954" y2="-3.5046" gradientUnits="userSpaceOnUse"><stop stop-color="#FF8B80" offset="0"/><stop stop-color="#FA7E74" offset=".0235"/><stop stop-color="#ED5E55" offset=".102"/><stop stop-color="#E3463E" offset=".1725"/><stop stop-color="#DE3831" offset=".2392"/><stop stop-color="#DC332C" offset=".298"/><stop stop-color="#FFBEB5" offset=".4824"/><stop stop-color="#FEBCB3" offset=".5451"/><stop stop-color="#FCB6AC" offset=".5686"/><stop stop-color="#F7ACA0" offset=".5843"/><stop stop-color="#F19D90" offset=".5961"/><stop stop-color="#E98A79" offset=".6078"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-opacity="0" offset="1"/></linearGradient><linearGradient id="me" x1="2.457" x2="1.382" y1="1.2954" y2="-3.5046" gradientUnits="userSpaceOnUse"><stop stop-opacity="0" offset="0"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#D3563E" offset=".6235"/><stop stop-color="#C53619" offset=".6314"/><stop stop-color="#BC2000" offset=".6392"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><linearGradient id="mf" x1="3.2915" x2="2.2165" y1="-1.1133" y2="-5.8883" gradientUnits="userSpaceOnUse"><stop stop-color="#FF8B80" offset="0"/><stop stop-color="#FA7E74" offset=".0235"/><stop stop-color="#ED5E55" offset=".102"/><stop stop-color="#E3463E" offset=".1725"/><stop stop-color="#DE3831" offset=".2392"/><stop stop-color="#DC332C" offset=".298"/><stop stop-color="#FFBEB5" offset=".4824"/><stop stop-color="#FEBCB3" offset=".5451"/><stop stop-color="#FCB6AC" offset=".5686"/><stop stop-color="#F7ACA0" offset=".5843"/><stop stop-color="#F19D90" offset=".5961"/><stop stop-color="#E98A79" offset=".6078"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-opacity="0" offset="1"/></linearGradient><linearGradient id="mg" x1="3.2915" x2="2.2165" y1="-1.1133" y2="-5.8883" gradientUnits="userSpaceOnUse"><stop stop-opacity="0" offset="0"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#D3563E" offset=".6235"/><stop stop-color="#C53619" offset=".6314"/><stop stop-color="#BC2000" offset=".6392"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><linearGradient id="mh" x1="26.85" x2="36.95" y1="-24.215" y2="-24.59" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" offset="0"/><stop stop-color="#E6E6E6" offset=".0588"/><stop stop-color="#aaa" offset=".2078"/><stop stop-color="#767676" offset=".3529"/><stop stop-color="#4C4C4C" offset=".498"/><stop stop-color="#2B2B2B" offset=".6392"/><stop stop-color="#131313" offset=".7725"/><stop stop-color="#050505" offset=".8941"/><stop offset="1"/></linearGradient><linearGradient id="mi" x1="3.9028" x2="2.8278" y1="-1.292" y2="-6.092" gradientUnits="userSpaceOnUse"><stop stop-color="#FF8B80" offset="0"/><stop stop-color="#FA7E74" offset=".0235"/><stop stop-color="#ED5E55" offset=".102"/><stop stop-color="#E3463E" offset=".1725"/><stop stop-color="#DE3831" offset=".2392"/><stop stop-color="#DC332C" offset=".298"/><stop stop-color="#FFBEB5" offset=".4824"/><stop stop-color="#FEBCB3" offset=".5451"/><stop stop-color="#FCB6AC" offset=".5686"/><stop stop-color="#F7ACA0" offset=".5843"/><stop stop-color="#F19D90" offset=".5961"/><stop stop-color="#E98A79" offset=".6078"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-opacity="0" offset="1"/></linearGradient><linearGradient id="mj" x1="3.9028" x2="2.8278" y1="-1.292" y2="-6.092" gradientUnits="userSpaceOnUse"><stop stop-opacity="0" offset="0"/><stop stop-color="#DF725E" stop-opacity="0" offset=".6157"/><stop stop-color="#DF725E" offset=".6157"/><stop stop-color="#D3563E" offset=".6235"/><stop stop-color="#C53619" offset=".6314"/><stop stop-color="#BC2000" offset=".6392"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><linearGradient id="mk" x1="2.9521" x2=".6271" y1="-.7207" y2="-5.7707" gradientUnits="userSpaceOnUse"><stop stop-color="#BC2000" offset="0"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><linearGradient id="ml" x1="3.1758" x2=".8508" y1="-.1309" y2="-5.1809" gradientUnits="userSpaceOnUse"><stop stop-color="#BC2000" offset="0"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><linearGradient id="mm" x1="5.4126" x2="10.463" y1="-5.0249" y2="-7.5249" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" offset="0"/><stop stop-color="#FBF5F5" offset=".0235"/><stop stop-color="#E2BAB9" offset=".1765"/><stop stop-color="#CD8885" offset=".3333"/><stop stop-color="#BB5E5B" offset=".4824"/><stop stop-color="#AD3E3A" offset=".6235"/><stop stop-color="#A42622" offset=".7647"/><stop stop-color="#9E1814" offset=".8902"/><stop stop-color="#9C140F" offset="1"/></linearGradient><linearGradient id="mn" x1="4.8774" x2="2.5524" y1="-2.7319" y2="-7.7819" gradientUnits="userSpaceOnUse"><stop stop-color="#BC2000" offset="0"/><stop stop-color="#FF8B7E" offset="1"/></linearGradient><radialGradient id="mq" cx="59.35" cy="-28.55" r="46.57" gradientTransform="matrix(1 0 0 -1 0 -57.1)" gradientUnits="userSpaceOnUse"><stop stop-color="#C9EEE7" stop-opacity="0" offset="0"/><stop stop-color="#BFE7E0" stop-opacity=".0784" offset=".0941"/><stop stop-color="#A3D5CF" stop-opacity=".298" offset=".2549"/><stop stop-color="#75B7B2" stop-opacity=".6471" offset=".4667"/><stop stop-color="#499996" offset=".651"/></radialGradient><linearGradient id="mo" x1="16163" x2="16219" y1="-53.88" y2="-53.88" gradientTransform="matrix(1.7929e-5 1 -1 -.001 .8545 -16219)" gradientUnits="userSpaceOnUse"><stop stop-color="#E5B9B2" offset=".1294"/><stop stop-color="#fff" offset=".9255"/></linearGradient><radialGradient id="yi" cx="59.425" cy="-59.325" r="59.375" gradientTransform="matrix(1 0 0 -1 0 -118.65)" gradientUnits="userSpaceOnUse"><stop stop-color="#C9EEE7" offset="0"/><stop stop-color="#BFE7E0" offset=".0863"/><stop stop-color="#A3D5CF" offset=".2392"/><stop stop-color="#75B7B2" offset=".4353"/><stop stop-color="#499996" offset=".6078"/><stop stop-color="#4A9996" offset=".8039"/><stop stop-color="#519996" offset=".8745"/><stop stop-color="#5D9A96" offset=".9255"/><stop stop-color="#6D9A96" offset=".9686"/><stop stop-color="#819B96" offset="1"/></radialGradient></defs>
+<symbol id="nf" transform="translate(-59.258 -59.925)" viewBox="0 -10.85 19.45 10.85">
+		<defs>
+			<polygon id="tv" points="18.5 -3.35 1.15 -3.35 1.15 -7.5 18.5 -7.5"/>
+		</defs>
+		<clipPath id="wd">
+			<use width="172" height="172.35001" xlink:href="#tv"/>
+		</clipPath>
+		<g clip-path="url(#wd)">
+				<use transform="translate(59.258 59.925)" y="-10.85" width="19.450001" height="10.85" xlink:href="#ng"/>
+		</g>
+</symbol>
+<symbol id="ng" transform="translate(-59.258 -59.925)" viewBox="0 -10.85 19.45 10.85">
+		<defs>
+			<path id="wm" d="m14.95-4c-2.233 0.433-4 0.65-5.3 0.65-2.2 0.033-4.167-0.133-5.9-0.5-1.567-0.3-2.417-0.65-2.55-1.05-0.2-0.633 0.55-1.217 2.25-1.75s3.733-0.817 6.1-0.85c2.3-0.033 4.367 0.183 6.2 0.65 1.733 0.467 2.65 1 2.75 1.6 0.067 0.4-1.117 0.817-3.55 1.25z"/>
+		</defs>
+		<clipPath id="wu">
+			<use width="172" height="172.35001" xlink:href="#wm"/>
+		</clipPath>
+		<g clip-path="url(#wu)">
+			<polygon points="0 -7.45 1.4 0 19.45 -3.4 18.05 -10.85" fill="url(#mr)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="nh" transform="translate(-59.258 -59.925)" viewBox="0 -45.4 38.8 45.4">
+		<defs>
+			<polygon id="xi" points="38.65 -0.15 0.15 -0.15 0.15 -45.25 38.65 -45.25"/>
+		</defs>
+		<clipPath id="xr">
+			<use width="172" height="172.35001" xlink:href="#xi"/>
+		</clipPath>
+		<g clip-path="url(#xr)">
+				<use transform="translate(59.258 59.925)" y="-45.400002" width="38.799999" height="45.400002" xlink:href="#no"/>
+		</g>
+</symbol>
+<symbol id="ni" transform="translate(-59.258 -59.925)" viewBox="0 -8.4 9.4 8.4">
+		<defs>
+			<polygon id="ya" points="7.85 -2.95 1.1 -2.95 1.1 -5.5 7.85 -5.5"/>
+		</defs>
+		<clipPath id="yh">
+			<use width="172" height="172.35001" xlink:href="#ya"/>
+		</clipPath>
+		<g clip-path="url(#yh)">
+				<use transform="translate(59.258 59.925)" y="-8.3999996" width="9.3999996" height="8.3999996" xlink:href="#nj"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -4.9 5 4.9">
+		<defs>
+			<path id="re" d="m3.3-3.1c-0.333-0.233-0.567-0.35-0.7-0.35l0.7 0.85 0.55 0.9c0.1 0.267 0.083 0.417-0.05 0.45-0.133 0-0.383-0.1-0.75-0.3-0.2-0.1-0.466-0.267-0.8-0.5l0.45 0.8c0.067 0.067 0.05 0.117-0.05 0.15l-0.2-0.1-1.25-1.05-0.1-0.15c-0.033-0.067-0.017-0.133 0.05-0.2 0.1 0 0.317 0.15 0.65 0.45l-0.4-0.5-0.3-0.5c-0.033-0.133 0-0.217 0.1-0.25 0.367 0.4 0.75 0.75 1.15 1.05 0.367 0.3 0.783 0.533 1.25 0.7l-1.3-1.85c-0.067-0.167-0.017-0.25 0.15-0.25 0.1-0.033 0.35 0.05 0.75 0.25s0.633 0.383 0.7 0.55c0.033 0.1 0.017 0.167-0.05 0.2l-0.55-0.35z"/>
+		</defs>
+		<clipPath id="rk">
+			<use width="172" height="172.35001" xlink:href="#re"/>
+		</clipPath>
+		<g clip-path="url(#rk)">
+			<polygon points="1.55 0 5 -1.6 3.45 -4.9 0 -3.35" fill="url(#ms)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="nj" transform="translate(-59.258 -59.925)" viewBox="0 -8.4 9.4 8.4">
+		<defs>
+			<path id="rz" d="m7.75-4.5c-1.833 0.533-3.733 1.017-5.7 1.45-0.3 0.067-0.5 0.083-0.6 0.05-0.067-0.067-0.133-0.233-0.2-0.5-0.01-0.101-0.019-0.176-0.025-0.225 1.353-0.561 3.078-1.152 5.175-1.775 1.3 0.567 1.75 0.9 1.35 1z"/>
+		</defs>
+		<clipPath id="si">
+			<use width="172" height="172.35001" xlink:href="#rz"/>
+		</clipPath>
+		<g clip-path="url(#si)">
+			<polygon points="0 -5 2.45 0 9.4 -3.4 6.9 -8.4" fill="url(#mt)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -4.5 4.4 4.5">
+		<defs>
+			<path id="sy" d="m3.25-2.5-0.9-0.55-0.6-0.15c-0.233 0.1-0.283 0.333-0.15 0.7l0.05 0.15c0.434 0.1 0.717 0.2 0.85 0.3 0.367 0.167 0.617 0.4 0.75 0.7 0.1 0.267 0.017 0.433-0.25 0.5h-0.1c-0.233 0-0.517-0.167-0.85-0.5-0.333-0.4-0.567-0.75-0.7-1.05-0.3-0.667-0.217-1.05 0.25-1.15 0.4-0.067 0.917 0.15 1.55 0.65l0.15 0.15v0.15l-0.05 0.1zm-0.9 1.05c0.267 0.167 0.45 0.233 0.55 0.2l0.05-0.1c-0.034-0.1-0.2-0.233-0.5-0.4l-0.55-0.2 0.45 0.5z"/>
+		</defs>
+		<clipPath id="tg">
+			<use width="172" height="172.35001" xlink:href="#sy"/>
+		</clipPath>
+		<g clip-path="url(#tg)">
+			<polygon points="1.45 0 4.4 -1.35 2.95 -4.5 0 -3.15" fill="url(#mu)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="nk" transform="translate(-59.258 -59.925)" viewBox="0 -7.9 9.8 7.9">
+		<defs>
+			<polygon id="tu" points="9.15 -0.85 0.6 -0.85 0.6 -7.05 9.15 -7.05"/>
+		</defs>
+		<clipPath id="ue">
+			<use width="172" height="172.35001" xlink:href="#tu"/>
+		</clipPath>
+		<g clip-path="url(#ue)">
+				<use transform="translate(59.258 59.925)" y="-7.9000001" width="9.8000002" height="7.9000001" xlink:href="#nl"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -7.4 7.2 7.4">
+		<defs>
+			<path id="un" d="m5.35-1.4h-0.05c-0.3 0-0.75-0.383-1.35-1.15-0.333-0.333-0.767-0.9-1.3-1.7l-0.75-0.6c-0.067-0.133-0.033-0.2 0.1-0.2l0.1 0.05-0.25-0.45c-0.1-0.333-0.05-0.5 0.15-0.5 0.1-0.033 0.35 0.05 0.75 0.25s0.633 0.383 0.7 0.55v0.1l-0.1 0.1-0.55-0.35c-0.4-0.233-0.617-0.333-0.65-0.3v0.1l0.65 1.05c1.433 1.067 2.283 1.95 2.55 2.65 0.1 0.233 0.1 0.367 0 0.4zm-0.8-1.1c-0.3-0.333-0.65-0.667-1.05-1l1.6 1.75c-0.133-0.267-0.317-0.517-0.55-0.75z"/>
+		</defs>
+		<clipPath id="uw">
+			<use width="172" height="172.35001" xlink:href="#un"/>
+		</clipPath>
+		<g clip-path="url(#uw)">
+			<polygon points="2.4 0 7.2 -2.2 4.8 -7.4 0 -5.2" fill="url(#mv)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="nl" transform="translate(-59.258 -59.925)" viewBox="0 -7.9 9.8 7.9">
+		<defs>
+			<path id="vi" d="m8.35-2.15-7.3 1.3-0.45-5.2 4.4-0.6c1.7-0.233 2.917-0.367 3.65-0.4 0.367 0.1 0.533 0.617 0.5 1.55s-0.3 2.05-0.8 3.35z"/>
+		</defs>
+		<clipPath id="vq">
+			<use width="172" height="172.35001" xlink:href="#vi"/>
+		</clipPath>
+		<g clip-path="url(#vq)">
+			<polygon points="0 -7 0.7 0 9.8 -0.9 9.1 -7.9" fill="url(#mw)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -8.5 8.5 8.5">
+		<defs>
+			<path id="wa" d="m6.55-2.25c-0.067 0.233-0.217 0.35-0.45 0.35l-0.15 0.05c-0.434 0-0.883-0.283-1.35-0.85-1.733-2.033-2.65-3.15-2.75-3.35 0-0.1 0.033-0.15 0.1-0.15l0.15 0.05 2.7 3.25c0.167 0.2 0.35 0.367 0.55 0.5s0.4 0.183 0.6 0.15c0.4-0.067 0.483-0.317 0.25-0.75-0.1-0.267-0.283-0.483-0.55-0.65l-0.7-0.3c-0.233-0.033-0.383-0.117-0.45-0.25-0.033-0.167 0-0.3 0.1-0.4l0.35-0.35c0.1-0.167 0.1-0.367 0-0.6-0.133-0.367-0.367-0.6-0.7-0.7-0.1-0.033-0.367-0.017-0.8 0.05l-0.65 0.2c-0.2 0.067-0.333 0.017-0.4-0.15-0.033-0.1 0.05-0.2 0.25-0.3l0.45-0.1c0.467-0.1 0.85-0.117 1.15-0.05 0.433 0.1 0.767 0.417 1 0.95 0.233 0.633 0.1 1.083-0.4 1.35 0.833 0.167 1.383 0.583 1.65 1.25 0.133 0.267 0.15 0.533 0.05 0.8z"/>
+		</defs>
+		<clipPath id="wc">
+			<use width="172" height="172.35001" xlink:href="#wa"/>
+		</clipPath>
+		<g clip-path="url(#wc)">
+			<polygon points="2.65 0 8.5 -2.7 5.8 -8.5 0 -5.8" fill="url(#mx)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="nm" transform="translate(-59.258 -59.925)" viewBox="-0.063 -6.103 3.363 6.103">
+		<defs>
+			<polygon id="we" points="3.3 0 0 0 0 -6.1 3.3 -6.1"/>
+		</defs>
+		<clipPath id="wf">
+			<use width="172" height="172.35001" xlink:href="#we"/>
+		</clipPath>
+		<g clip-path="url(#wf)">
+			<path d="m3.3 0c-0.2-2.967-0.583-4.767-1.15-5.4-0.4-0.5-0.717-0.733-0.95-0.7-0.267 0.067-0.534 0.4-0.8 1-0.6 1.4-0.617 2.934-0.05 4.6l0.7 0.3c0.433 0.133 1.183 0.2 2.25 0.2z" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -18.6 26.15 18.6">
+		<defs>
+			<path id="wg" d="m22.05-8c-1.667 0.467-3.966 0.75-6.9 0.85l-1.9 0.05c-2.567 0-4.883-0.167-6.95-0.5-2.033-0.333-3.317-0.75-3.85-1.25-0.567-0.566-0.017-1.1 1.65-1.6 1.667-0.466 3.967-0.75 6.9-0.85s5.65 0.017 8.15 0.35c2.467 0.333 3.983 0.784 4.55 1.35 0.567 0.567 0.017 1.1-1.65 1.6z"/>
+		</defs>
+		<clipPath id="wh">
+			<use width="172" height="172.35001" xlink:href="#wg"/>
+		</clipPath>
+		<g clip-path="url(#wh)">
+			<polygon points="26.15 -7.55 22.45 -18.6 0 -11.05 3.7 0" fill="url(#my)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="nn" transform="translate(-59.258 -59.925)" viewBox="-0.032 -4.168 3.06 4.193">
+		<defs>
+			<polygon id="wi" points="3 0 0 0 0 -4.15 3 -4.15"/>
+		</defs>
+		<clipPath id="wj">
+			<use width="172" height="172.35001" xlink:href="#wi"/>
+		</clipPath>
+		<g clip-path="url(#wj)">
+			<path d="m2.05 0c1-1.2 1.233-2.133 0.7-2.8-0.6-0.7-0.983-1.1-1.15-1.2-0.367-0.267-0.717-0.217-1.05 0.15-0.533 0.533-0.7 1.2-0.5 2 0.1 0.367 0.25 0.7 0.45 1 0 0.1 0.217 0.3 0.65 0.6 0.267 0.167 0.433 0.25 0.5 0.25 0.067 0.033 0.2 0.033 0.4 0z" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -5.85 21.8 5.85">
+		<defs>
+			<path id="wk" d="m21.7-0.35c-0.367 0.133-0.967 0.15-1.8 0.05-0.2-0.034-1.05-0.167-2.55-0.4-1.867-0.333-3.317-0.483-4.35-0.45-0.767 0.033-2.417 0.217-4.95 0.55-2.367 0.3-4.117 0.45-5.25 0.45-1.1 0-2-0.133-2.7-0.4l-0.1-2.35c0.033-0.533 0.8-1.067 2.3-1.6 1.8-0.633 4.017-1 6.65-1.1 2.966-0.1 5.667 0.033 8.1 0.4 2.434 0.4 4 0.934 4.7 1.6 0.033 0.033 0.017 1.117-0.05 3.25z"/>
+		</defs>
+		<clipPath id="wl">
+			<use width="172" height="172.35001" xlink:href="#wk"/>
+		</clipPath>
+		<g clip-path="url(#wl)">
+			<polygon points="0 -5.8 0 0 21.8 -0.05 21.8 -5.85" fill="url(#mz)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -6.45 9.55 6.45">
+		<defs>
+			<path id="wn" d="m8.05-2.9h-0.9c-2.566 0.566-4.6 1.25-6.1 2.05l-0.25-0.25-0.35-2.3c0.8-0.4 2.066-0.85 3.8-1.35l2.85-0.85c1.3 0.167 1.933 0.717 1.9 1.65-0.033 0.567-0.35 0.917-0.95 1.05z"/>
+		</defs>
+		<clipPath id="wo">
+			<use width="172" height="172.35001" xlink:href="#wn"/>
+		</clipPath>
+		<g clip-path="url(#wo)">
+			<polygon points="0 -5.55 0.55 0 9.55 -0.9 9 -6.45" fill="url(#na)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -55.5 55.95 55.5">
+		<defs>
+			<path id="wp" d="m49.1-26.65c-0.2 0.1-1.65 0.367-4.35 0.8l-15.9 2.05-2.15 0.05c-1.434 0-3.083-0.117-4.95-0.35-2.233-0.333-3.933-0.583-5.1-0.75l-8.75-1.2c-1.967-0.333-2.85-0.684-2.65-1.05s1.667-0.783 4.4-1.25l17.25-2.7c2.367-0.367 4.4-0.5 6.1-0.4 1.333 0.034 2.983 0.267 4.95 0.7l9.05 2.5c2.2 0.733 2.9 1.267 2.1 1.6z"/>
+		</defs>
+		<clipPath id="wq">
+			<use width="172" height="172.35001" xlink:href="#wp"/>
+		</clipPath>
+		<g clip-path="url(#wq)">
+			<polygon points="0 -28.4 24.25 0 55.95 -27.15 31.65 -55.5" fill="url(#nb)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -34.3 37.25 34.3">
+		<defs>
+			<path id="wr" d="m30.3-11.85-1.45 2c-2.667 1.1-5.533 2.184-8.6 3.25l-4.25-0.45-2.85 0.1c-1-1.2-1.967-3.517-2.9-6.95-0.3-1.133-0.583-2.367-0.85-3.7-0.3-0.867-1.033-1.583-2.2-2.15-0.867-0.433-1.534-0.65-2-0.65 4.066-2 9.367-3.817 15.9-5.45 3.267-0.8 6.117-1.4 8.55-1.8 0.4 0.133 0.8 0.433 1.2 0.9 0.767 0.967 1.133 2.317 1.1 4.05-0.133 4.9-0.683 8.517-1.65 10.85z"/>
+		</defs>
+		<clipPath id="ws">
+			<use width="172" height="172.35001" xlink:href="#wr"/>
+		</clipPath>
+		<g clip-path="url(#ws)">
+			<polygon points="30.3 -34.3 0 -26.3 6.95 0 37.25 -8" fill="url(#nc)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -3.8 4.05 3.8">
+		<defs>
+			<path id="wt" d="m0 0 0.7-2.9c0.167-0.533 0.617-0.817 1.35-0.85 1.033-0.033 1.617 0.25 1.75 0.85l0.25 2.6-4.05 0.3z"/>
+		</defs>
+		<clipPath id="wv">
+			<use width="172" height="172.35001" xlink:href="#wt"/>
+		</clipPath>
+		<g clip-path="url(#wv)">
+			<polygon points="0 -3.8 0 0 4.05 0 4.05 -3.8" fill="url(#nd)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -3.75 3.45 3.75">
+		<defs>
+			<path id="ww" d="m2.8-2.15-0.35-0.15-0.6-0.4c-0.267-0.1-0.467-0.133-0.6-0.1-0.267 0.066-0.3 0.283-0.1 0.65l0.05 0.15 0.85 0.35c0.367 0.167 0.6 0.383 0.7 0.65 0.1 0.3 0.033 0.467-0.2 0.5l-0.1 0.05c-0.167 0-0.45-0.167-0.85-0.5-0.333-0.367-0.583-0.717-0.75-1.05-0.233-0.667-0.15-1.05 0.25-1.15 0.367-0.1 0.9 0.1 1.6 0.6l0.15 0.2v0.15l-0.05 0.05zm-0.9 1.05c0.167 0.167 0.333 0.25 0.5 0.25 0.1 0 0.117-0.033 0.05-0.1-0.067-0.167-0.217-0.3-0.45-0.4l-0.6-0.25 0.5 0.5z"/>
+		</defs>
+		<clipPath id="wx">
+			<use width="172" height="172.35001" xlink:href="#ww"/>
+		</clipPath>
+		<g clip-path="url(#wx)">
+			<g fill-rule="evenodd">
+				<polygon points="0.7 0 3.45 -0.6 2.75 -3.75 0 -3.1" fill="url(#ne)"/>
+				<polygon points="0.7 0 3.45 -0.6 2.75 -3.75 0 -3.1" fill="url(#ls)"/>
+			</g>
+		</g>
+</symbol>
+<symbol id="no" transform="translate(-59.258 -59.925)" viewBox="0 -45.4 38.8 45.4">
+		<defs>
+			<path id="wy" d="m19.4-1.2-19.25 1.05c0.167-2.2 0.483-4.967 0.95-8.3 0.933-6.7 2.2-12.867 3.8-18.5 1.133-3.966 2.483-7.8 4.05-11.5 0.767-1.833 1.45-3.333 2.05-4.5 0.133-0.6 1.033-1.133 2.7-1.6 1.733-0.467 3.75-0.7 6.05-0.7 2.6 0 4.717 0.25 6.35 0.75 1.5 0.433 2.283 0.95 2.35 1.55 1.867 4.4 3.667 9.733 5.4 16 1.6 5.633 2.883 11.8 3.85 18.5 0.466 3.333 0.783 6.1 0.95 8.3l-19.25-1.05z"/>
+		</defs>
+		<clipPath id="wz">
+			<use width="172" height="172.35001" xlink:href="#wy"/>
+		</clipPath>
+		<g clip-path="url(#wz)">
+			<polygon points="0.15 -45.4 0 -0.15 38.65 0 38.8 -45.25" fill="url(#lt)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -3.8 4.05 3.8">
+		<defs>
+			<path id="xa" d="m0 0 0.7-2.85c0.167-0.533 0.6-0.817 1.3-0.85 1.033-0.066 1.633 0.217 1.8 0.85l0.25 2.55-4.05 0.3z"/>
+		</defs>
+		<clipPath id="xb">
+			<use width="172" height="172.35001" xlink:href="#xa"/>
+		</clipPath>
+		<g clip-path="url(#xb)">
+			<polygon points="0 -3.8 0 0 4.05 0 4.05 -3.8" fill="url(#a)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -3.8 4 3.8">
+		<defs>
+			<path id="xc" d="m0 0 0.7-2.9c0.133-0.533 0.567-0.817 1.3-0.85 1.033-0.033 1.633 0.25 1.8 0.85l0.2 2.6-4 0.3z"/>
+		</defs>
+		<clipPath id="xd">
+			<use width="172" height="172.35001" xlink:href="#xc"/>
+		</clipPath>
+		<g clip-path="url(#xd)">
+			<polygon points="0 -3.8 0 0 4 0 4 -3.8" fill="url(#a)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="np" transform="translate(-59.258 -59.925)" viewBox="0 -39.55 35.75 39.55">
+		<defs>
+			<polygon id="xe" points="25 -5.5 10.15 -5.5 10.15 -33.5 25 -33.5"/>
+		</defs>
+		<clipPath id="xf">
+			<use width="172" height="172.35001" xlink:href="#xe"/>
+		</clipPath>
+		<g clip-path="url(#xf)">
+				<use transform="translate(59.258 59.925)" y="-39.549999" width="35.75" height="39.549999" xlink:href="#nq"/>
+		</g>
+</symbol>
+<symbol id="nq" transform="translate(-59.258 -59.925)" viewBox="0 -39.55 35.75 39.55">
+		<defs>
+			<path id="xg" d="m24.95-9.9c-0.267 1.967-1.167 3.133-2.7 3.5l-4.9 0.9c-0.4-0.033-0.8-0.1-1.2-0.2-0.8-0.2-1.25-0.417-1.35-0.65-0.466-1.3-0.5-2.533-0.1-3.7 0.2-0.6 0.45-1.05 0.75-1.35l1.9-0.1c1.4-0.233 2.383-0.667 2.95-1.3 0.4-0.467 0.633-0.983 0.7-1.55 0.067-0.566-0.083-1.05-0.45-1.45-0.3-0.333-0.433-0.583-0.4-0.75 0.2-0.667 0.3-1.1 0.3-1.3 0.033-0.5-0.167-0.967-0.6-1.4-0.3-0.367-0.35-0.733-0.15-1.1 0.333-0.6 0.466-1.1 0.4-1.5-0.067-0.367-0.333-0.783-0.8-1.25-0.267-0.267-0.333-0.75-0.2-1.45 0.1-0.7-0.033-1.267-0.4-1.7-0.333-0.367-0.45-0.817-0.35-1.35 0.066-0.467-0.15-0.95-0.65-1.45-0.567-0.567-1.15-0.867-1.75-0.9-0.333 0-0.867 0.117-1.6 0.35l-2.3 0.85-0.8-0.25c-0.533-0.367-0.9-0.983-1.1-1.85-0.133-0.6 0.017-1.066 0.45-1.4 0.2-0.167 0.417-0.267 0.65-0.3l1.9-0.65c1.467-0.367 2.717-0.4 3.75-0.1 1.6 0.466 2.85 1.566 3.75 3.3 0.934 1.767 1.95 5.067 3.05 9.9 1.1 4.667 1.517 8.067 1.25 10.2z"/>
+		</defs>
+		<clipPath id="xh">
+			<use width="172" height="172.35001" xlink:href="#xg"/>
+		</clipPath>
+		<g clip-path="url(#xh)">
+			<polygon points="12.1 0 35.75 -9.45 23.7 -39.55 0 -30.05" fill="url(#lu)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="nr" transform="translate(-59.258 -59.925)" viewBox="0 -30.9 20.05 30.9">
+		<defs>
+			<polygon id="xj" points="14.65 -1.8 4.5 -1.8 4.5 -29.05 14.65 -29.05"/>
+		</defs>
+		<clipPath id="xk">
+			<use width="172" height="172.35001" xlink:href="#xj"/>
+		</clipPath>
+		<g clip-path="url(#xk)">
+				<use transform="translate(59.258 59.925)" y="-30.9" width="20.049999" height="30.9" xlink:href="#ns"/>
+		</g>
+</symbol>
+<symbol id="ns" transform="translate(-59.258 -59.925)" viewBox="0 -30.9 20.05 30.9">
+		<defs>
+			<path id="xl" d="m14.6-6.2c-0.267 1.967-1.167 3.133-2.7 3.5-2 0.433-3.633 0.733-4.9 0.9-1.467-0.167-2.3-0.433-2.5-0.8 1.833-0.133 3.7-0.433 5.6-0.9 2.4-0.6 3.517-2.367 3.35-5.3-0.1-3.034-0.617-6.55-1.55-10.55-1.133-5-2.5-8.233-4.1-9.7 1.167 0.633 2.15 1.867 2.95 3.7 0.733 1.767 1.6 4.75 2.6 8.95 1.1 4.667 1.517 8.067 1.25 10.2z"/>
+		</defs>
+		<clipPath id="xm">
+			<use width="172" height="172.35001" xlink:href="#xl"/>
+		</clipPath>
+		<g clip-path="url(#xm)">
+			<polygon points="4.8 0 20.05 -2.6 15.25 -30.9 0 -28.3" fill="url(#lv)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="nt" transform="translate(-59.258 -59.925)" viewBox="0 -36.8 34.55 36.8">
+		<defs>
+			<polygon id="xn" points="21.9 -4.75 11.75 -4.75 11.75 -32 21.9 -32"/>
+		</defs>
+		<clipPath id="xo">
+			<use width="172" height="172.35001" xlink:href="#xn"/>
+		</clipPath>
+		<g clip-path="url(#xo)">
+				<use transform="translate(59.258 59.925)" y="-36.799999" width="34.549999" height="36.799999" xlink:href="#nu"/>
+		</g>
+</symbol>
+<symbol id="nu" transform="translate(-59.258 -59.925)" viewBox="0 -36.8 34.55 36.8">
+		<defs>
+			<path id="xp" d="m21.85-9.15c-0.267 1.967-1.167 3.133-2.7 3.5l-4.9 0.9c-0.367-0.033-0.75-0.1-1.15-0.2-0.767-0.167-1.217-0.367-1.35-0.6 1.833-0.133 3.7-0.434 5.6-0.9 2.4-0.6 3.517-2.367 3.35-5.3-0.1-3.033-0.617-6.55-1.55-10.55-1.133-5-2.5-8.233-4.1-9.7 1.167 0.633 2.15 1.867 2.95 3.7 0.733 1.767 1.6 4.75 2.6 8.95 1.1 4.667 1.517 8.067 1.25 10.2z"/>
+		</defs>
+		<clipPath id="xq">
+			<use width="172" height="172.35001" xlink:href="#xp"/>
+		</clipPath>
+		<g clip-path="url(#xq)">
+			<polygon points="34.55 -25.3 14.45 -36.8 0 -11.5 20.1 0" fill="url(#lw)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="nv" transform="translate(-59.258 -59.925)" viewBox="0 -23.45 4.25 23.45">
+		<defs>
+			<polygon id="xs" points="4.25 0 0 0 0 -23.45 4.25 -23.45"/>
+		</defs>
+		<clipPath id="xt">
+			<use width="172" height="172.35001" xlink:href="#xs"/>
+		</clipPath>
+		<g clip-path="url(#xt)">
+			<path d="m4.25-0.45-1.15-12.8c-0.4-4.533-0.767-7.933-1.1-10.2 1.167 11.767 1.533 18.6 1.1 20.5-0.267 1.267-0.867 2.133-1.8 2.6-0.297 0.148-0.58 0.249-0.85 0.3l2.45-0.25c0.567-0.033 1.017-0.083 1.35-0.15z" fill="#f2f2f2" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="nw" transform="translate(-59.258 -59.925)" viewBox="-0.051 -21.55 9.151 21.585">
+		<defs>
+			<polygon id="xu" points="9.1 0 0 0 0 -21.55 9.1 -21.55"/>
+		</defs>
+		<clipPath id="xv">
+			<use width="172" height="172.35001" xlink:href="#xu"/>
+		</clipPath>
+		<g clip-path="url(#xv)">
+			<path d="m9.1-1.75c-1.333-4.167-1.934-9.3-1.8-15.4 0.034-2.133-0.017-3.417-0.15-3.85-0.2-0.7-0.75-0.7-1.65 0-1.733 1.367-3.183 4.933-4.35 10.7-1.033 5-1.4 8.433-1.1 10.3 0.033 0.133 1.55-0.117 4.55-0.75 1.5-0.333 3-0.667 4.5-1z" fill="#fff" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -6.65 6.9 6.65">
+		<defs>
+			<path id="xw" d="m5.8-1.05h-0.1c-0.167 0-0.383-0.117-0.65-0.35l-1.35-1.75c-0.1 0.167-0.233 0.25-0.4 0.25-0.333 0.1-0.717-0.017-1.15-0.35-0.4-0.3-0.7-0.7-0.9-1.2-0.267-0.567-0.217-0.883 0.15-0.95 0.267-0.067 0.6 0.05 1 0.35-0.1-0.333-0.083-0.517 0.05-0.55 0.2 0 0.466 0.1 0.8 0.3 0.433 0.2 0.667 0.367 0.7 0.5l0.05 0.15-0.1 0.05-0.55-0.35-0.65-0.3c-0.067 0-0.067 0.033 0 0.1 0.067 0.233 0.2 0.45 0.4 0.65l1.8 1.7c0.434 0.5 0.733 0.933 0.9 1.3 0.167 0.3 0.167 0.45 0 0.45zm-3-3.3c-0.133-0.167-0.333-0.317-0.6-0.45-0.267-0.167-0.467-0.25-0.6-0.25h-0.05c-0.133 0.033-0.133 0.25 0 0.65 0.167 0.333 0.417 0.633 0.75 0.9 0.333 0.2 0.617 0.283 0.85 0.25 0.167-0.067 0.267-0.15 0.3-0.25l-0.65-0.85zm2.75 2.85c-0.1-0.3-0.667-0.933-1.7-1.9 0.967 1.367 1.533 2.05 1.7 2.05v-0.15z"/>
+		</defs>
+		<clipPath id="xx">
+			<use width="172" height="172.35001" xlink:href="#xw"/>
+		</clipPath>
+		<g clip-path="url(#xx)">
+			<g fill-rule="evenodd">
+				<polygon points="1.2 0 6.9 -1.25 5.7 -6.65 0 -5.4" fill="url(#lx)"/>
+				<polygon points="1.2 0 6.9 -1.25 5.7 -6.65 0 -5.4" fill="url(#ly)"/>
+			</g>
+		</g>
+</symbol>
+<symbol id="nx" transform="translate(-59.258 -59.925)" viewBox="0 -45.1 38.5 45.1">
+		<defs>
+			<polygon id="xy" points="38.5 0 0 0 0 -45.1 38.5 -45.1"/>
+		</defs>
+		<clipPath id="xz">
+			<use width="172" height="172.35001" xlink:href="#xy"/>
+		</clipPath>
+		<g clip-path="url(#xz)">
+				<use transform="translate(59.258 59.925)" y="-45.099998" width="38.5" height="45.099998" xlink:href="#nz"/>
+		</g>
+</symbol>
+<symbol id="ny" transform="translate(-59.258 -59.925)" viewBox="0 -5.5 20.6 5.5">
+		<defs>
+			<polygon id="yb" points="20.6 0 0 0 0 -5.5 20.6 -5.5"/>
+		</defs>
+		<clipPath id="yc">
+			<use width="172" height="172.35001" xlink:href="#yb"/>
+		</clipPath>
+		<g clip-path="url(#yc)">
+			<path d="m0.3-0.15c0.067 0 0.583 0.05 1.55 0.15l-0.3-4.35c-0.6 0.233-1.117 0.483-1.55 0.75l0.3 3.45zm12.15-5.25-0.2 4.3-2.15 0.15 0.05-4.55-2.4 0.05 0.15 4.45-2.1 0.5-0.25-4.75c-0.667 0.1-1.4 0.233-2.2 0.4l0.3 4.75c0.867-0.066 2.367-0.233 4.5-0.5 1.9-0.233 3.25-0.367 4.05-0.4 0.966-0.067 1.983 0.017 3.05 0.25l-0.7-0.35 0.2-4.1-2.3-0.2zm6.1 0.85-1.9-0.4-0.2 4.4 2.5 0.4-0.5-0.35 0.1-4.05zm1.9 4.45 0.15-3.65-0.85-0.4-0.15 4.05h0.85z" fill="#fff" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -3.85 3.45 3.85">
+		<defs>
+			<path id="yd" d="m2.1-2.1c0.433 0.5 0.667 0.783 0.7 0.85 0.034 0.1 0 0.2-0.1 0.3l-0.3 0.15c0.033 0.167 0 0.283-0.1 0.35h-0.05l-0.15-0.05-0.1-0.15c-0.067-0.1-0.067-0.183 0-0.25-0.4-0.4-0.817-0.75-1.25-1.05l-0.1-0.15-0.05-0.15 0.1-0.05c0.033-0.034 0.267 0.133 0.7 0.5 0.367 0.267 0.617 0.5 0.75 0.7l0.2-0.15 0.1-0.05-0.7-0.8c-0.333-0.333-0.533-0.6-0.6-0.8-0.1-0.233-0.066-0.383 0.1-0.45l0.3 0.05 0.5 0.2c0.467 0.267 0.717 0.45 0.75 0.55v0.15l-0.1 0.05-0.55-0.35-0.65-0.3c-0.1 0-0.117 0.033-0.05 0.1l0.65 0.8z"/>
+		</defs>
+		<clipPath id="ye">
+			<use width="172" height="172.35001" xlink:href="#yd"/>
+		</clipPath>
+		<g clip-path="url(#ye)">
+			<g fill-rule="evenodd">
+				<polygon points="0.7 0 3.45 -0.6 2.75 -3.85 0 -3.2" fill="url(#lz)"/>
+				<polygon points="0.7 0 3.45 -0.6 2.75 -3.85 0 -3.2" fill="url(#ma)"/>
+			</g>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -3.95 4.05 3.95">
+		<defs>
+			<path id="yf" d="m3.4-2.3-0.55-0.35-0.7-0.3 0.35 0.4 0.9 1.3c0.1 0.267 0.083 0.417-0.05 0.45s-0.383-0.067-0.75-0.3l-0.8-0.45 0.45 0.75c0.067 0.1 0.05 0.15-0.05 0.15l-0.2-0.1-1.25-1.05-0.1-0.1c-0.067-0.133-0.05-0.2 0.05-0.2 0.066 0 0.283 0.133 0.65 0.4l-0.7-0.95c-0.066-0.167-0.033-0.267 0.1-0.3 0.333 0.434 0.717 0.8 1.15 1.1 0.233 0.2 0.65 0.434 1.25 0.7-0.167-0.333-0.4-0.667-0.7-1l-0.6-0.85c-0.033-0.167 0.017-0.267 0.15-0.3 0.167 0 0.417 0.083 0.75 0.25 0.433 0.267 0.667 0.45 0.7 0.55 0.033 0.133 0.017 0.2-0.05 0.2z"/>
+		</defs>
+		<clipPath id="yg">
+			<use width="172" height="172.35001" xlink:href="#yf"/>
+		</clipPath>
+		<g clip-path="url(#yg)">
+			<g fill-rule="evenodd">
+				<polygon points="0.7 0 4.05 -0.75 3.35 -3.95 0 -3.2" fill="url(#mb)"/>
+				<polygon points="0.7 0 4.05 -0.75 3.35 -3.95 0 -3.2" fill="url(#mc)"/>
+			</g>
+		</g>
+</symbol>
+<symbol id="nz" transform="translate(-59.258 -59.925)" viewBox="0 -45.1 38.5 45.1">
+		<defs>
+			<path id="qx" d="m19.25-1.05-19.25 1.05c0.167-2.2 0.483-4.967 0.95-8.3 0.933-6.7 2.2-12.867 3.8-18.5 1.133-3.967 2.483-7.8 4.05-11.5 0.767-1.833 1.45-3.333 2.05-4.5 0.133-0.6 1.033-1.133 2.7-1.6 1.733-0.467 3.75-0.7 6.05-0.7 2.6 0 4.717 0.25 6.35 0.75 1.5 0.434 2.283 0.95 2.35 1.55 1.867 4.4 3.667 9.733 5.4 16 1.6 5.633 2.883 11.8 3.85 18.5 0.467 3.333 0.784 6.1 0.95 8.3l-19.25-1.05z"/>
+		</defs>
+		<clipPath id="qy">
+			<use width="172" height="172.35001" xlink:href="#qx"/>
+		</clipPath>
+		<g clip-path="url(#qy)">
+			<polygon points="0 -45.1 0 0 38.5 0 38.5 -45.1" fill="url(#mp)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -3.75 3.5 3.75">
+		<defs>
+			<path id="qz" d="m2.8-2.15-0.35-0.15-0.55-0.4c-0.267-0.1-0.467-0.133-0.6-0.1-0.233 0.033-0.283 0.25-0.15 0.65l0.05 0.15 0.85 0.35c0.3 0.1 0.55 0.317 0.75 0.65 0.1 0.267 0.017 0.433-0.25 0.5l-0.1 0.05c-0.167 0-0.45-0.167-0.85-0.5-0.333-0.4-0.567-0.75-0.7-1.05-0.3-0.667-0.217-1.05 0.25-1.15 0.4-0.1 0.917 0.1 1.55 0.6l0.15 0.2v0.15l-0.05 0.05zm-0.9 1.05c0.2 0.167 0.383 0.25 0.55 0.25l0.05-0.1c-0.133-0.167-0.3-0.3-0.5-0.4l-0.55-0.25c0.033 0.067 0.183 0.233 0.45 0.5z"/>
+		</defs>
+		<clipPath id="ra">
+			<use width="172" height="172.35001" xlink:href="#qz"/>
+		</clipPath>
+		<g clip-path="url(#ra)">
+			<g fill-rule="evenodd">
+				<polygon points="0.7 0 3.5 -0.6 2.8 -3.75 0 -3.1" fill="url(#md)"/>
+				<polygon points="0.7 0 3.5 -0.6 2.8 -3.75 0 -3.1" fill="url(#me)"/>
+			</g>
+		</g>
+</symbol>
+<symbol id="oa" transform="translate(-59.258 -59.925)" viewBox="0 -47.95 41.75 47.95">
+		<defs>
+			<polygon id="rb" points="40.15 -1.45 1.65 -1.45 1.65 -46.55 40.15 -46.55"/>
+		</defs>
+		<clipPath id="rc">
+			<use width="172" height="172.35001" xlink:href="#rb"/>
+		</clipPath>
+		<g clip-path="url(#rc)">
+				<use transform="translate(59.258 59.925)" y="-47.950001" width="41.75" height="47.950001" xlink:href="#ob"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -6.15 5.7 6.15">
+		<defs>
+			<path id="rd" d="m4.6-0.8h-0.1c-0.267 0-0.717-0.367-1.35-1.1l-1.25-1.7-0.75-0.6c-0.033-0.1 0-0.183 0.1-0.25l0.1 0.05-0.25-0.45c-0.1-0.267-0.067-0.433 0.1-0.5 0.2 0 0.466 0.1 0.8 0.3 0.433 0.2 0.667 0.367 0.7 0.5v0.15l-0.1 0.05-0.55-0.35-0.65-0.3v0.15l0.65 1.05c1.367 1 2.217 1.867 2.55 2.6 0.1 0.267 0.1 0.4 0 0.4zm-0.8-1.1-1.05-1 0.8 0.95c0.467 0.5 0.733 0.767 0.8 0.8-0.133-0.267-0.317-0.517-0.55-0.75z"/>
+		</defs>
+		<clipPath id="rf">
+			<use width="172" height="172.35001" xlink:href="#rd"/>
+		</clipPath>
+		<g clip-path="url(#rf)">
+			<g fill-rule="evenodd">
+				<polygon points="1.15 0 5.7 -1 4.55 -6.15 0 -5.15" fill="url(#mf)"/>
+				<polygon points="1.15 0 5.7 -1 4.55 -6.15 0 -5.15" fill="url(#mg)"/>
+			</g>
+		</g>
+</symbol>
+<symbol id="ob" transform="translate(-59.258 -59.925)" viewBox="0 -47.95 41.75 47.95">
+		<defs>
+			<path id="rg" d="m20.9-2.5-19.25 1.05c0.167-2.2 0.483-4.966 0.95-8.3 0.933-6.7 2.2-12.867 3.8-18.5 1.133-3.967 2.483-7.8 4.05-11.5 0.767-1.833 1.45-3.333 2.05-4.5 0.133-0.6 1.033-1.133 2.7-1.6 1.733-0.467 3.75-0.7 6.05-0.7 2.6 0 4.717 0.25 6.35 0.75 1.5 0.433 2.283 0.95 2.35 1.55 1.867 4.4 3.667 9.733 5.4 16 1.6 5.633 2.883 11.8 3.85 18.5 0.466 3.333 0.783 6.1 0.95 8.3l-19.25-1.05z"/>
+		</defs>
+		<clipPath id="rh">
+			<use width="172" height="172.35001" xlink:href="#rg"/>
+		</clipPath>
+		<g clip-path="url(#rh)">
+			<polygon points="0 -46.5 1.7 0 41.75 -1.5 40.1 -47.95" fill="url(#mh)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -6.85 6.85 6.85">
+		<defs>
+			<path id="ri" d="m5.75-1.45c-0.067 0.2-0.217 0.333-0.45 0.4h-0.2c-0.434 0-0.867-0.267-1.3-0.8-1.567-1.833-2.483-2.95-2.75-3.35-0.066-0.133-0.033-0.2 0.1-0.2l0.15 0.1 2.7 3.2 0.55 0.55c0.2 0.133 0.4 0.183 0.6 0.15 0.367-0.1 0.45-0.367 0.25-0.8-0.1-0.267-0.283-0.483-0.55-0.65l-0.7-0.25c-0.233-0.1-0.383-0.2-0.45-0.3-0.034-0.1 0-0.233 0.1-0.4l0.35-0.3c0.1-0.167 0.1-0.383 0-0.65-0.167-0.4-0.4-0.617-0.7-0.65-0.233-0.067-0.5-0.05-0.8 0.05l-0.35 0.05-0.3 0.1c-0.2 0.067-0.333 0.017-0.4-0.15-0.067-0.1 0.017-0.183 0.25-0.25l0.45-0.1c0.567-0.1 0.95-0.133 1.15-0.1 0.4 0.1 0.733 0.433 1 1 0.267 0.667 0.133 1.1-0.4 1.3 0.867 0.2 1.417 0.633 1.65 1.3 0.133 0.267 0.15 0.517 0.05 0.75z"/>
+		</defs>
+		<clipPath id="rj">
+			<use width="172" height="172.35001" xlink:href="#ri"/>
+		</clipPath>
+		<g clip-path="url(#rj)">
+			<g fill-rule="evenodd">
+				<polygon points="1.25 0 6.85 -1.25 5.6 -6.85 0 -5.6" fill="url(#mi)"/>
+				<polygon points="1.25 0 6.85 -1.25 5.6 -6.85 0 -5.6" fill="url(#mj)"/>
+			</g>
+		</g>
+</symbol>
+<symbol id="oc" transform="translate(-59.258 -59.925)" viewBox="0 -45.65 39.05 45.65">
+		<defs>
+			<polygon id="rl" points="39.05 0 0 0 0 -45.65 39.05 -45.65"/>
+		</defs>
+		<clipPath id="rm">
+			<use width="172" height="172.35001" xlink:href="#rl"/>
+		</clipPath>
+		<g clip-path="url(#rm)">
+			<path d="m38.5-0.55-18.95-1.1-19 1.1 0.05-0.3 0.9-7.7c0.967-6.833 2.233-13 3.8-18.5 1.8-6.333 3.833-11.65 6.1-15.95l0.05-0.05c0-0.2 0.216-0.417 0.65-0.65 0.533-0.3 1.15-0.533 1.85-0.7 1.667-0.5 3.65-0.75 5.95-0.75 1.767 0 3.467 0.15 5.1 0.45 1.3 0.233 2.233 0.567 2.8 1 0.3 0.2 0.483 0.417 0.55 0.65v0.05c1.867 4.4 3.667 9.717 5.4 15.95 1.467 5.066 2.65 10.583 3.55 16.55 0.567 3.633 0.95 6.85 1.15 9.65l0.05 0.3zm-0.4-8.1c-0.934-6.667-2.217-12.85-3.85-18.55-1.633-5.767-3.433-11.083-5.4-15.95-0.033-0.333-0.283-0.667-0.75-1-0.4-0.3-0.983-0.55-1.75-0.75-1.667-0.5-3.817-0.75-6.45-0.75-1.767 0-3.367 0.133-4.8 0.4-1.533 0.333-2.617 0.7-3.25 1.1-0.5 0.233-0.817 0.55-0.95 0.95-2.3 4.467-4.333 9.8-6.1 16-1.6 5.7-2.883 11.883-3.85 18.55-0.467 3.367-0.783 6.15-0.95 8.35v0.3l19.55-1.1 19.5 1.1v-0.3c-0.133-2.2-0.45-4.983-0.95-8.35z" fill="#fff" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -4.6 4.45 4.6">
+		<defs>
+			<path id="rn" d="m2.6-2.5 0.7 0.85c0.034 0.133 0 0.233-0.1 0.3l-0.3 0.2c0.067 0.2 0.033 0.3-0.1 0.3h-0.05l-0.15-0.05-0.1-0.15c-0.033-0.1-0.033-0.184 0-0.25-0.4-0.4-0.817-0.75-1.25-1.05l-0.1-0.1-0.05-0.15 0.1-0.1c0.1 0 0.333 0.184 0.7 0.55 0.367 0.267 0.617 0.5 0.75 0.7l0.2-0.15 0.1-0.05c-0.033-0.067-0.267-0.35-0.7-0.85-0.333-0.367-0.533-0.617-0.6-0.75-0.1-0.3-0.066-0.45 0.1-0.45 0.033-0.033 0.133-0.017 0.3 0.05l0.5 0.2c0.434 0.2 0.684 0.367 0.75 0.5v0.15l-0.1 0.1-0.55-0.35c-0.4-0.233-0.617-0.333-0.65-0.3-0.067 0-0.083 0.017-0.05 0.05 0 0.033 0.217 0.3 0.65 0.8z"/>
+		</defs>
+		<clipPath id="ro">
+			<use width="172" height="172.35001" xlink:href="#rn"/>
+		</clipPath>
+		<g clip-path="url(#ro)">
+			<polygon points="1.5 0 4.45 -1.35 2.95 -4.6 0 -3.25" fill="url(#mk)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="od" transform="translate(-59.258 -59.925)" viewBox="0 -11.3 13.45 11.3">
+		<defs>
+			<polygon id="rp" points="12.2 -4.9 0.9 -4.9 0.9 -6.55 12.2 -6.55"/>
+		</defs>
+		<clipPath id="rq">
+			<use width="172" height="172.35001" xlink:href="#rp"/>
+		</clipPath>
+		<g clip-path="url(#rq)">
+				<use transform="translate(59.258 59.925)" y="-11.3" width="13.45" height="11.3" xlink:href="#oe"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -4.5 4.4 4.5">
+		<defs>
+			<path id="rr" d="m3.25-2.5c-0.1 0-0.217-0.067-0.35-0.2-0.2-0.167-0.4-0.283-0.6-0.35-0.2-0.1-0.4-0.15-0.6-0.15-0.267 0.067-0.3 0.3-0.1 0.7l0.05 0.15 0.85 0.3c0.4 0.233 0.633 0.466 0.7 0.7 0.1 0.267 0.033 0.433-0.2 0.5h-0.1c-0.233 0-0.517-0.167-0.85-0.5-0.333-0.367-0.583-0.717-0.75-1.05-0.267-0.667-0.183-1.05 0.25-1.15 0.4-0.034 0.934 0.183 1.6 0.65l0.15 0.15v0.15l-0.05 0.1zm-0.9 1.05c0.233 0.167 0.4 0.233 0.5 0.2 0.1 0 0.117-0.033 0.05-0.1-0.033-0.1-0.183-0.233-0.45-0.4l-0.6-0.2 0.5 0.5z"/>
+		</defs>
+		<clipPath id="rs">
+			<use width="172" height="172.35001" xlink:href="#rr"/>
+		</clipPath>
+		<g clip-path="url(#rs)">
+			<polygon points="1.45 0 4.4 -1.35 2.9 -4.5 0 -3.15" fill="url(#ml)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="oe" transform="translate(-59.258 -59.925)" viewBox="0 -11.3 13.45 11.3">
+		<defs>
+			<path id="rt" d="m12.15-6.05c-0.5 0.1-1.517 0.267-3.05 0.5-1.9 0.267-3.467 0.433-4.7 0.5-0.9 0.033-1.75 0.083-2.55 0.15-0.333 0-0.583-0.067-0.75-0.2-0.167-0.167-0.217-0.267-0.15-0.3 0.1-0.033 0.5-0.067 1.2-0.1 0.967-0.067 3.133-0.417 6.5-1.05 2.733 0.233 3.9 0.4 3.5 0.5z"/>
+		</defs>
+		<clipPath id="ru">
+			<use width="172" height="172.35001" xlink:href="#rt"/>
+		</clipPath>
+		<g clip-path="url(#ru)">
+			<polygon points="0 -6.2 3.05 0 13.45 -5.15 10.4 -11.3" fill="url(#mm)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -8.35 8.45 8.35">
+		<defs>
+			<path id="rv" d="m6.55-1.85h-0.1c-0.067 0-0.284-0.117-0.65-0.35l-1.35-1.75c-0.133 0.133-0.267 0.217-0.4 0.25-0.367 0.067-0.75-0.05-1.15-0.35-0.4-0.367-0.7-0.783-0.9-1.25-0.233-0.533-0.183-0.85 0.15-0.95 0.233-0.033 0.583 0.1 1.05 0.4-0.167-0.367-0.167-0.55 0-0.55 0.1-0.067 0.367 0.017 0.8 0.25 0.4 0.2 0.633 0.383 0.7 0.55l0.05 0.1-0.1 0.1-0.55-0.35c-0.333-0.233-0.55-0.333-0.65-0.3-0.034 0-0.034 0.033 0 0.1 0.033 0.133 0.167 0.35 0.4 0.65l1.8 1.7c0.467 0.5 0.767 0.917 0.9 1.25 0.133 0.3 0.133 0.467 0 0.5zm-3-3.35-0.6-0.45c-0.233-0.133-0.434-0.2-0.6-0.2h-0.05c-0.167 0-0.167 0.217 0 0.65 0.133 0.3 0.383 0.583 0.75 0.85 0.267 0.233 0.55 0.317 0.85 0.25 0.133 0 0.233-0.066 0.3-0.2l-0.65-0.9zm2.75 2.85c-0.167-0.4-0.733-1.033-1.7-1.9 1 1.4 1.566 2.083 1.7 2.05v-0.15z"/>
+		</defs>
+		<clipPath id="rw">
+			<use width="172" height="172.35001" xlink:href="#rv"/>
+		</clipPath>
+		<g clip-path="url(#rw)">
+			<polygon points="2.6 0 8.45 -2.65 5.8 -8.35 0 -5.65" fill="url(#mn)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -10 5 10">
+			<image transform="scale(1,-1)" width="5" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAmUlEQVQImSXKOw6CQBRA0TvzZkAm JARjYoy7dA0uwNKG5dkYGhJFmA/Pgvoc82hr/eRCEMvtGw2AnXPhVHv62jH0QQHcuamYYmZcN4JY AMz94LTzQuuFOW94a7DXUAHwmiOfVBBjcFMsbKpcmh3HJWEAhj7ouCSKKsfa4wCmmOkqR+uF9y/u E+DZNTquiSB2nwBdJXhraL3wBzfcN/gZh9MzAAAAAElFTkSuQmCC">
+		</image>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -47.95 41.75 47.95">
+				<use transform="translate(59.258 59.925)" y="-47.950001" width="41.75" height="47.950001" xlink:href="#oa"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -5.5 20.6 5.5">
+				<use transform="translate(59.258 59.925)" y="-5.5" width="20.6" height="5.5" xlink:href="#ny"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -61.294 110.05 61.294">
+				<use transform="translate(59.258 59.925)" y="-55.75" width="110.05" height="55.75" enable-background="new" opacity=".1094" xlink:href="#og"/>
+				<use transform="translate(59.258 59.925)" y="-61.293999" width="110.05" height="61.293999" enable-background="new" opacity=".0898" xlink:href="#of"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -8.4 9.4 8.4">
+				<use transform="translate(59.258 59.925)" y="-8.3999996" width="9.3999996" height="8.3999996" xlink:href="#ni"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="-0.051 -21.55 9.151 21.585">
+				<use transform="translate(59.258 59.925)" x="-0.050999999" y="-21.549999" width="9.151" height="21.584999" xlink:href="#nw"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -45.1 38.5 45.1">
+				<use transform="translate(59.258 59.925)" y="-45.099998" width="38.5" height="45.099998" xlink:href="#nx"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -11.3 13.45 11.3">
+				<use transform="translate(59.258 59.925)" y="-11.3" width="13.45" height="11.3" xlink:href="#od"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -23.45 4.25 23.45">
+				<use transform="translate(59.258 59.925)" y="-23.450001" width="4.25" height="23.450001" xlink:href="#nv"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -45.4 38.8 45.4">
+				<use transform="translate(59.258 59.925)" y="-45.400002" width="38.799999" height="45.400002" xlink:href="#nh"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -36.8 34.55 36.8">
+				<use transform="translate(59.258 59.925)" y="-36.799999" width="34.549999" height="36.799999" xlink:href="#nt"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -10.85 19.45 10.85">
+				<use transform="translate(59.258 59.925)" y="-10.85" width="19.450001" height="10.85" xlink:href="#nf"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -30.9 20.05 30.9">
+				<use transform="translate(59.258 59.925)" y="-30.9" width="20.049999" height="30.9" xlink:href="#nr"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -45.65 39.05 45.65">
+				<use transform="translate(59.258 59.925)" y="-45.650002" width="39.049999" height="45.650002" xlink:href="#oc"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -39.55 35.75 39.55">
+				<use transform="translate(59.258 59.925)" y="-39.549999" width="35.75" height="39.549999" xlink:href="#np"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -7.9 9.8 7.9">
+				<use transform="translate(59.258 59.925)" y="-7.9000001" width="9.8000002" height="7.9000001" xlink:href="#nk"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -7 8 7">
+			<image transform="scale(1,-1)" width="8" height="7" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAYAAAA1WQxeAAAASklEQVQImWNgoBjsnj37/wdljf9f tfT+v8zM+R/k4fwfWZ7xtoXdf5UnTxgYfv9iYPj3j4GBgYHhExsbAwMbOwP//ZuMlDuBIAAAafUX EY+yqfoAAAAASUVORK5CYII=">
+		</image>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="-0.032 -4.168 3.06 4.193">
+				<use transform="translate(59.258 59.925)" x="-0.032000002" y="-4.1680002" width="3.0599999" height="4.1929998" xlink:href="#nn"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="-0.063 -6.103 3.363 6.103">
+				<use transform="translate(59.258 59.925)" x="-0.063000001" y="-6.1030002" width="3.3629999" height="6.1030002" xlink:href="#nm"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -57.1 118.7 57.1">
+		<path d="m95.5-30.35c10.7 7.7 18.25 17.733 22.65 30.1l0.55 0.25c-0.6-15.9-6.63-29.383-18.1-40.45-11.5-11.1-25.267-16.65-41.3-16.65-15.733 0-29.316 5.367-40.75 16.1-11.367 10.667-17.55 23.767-18.55 39.3 4.6-11.966 12.183-21.65 22.75-29.05 10.8-7.567 22.817-11.35 36.05-11.35 13.533 0 25.767 3.917 36.7 11.75z" fill="url(#mq)" fill-rule="evenodd"/>
+</symbol>
+<symbol id="of" transform="translate(-59.258 -59.925)" viewBox="0 -61.294 110.05 61.294">
+		<path d="m106.5-34.35c2.367-5.633 3.55-10.95 3.55-15.95 0-4.934-1.45-8.05-4.35-9.35-2.333-1.033-6.25-1.017-11.75 0.05-7.267 1.767-13.1 3.117-17.5 4.05-8 1.7-15.133 2.55-21.4 2.55-6.333 0-13.483-0.917-21.45-2.75-8.333-2.2-14.15-3.683-17.45-4.45-5.566-1.267-9.5-1.433-11.8-0.5-2.9 1.2-4.35 4.267-4.35 9.2 0 5.5 1.167 11.167 3.5 17 2.5 6.167 5.983 11.733 10.45 16.7 10.733 11.867 24.433 17.8 41.1 17.8 16.434 0 30.1-5.983 41-17.95 4.467-4.933 7.95-10.4 10.45-16.4z" fill="#fff" fill-rule="evenodd"/>
+</symbol>
+<symbol id="og" transform="translate(-59.258 -59.925)" viewBox="0 -55.75 110.05 55.75">
+		<path d="m96.05-17.95c4.467-4.933 7.95-10.4 10.45-16.4 2.367-5.633 3.55-10.95 3.55-15.95 0-1.6-0.167-3.067-0.5-4.4-1.867 11.034-7.267 20.85-16.2 29.45-10.533 10.133-23.3 15.2-38.3 15.2-15.267 0-28.117-5.05-38.55-15.15-8.967-8.7-14.317-18.883-16.05-30.55-0.3 1.133-0.45 2.55-0.45 4.25 0 5.5 1.167 11.167 3.5 17 2.5 6.167 5.983 11.733 10.45 16.7 10.733 11.867 24.433 17.8 41.1 17.8 16.433 0 30.1-5.983 41-17.95z" fill="url(#mo)" fill-rule="evenodd"/>
+</symbol>
+<symbol id="oh" transform="translate(-59.258 -59.925)" viewBox="0 -10.85 19.45 10.85">
+		<defs>
+			<polygon id="rx" points="18.5 -3.35 1.15 -3.35 1.15 -7.5 18.5 -7.5"/>
+		</defs>
+		<clipPath id="ry">
+			<use width="172" height="172.35001" xlink:href="#rx"/>
+		</clipPath>
+		<g clip-path="url(#ry)">
+				<use transform="translate(59.258 59.925)" y="-10.85" width="19.450001" height="10.85" xlink:href="#oi"/>
+		</g>
+</symbol>
+<symbol id="oi" transform="translate(-59.258 -59.925)" viewBox="0 -10.85 19.45 10.85">
+		<defs>
+			<path id="sa" d="m14.95-4c-2.233 0.433-4 0.65-5.3 0.65-2.2 0.033-4.167-0.133-5.9-0.5-1.567-0.3-2.417-0.65-2.55-1.05-0.2-0.633 0.55-1.217 2.25-1.75s3.733-0.817 6.1-0.85c2.3-0.033 4.367 0.183 6.2 0.65 1.733 0.467 2.65 1 2.75 1.6 0.067 0.4-1.117 0.817-3.55 1.25z"/>
+		</defs>
+		<clipPath id="sb">
+			<use width="172" height="172.35001" xlink:href="#sa"/>
+		</clipPath>
+		<g clip-path="url(#sb)">
+			<polygon points="0 -7.45 1.4 0 19.45 -3.4 18.05 -10.85" fill="url(#mr)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="oj" transform="translate(-59.258 -59.925)" viewBox="0 -45.4 38.8 45.4">
+		<defs>
+			<polygon id="sc" points="38.65 -0.15 0.15 -0.15 0.15 -45.25 38.65 -45.25"/>
+		</defs>
+		<clipPath id="sd">
+			<use width="172" height="172.35001" xlink:href="#sc"/>
+		</clipPath>
+		<g clip-path="url(#sd)">
+				<use transform="translate(59.258 59.925)" y="-45.400002" width="38.799999" height="45.400002" xlink:href="#pb"/>
+		</g>
+</symbol>
+<symbol id="ok" transform="translate(-59.258 -59.925)" viewBox="0 -8.4 9.4 8.4">
+		<defs>
+			<polygon id="se" points="7.85 -2.95 1.1 -2.95 1.1 -5.5 7.85 -5.5"/>
+		</defs>
+		<clipPath id="sf">
+			<use width="172" height="172.35001" xlink:href="#se"/>
+		</clipPath>
+		<g clip-path="url(#sf)">
+				<use transform="translate(59.258 59.925)" y="-8.3999996" width="9.3999996" height="8.3999996" xlink:href="#om"/>
+		</g>
+</symbol>
+<symbol id="ol" transform="translate(-59.258 -59.925)" viewBox="0 -4.9 5 4.9">
+		<defs>
+			<path id="sg" d="m3.3-3.1c-0.333-0.233-0.567-0.35-0.7-0.35l0.7 0.85 0.55 0.9c0.1 0.267 0.083 0.417-0.05 0.45-0.133 0-0.383-0.1-0.75-0.3-0.2-0.1-0.466-0.267-0.8-0.5l0.45 0.8c0.067 0.067 0.05 0.117-0.05 0.15l-0.2-0.1-1.25-1.05-0.1-0.15c-0.033-0.067-0.017-0.133 0.05-0.2 0.1 0 0.317 0.15 0.65 0.45l-0.4-0.5-0.3-0.5c-0.033-0.133 0-0.217 0.1-0.25 0.367 0.4 0.75 0.75 1.15 1.05 0.367 0.3 0.783 0.533 1.25 0.7l-1.3-1.85c-0.067-0.167-0.017-0.25 0.15-0.25 0.1-0.033 0.35 0.05 0.75 0.25s0.633 0.383 0.7 0.55c0.033 0.1 0.017 0.167-0.05 0.2l-0.55-0.35z"/>
+		</defs>
+		<clipPath id="sh">
+			<use width="172" height="172.35001" xlink:href="#sg"/>
+		</clipPath>
+		<g clip-path="url(#sh)">
+			<polygon points="1.55 0 5 -1.6 3.45 -4.9 0 -3.35" fill="url(#ms)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="om" transform="translate(-59.258 -59.925)" viewBox="0 -8.4 9.4 8.4">
+		<defs>
+			<path id="sj" d="m7.75-4.5c-1.833 0.533-3.733 1.017-5.7 1.45-0.3 0.067-0.5 0.083-0.6 0.05-0.067-0.067-0.133-0.233-0.2-0.5-0.01-0.101-0.019-0.176-0.025-0.225 1.353-0.561 3.078-1.152 5.175-1.775 1.3 0.567 1.75 0.9 1.35 1z"/>
+		</defs>
+		<clipPath id="sk">
+			<use width="172" height="172.35001" xlink:href="#sj"/>
+		</clipPath>
+		<g clip-path="url(#sk)">
+			<polygon points="0 -5 2.45 0 9.4 -3.4 6.9 -8.4" fill="url(#mt)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="on" transform="translate(-59.258 -59.925)" viewBox="0 -4.5 4.4 4.5">
+		<defs>
+			<path id="sl" d="m3.25-2.5-0.9-0.55-0.6-0.15c-0.233 0.1-0.283 0.333-0.15 0.7l0.05 0.15c0.434 0.1 0.717 0.2 0.85 0.3 0.367 0.167 0.617 0.4 0.75 0.7 0.1 0.267 0.017 0.433-0.25 0.5h-0.1c-0.233 0-0.517-0.167-0.85-0.5-0.333-0.4-0.567-0.75-0.7-1.05-0.3-0.667-0.217-1.05 0.25-1.15 0.4-0.067 0.917 0.15 1.55 0.65l0.15 0.15v0.15l-0.05 0.1zm-0.9 1.05c0.267 0.167 0.45 0.233 0.55 0.2l0.05-0.1c-0.034-0.1-0.2-0.233-0.5-0.4l-0.55-0.2 0.45 0.5z"/>
+		</defs>
+		<clipPath id="sm">
+			<use width="172" height="172.35001" xlink:href="#sl"/>
+		</clipPath>
+		<g clip-path="url(#sm)">
+			<polygon points="1.45 0 4.4 -1.35 2.95 -4.5 0 -3.15" fill="url(#mu)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="oo" transform="translate(-59.258 -59.925)" viewBox="0 -7.9 9.8 7.9">
+		<defs>
+			<polygon id="sn" points="9.15 -0.85 0.6 -0.85 0.6 -7.05 9.15 -7.05"/>
+		</defs>
+		<clipPath id="so">
+			<use width="172" height="172.35001" xlink:href="#sn"/>
+		</clipPath>
+		<g clip-path="url(#so)">
+				<use transform="translate(59.258 59.925)" y="-7.9000001" width="9.8000002" height="7.9000001" xlink:href="#oq"/>
+		</g>
+</symbol>
+<symbol id="op" transform="translate(-59.258 -59.925)" viewBox="0 -7.4 7.2 7.4">
+		<defs>
+			<path id="sp" d="m5.35-1.4h-0.05c-0.3 0-0.75-0.383-1.35-1.15-0.333-0.333-0.767-0.9-1.3-1.7l-0.75-0.6c-0.067-0.133-0.033-0.2 0.1-0.2l0.1 0.05-0.25-0.45c-0.1-0.333-0.05-0.5 0.15-0.5 0.1-0.033 0.35 0.05 0.75 0.25s0.633 0.383 0.7 0.55v0.1l-0.1 0.1-0.55-0.35c-0.4-0.233-0.617-0.333-0.65-0.3v0.1l0.65 1.05c1.433 1.067 2.283 1.95 2.55 2.65 0.1 0.233 0.1 0.367 0 0.4zm-0.8-1.1c-0.3-0.333-0.65-0.667-1.05-1l1.6 1.75c-0.133-0.267-0.317-0.517-0.55-0.75z"/>
+		</defs>
+		<clipPath id="sq">
+			<use width="172" height="172.35001" xlink:href="#sp"/>
+		</clipPath>
+		<g clip-path="url(#sq)">
+			<polygon points="2.4 0 7.2 -2.2 4.8 -7.4 0 -5.2" fill="url(#mv)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="oq" transform="translate(-59.258 -59.925)" viewBox="0 -7.9 9.8 7.9">
+		<defs>
+			<path id="sr" d="m8.35-2.15-7.3 1.3-0.45-5.2 4.4-0.6c1.7-0.233 2.917-0.367 3.65-0.4 0.367 0.1 0.533 0.617 0.5 1.55s-0.3 2.05-0.8 3.35z"/>
+		</defs>
+		<clipPath id="ss">
+			<use width="172" height="172.35001" xlink:href="#sr"/>
+		</clipPath>
+		<g clip-path="url(#ss)">
+			<polygon points="0 -7 0.7 0 9.8 -0.9 9.1 -7.9" fill="url(#mw)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="or" transform="translate(-59.258 -59.925)" viewBox="0 -8.5 8.5 8.5">
+		<defs>
+			<path id="st" d="m6.55-2.25c-0.067 0.233-0.217 0.35-0.45 0.35l-0.15 0.05c-0.434 0-0.883-0.283-1.35-0.85-1.733-2.033-2.65-3.15-2.75-3.35 0-0.1 0.033-0.15 0.1-0.15l0.15 0.05 2.7 3.25c0.167 0.2 0.35 0.367 0.55 0.5s0.4 0.183 0.6 0.15c0.4-0.067 0.483-0.317 0.25-0.75-0.1-0.267-0.283-0.483-0.55-0.65l-0.7-0.3c-0.233-0.033-0.383-0.117-0.45-0.25-0.033-0.167 0-0.3 0.1-0.4l0.35-0.35c0.1-0.167 0.1-0.367 0-0.6-0.133-0.367-0.367-0.6-0.7-0.7-0.1-0.033-0.367-0.017-0.8 0.05l-0.65 0.2c-0.2 0.067-0.333 0.017-0.4-0.15-0.033-0.1 0.05-0.2 0.25-0.3l0.45-0.1c0.467-0.1 0.85-0.117 1.15-0.05 0.433 0.1 0.767 0.417 1 0.95 0.233 0.633 0.1 1.083-0.4 1.35 0.833 0.167 1.383 0.583 1.65 1.25 0.133 0.267 0.15 0.533 0.05 0.8z"/>
+		</defs>
+		<clipPath id="su">
+			<use width="172" height="172.35001" xlink:href="#st"/>
+		</clipPath>
+		<g clip-path="url(#su)">
+			<polygon points="2.65 0 8.5 -2.7 5.8 -8.5 0 -5.8" fill="url(#mx)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="os" transform="translate(-59.258 -59.925)" viewBox="-0.063 -6.103 3.363 6.103">
+		<defs>
+			<polygon id="sv" points="3.3 0 0 0 0 -6.1 3.3 -6.1"/>
+		</defs>
+		<clipPath id="sw">
+			<use width="172" height="172.35001" xlink:href="#sv"/>
+		</clipPath>
+		<g clip-path="url(#sw)">
+			<path d="m3.3 0c-0.2-2.967-0.583-4.767-1.15-5.4-0.4-0.5-0.717-0.733-0.95-0.7-0.267 0.067-0.534 0.4-0.8 1-0.6 1.4-0.617 2.934-0.05 4.6l0.7 0.3c0.433 0.133 1.183 0.2 2.25 0.2z" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="ot" transform="translate(-59.258 -59.925)" viewBox="0 -18.6 26.15 18.6">
+		<defs>
+			<path id="sx" d="m22.05-8c-1.667 0.467-3.966 0.75-6.9 0.85l-1.9 0.05c-2.567 0-4.883-0.167-6.95-0.5-2.033-0.333-3.317-0.75-3.85-1.25-0.567-0.566-0.017-1.1 1.65-1.6 1.667-0.466 3.967-0.75 6.9-0.85s5.65 0.017 8.15 0.35c2.467 0.333 3.983 0.784 4.55 1.35 0.567 0.567 0.017 1.1-1.65 1.6z"/>
+		</defs>
+		<clipPath id="sz">
+			<use width="172" height="172.35001" xlink:href="#sx"/>
+		</clipPath>
+		<g clip-path="url(#sz)">
+			<polygon points="26.15 -7.55 22.45 -18.6 0 -11.05 3.7 0" fill="url(#my)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="ou" transform="translate(-59.258 -59.925)" viewBox="-0.032 -4.168 3.06 4.193">
+		<defs>
+			<polygon id="ta" points="3 0 0 0 0 -4.15 3 -4.15"/>
+		</defs>
+		<clipPath id="tb">
+			<use width="172" height="172.35001" xlink:href="#ta"/>
+		</clipPath>
+		<g clip-path="url(#tb)">
+			<path d="m2.05 0c1-1.2 1.233-2.133 0.7-2.8-0.6-0.7-0.983-1.1-1.15-1.2-0.367-0.267-0.717-0.217-1.05 0.15-0.533 0.533-0.7 1.2-0.5 2 0.1 0.367 0.25 0.7 0.45 1 0 0.1 0.217 0.3 0.65 0.6 0.267 0.167 0.433 0.25 0.5 0.25 0.067 0.033 0.2 0.033 0.4 0z" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="ov" transform="translate(-59.258 -59.925)" viewBox="0 -5.85 21.8 5.85">
+		<defs>
+			<path id="tc" d="m21.7-0.35c-0.367 0.133-0.967 0.15-1.8 0.05-0.2-0.034-1.05-0.167-2.55-0.4-1.867-0.333-3.317-0.483-4.35-0.45-0.767 0.033-2.417 0.217-4.95 0.55-2.367 0.3-4.117 0.45-5.25 0.45-1.1 0-2-0.133-2.7-0.4l-0.1-2.35c0.033-0.533 0.8-1.067 2.3-1.6 1.8-0.633 4.017-1 6.65-1.1 2.966-0.1 5.667 0.033 8.1 0.4 2.434 0.4 4 0.934 4.7 1.6 0.033 0.033 0.017 1.117-0.05 3.25z"/>
+		</defs>
+		<clipPath id="td">
+			<use width="172" height="172.35001" xlink:href="#tc"/>
+		</clipPath>
+		<g clip-path="url(#td)">
+			<polygon points="0 -5.8 0 0 21.8 -0.05 21.8 -5.85" fill="url(#mz)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="ow" transform="translate(-59.258 -59.925)" viewBox="0 -6.45 9.55 6.45">
+		<defs>
+			<path id="te" d="m8.05-2.9h-0.9c-2.566 0.566-4.6 1.25-6.1 2.05l-0.25-0.25-0.35-2.3c0.8-0.4 2.066-0.85 3.8-1.35l2.85-0.85c1.3 0.167 1.933 0.717 1.9 1.65-0.033 0.567-0.35 0.917-0.95 1.05z"/>
+		</defs>
+		<clipPath id="tf">
+			<use width="172" height="172.35001" xlink:href="#te"/>
+		</clipPath>
+		<g clip-path="url(#tf)">
+			<polygon points="0 -5.55 0.55 0 9.55 -0.9 9 -6.45" fill="url(#na)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="ox" transform="translate(-59.258 -59.925)" viewBox="0 -55.5 55.95 55.5">
+		<defs>
+			<path id="th" d="m49.1-26.65c-0.2 0.1-1.65 0.367-4.35 0.8l-15.9 2.05-2.15 0.05c-1.434 0-3.083-0.117-4.95-0.35-2.233-0.333-3.933-0.583-5.1-0.75l-8.75-1.2c-1.967-0.333-2.85-0.684-2.65-1.05s1.667-0.783 4.4-1.25l17.25-2.7c2.367-0.367 4.4-0.5 6.1-0.4 1.333 0.034 2.983 0.267 4.95 0.7l9.05 2.5c2.2 0.733 2.9 1.267 2.1 1.6z"/>
+		</defs>
+		<clipPath id="ti">
+			<use width="172" height="172.35001" xlink:href="#th"/>
+		</clipPath>
+		<g clip-path="url(#ti)">
+			<polygon points="0 -28.4 24.25 0 55.95 -27.15 31.65 -55.5" fill="url(#nb)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="oy" transform="translate(-59.258 -59.925)" viewBox="0 -34.3 37.25 34.3">
+		<defs>
+			<path id="tj" d="m30.3-11.85-1.45 2c-2.667 1.1-5.533 2.184-8.6 3.25l-4.25-0.45-2.85 0.1c-1-1.2-1.967-3.517-2.9-6.95-0.3-1.133-0.583-2.367-0.85-3.7-0.3-0.867-1.033-1.583-2.2-2.15-0.867-0.433-1.534-0.65-2-0.65 4.066-2 9.367-3.817 15.9-5.45 3.267-0.8 6.117-1.4 8.55-1.8 0.4 0.133 0.8 0.433 1.2 0.9 0.767 0.967 1.133 2.317 1.1 4.05-0.133 4.9-0.683 8.517-1.65 10.85z"/>
+		</defs>
+		<clipPath id="tk">
+			<use width="172" height="172.35001" xlink:href="#tj"/>
+		</clipPath>
+		<g clip-path="url(#tk)">
+			<polygon points="30.3 -34.3 0 -26.3 6.95 0 37.25 -8" fill="url(#nc)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="oz" transform="translate(-59.258 -59.925)" viewBox="0 -3.8 4.05 3.8">
+		<defs>
+			<path id="tl" d="m0 0 0.7-2.9c0.167-0.533 0.617-0.817 1.35-0.85 1.033-0.033 1.617 0.25 1.75 0.85l0.25 2.6-4.05 0.3z"/>
+		</defs>
+		<clipPath id="tm">
+			<use width="172" height="172.35001" xlink:href="#tl"/>
+		</clipPath>
+		<g clip-path="url(#tm)">
+			<polygon points="0 -3.8 0 0 4.05 0 4.05 -3.8" fill="url(#nd)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="pa" transform="translate(-59.258 -59.925)" viewBox="0 -3.75 3.45 3.75">
+		<defs>
+			<path id="tn" d="m2.8-2.15-0.35-0.15-0.6-0.4c-0.267-0.1-0.467-0.133-0.6-0.1-0.267 0.066-0.3 0.283-0.1 0.65l0.05 0.15 0.85 0.35c0.367 0.167 0.6 0.383 0.7 0.65 0.1 0.3 0.033 0.467-0.2 0.5l-0.1 0.05c-0.167 0-0.45-0.167-0.85-0.5-0.333-0.367-0.583-0.717-0.75-1.05-0.233-0.667-0.15-1.05 0.25-1.15 0.367-0.1 0.9 0.1 1.6 0.6l0.15 0.2v0.15l-0.05 0.05zm-0.9 1.05c0.167 0.167 0.333 0.25 0.5 0.25 0.1 0 0.117-0.033 0.05-0.1-0.067-0.167-0.217-0.3-0.45-0.4l-0.6-0.25 0.5 0.5z"/>
+		</defs>
+		<clipPath id="to">
+			<use width="172" height="172.35001" xlink:href="#tn"/>
+		</clipPath>
+		<g clip-path="url(#to)">
+			<g fill-rule="evenodd">
+				<polygon points="0.7 0 3.45 -0.6 2.75 -3.75 0 -3.1" fill="url(#ne)"/>
+				<polygon points="0.7 0 3.45 -0.6 2.75 -3.75 0 -3.1" fill="url(#ls)"/>
+			</g>
+		</g>
+</symbol>
+<symbol id="pb" transform="translate(-59.258 -59.925)" viewBox="0 -45.4 38.8 45.4">
+		<defs>
+			<path id="tp" d="m19.4-1.2-19.25 1.05c0.167-2.2 0.483-4.967 0.95-8.3 0.933-6.7 2.2-12.867 3.8-18.5 1.133-3.966 2.483-7.8 4.05-11.5 0.767-1.833 1.45-3.333 2.05-4.5 0.133-0.6 1.033-1.133 2.7-1.6 1.733-0.467 3.75-0.7 6.05-0.7 2.6 0 4.717 0.25 6.35 0.75 1.5 0.433 2.283 0.95 2.35 1.55 1.867 4.4 3.667 9.733 5.4 16 1.6 5.633 2.883 11.8 3.85 18.5 0.466 3.333 0.783 6.1 0.95 8.3l-19.25-1.05z"/>
+		</defs>
+		<clipPath id="tq">
+			<use width="172" height="172.35001" xlink:href="#tp"/>
+		</clipPath>
+		<g clip-path="url(#tq)">
+			<polygon points="0.15 -45.4 0 -0.15 38.65 0 38.8 -45.25" fill="url(#lt)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="pc" transform="translate(-59.258 -59.925)" viewBox="0 -3.8 4.05 3.8">
+		<defs>
+			<path id="tr" d="m0 0 0.7-2.85c0.167-0.533 0.6-0.817 1.3-0.85 1.033-0.066 1.633 0.217 1.8 0.85l0.25 2.55-4.05 0.3z"/>
+		</defs>
+		<clipPath id="ts">
+			<use width="172" height="172.35001" xlink:href="#tr"/>
+		</clipPath>
+		<g clip-path="url(#ts)">
+			<polygon points="0 -3.8 0 0 4.05 0 4.05 -3.8" fill="url(#a)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="pd" transform="translate(-59.258 -59.925)" viewBox="0 -3.8 4 3.8">
+		<defs>
+			<path id="tt" d="m0 0 0.7-2.9c0.133-0.533 0.567-0.817 1.3-0.85 1.033-0.033 1.633 0.25 1.8 0.85l0.2 2.6-4 0.3z"/>
+		</defs>
+		<clipPath id="tw">
+			<use width="172" height="172.35001" xlink:href="#tt"/>
+		</clipPath>
+		<g clip-path="url(#tw)">
+			<polygon points="0 -3.8 0 0 4 0 4 -3.8" fill="url(#a)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="pe" transform="translate(-59.258 -59.925)" viewBox="0 -39.55 35.75 39.55">
+		<defs>
+			<polygon id="tx" points="25 -5.5 10.15 -5.5 10.15 -33.5 25 -33.5"/>
+		</defs>
+		<clipPath id="ty">
+			<use width="172" height="172.35001" xlink:href="#tx"/>
+		</clipPath>
+		<g clip-path="url(#ty)">
+				<use transform="translate(59.258 59.925)" y="-39.549999" width="35.75" height="39.549999" xlink:href="#pf"/>
+		</g>
+</symbol>
+<symbol id="pf" transform="translate(-59.258 -59.925)" viewBox="0 -39.55 35.75 39.55">
+		<defs>
+			<path id="tz" d="m24.95-9.9c-0.267 1.967-1.167 3.133-2.7 3.5l-4.9 0.9c-0.4-0.033-0.8-0.1-1.2-0.2-0.8-0.2-1.25-0.417-1.35-0.65-0.466-1.3-0.5-2.533-0.1-3.7 0.2-0.6 0.45-1.05 0.75-1.35l1.9-0.1c1.4-0.233 2.383-0.667 2.95-1.3 0.4-0.467 0.633-0.983 0.7-1.55 0.067-0.566-0.083-1.05-0.45-1.45-0.3-0.333-0.433-0.583-0.4-0.75 0.2-0.667 0.3-1.1 0.3-1.3 0.033-0.5-0.167-0.967-0.6-1.4-0.3-0.367-0.35-0.733-0.15-1.1 0.333-0.6 0.466-1.1 0.4-1.5-0.067-0.367-0.333-0.783-0.8-1.25-0.267-0.267-0.333-0.75-0.2-1.45 0.1-0.7-0.033-1.267-0.4-1.7-0.333-0.367-0.45-0.817-0.35-1.35 0.066-0.467-0.15-0.95-0.65-1.45-0.567-0.567-1.15-0.867-1.75-0.9-0.333 0-0.867 0.117-1.6 0.35l-2.3 0.85-0.8-0.25c-0.533-0.367-0.9-0.983-1.1-1.85-0.133-0.6 0.017-1.066 0.45-1.4 0.2-0.167 0.417-0.267 0.65-0.3l1.9-0.65c1.467-0.367 2.717-0.4 3.75-0.1 1.6 0.466 2.85 1.566 3.75 3.3 0.934 1.767 1.95 5.067 3.05 9.9 1.1 4.667 1.517 8.067 1.25 10.2z"/>
+		</defs>
+		<clipPath id="ua">
+			<use width="172" height="172.35001" xlink:href="#tz"/>
+		</clipPath>
+		<g clip-path="url(#ua)">
+			<polygon points="12.1 0 35.75 -9.45 23.7 -39.55 0 -30.05" fill="url(#lu)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="pg" transform="translate(-59.258 -59.925)" viewBox="0 -30.9 20.05 30.9">
+		<defs>
+			<polygon id="ub" points="14.65 -1.8 4.5 -1.8 4.5 -29.05 14.65 -29.05"/>
+		</defs>
+		<clipPath id="uc">
+			<use width="172" height="172.35001" xlink:href="#ub"/>
+		</clipPath>
+		<g clip-path="url(#uc)">
+				<use transform="translate(59.258 59.925)" y="-30.9" width="20.049999" height="30.9" xlink:href="#ph"/>
+		</g>
+</symbol>
+<symbol id="ph" transform="translate(-59.258 -59.925)" viewBox="0 -30.9 20.05 30.9">
+		<defs>
+			<path id="ud" d="m14.6-6.2c-0.267 1.967-1.167 3.133-2.7 3.5-2 0.433-3.633 0.733-4.9 0.9-1.467-0.167-2.3-0.433-2.5-0.8 1.833-0.133 3.7-0.433 5.6-0.9 2.4-0.6 3.517-2.367 3.35-5.3-0.1-3.034-0.617-6.55-1.55-10.55-1.133-5-2.5-8.233-4.1-9.7 1.167 0.633 2.15 1.867 2.95 3.7 0.733 1.767 1.6 4.75 2.6 8.95 1.1 4.667 1.517 8.067 1.25 10.2z"/>
+		</defs>
+		<clipPath id="uf">
+			<use width="172" height="172.35001" xlink:href="#ud"/>
+		</clipPath>
+		<g clip-path="url(#uf)">
+			<polygon points="4.8 0 20.05 -2.6 15.25 -30.9 0 -28.3" fill="url(#lv)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="pi" transform="translate(-59.258 -59.925)" viewBox="0 -36.8 34.55 36.8">
+		<defs>
+			<polygon id="ug" points="21.9 -4.75 11.75 -4.75 11.75 -32 21.9 -32"/>
+		</defs>
+		<clipPath id="uh">
+			<use width="172" height="172.35001" xlink:href="#ug"/>
+		</clipPath>
+		<g clip-path="url(#uh)">
+				<use transform="translate(59.258 59.925)" y="-36.799999" width="34.549999" height="36.799999" xlink:href="#pj"/>
+		</g>
+</symbol>
+<symbol id="pj" transform="translate(-59.258 -59.925)" viewBox="0 -36.8 34.55 36.8">
+		<defs>
+			<path id="ui" d="m21.85-9.15c-0.267 1.967-1.167 3.133-2.7 3.5l-4.9 0.9c-0.367-0.033-0.75-0.1-1.15-0.2-0.767-0.167-1.217-0.367-1.35-0.6 1.833-0.133 3.7-0.434 5.6-0.9 2.4-0.6 3.517-2.367 3.35-5.3-0.1-3.033-0.617-6.55-1.55-10.55-1.133-5-2.5-8.233-4.1-9.7 1.167 0.633 2.15 1.867 2.95 3.7 0.733 1.767 1.6 4.75 2.6 8.95 1.1 4.667 1.517 8.067 1.25 10.2z"/>
+		</defs>
+		<clipPath id="uj">
+			<use width="172" height="172.35001" xlink:href="#ui"/>
+		</clipPath>
+		<g clip-path="url(#uj)">
+			<polygon points="34.55 -25.3 14.45 -36.8 0 -11.5 20.1 0" fill="url(#lw)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="pk" transform="translate(-59.258 -59.925)" viewBox="0 -23.45 4.25 23.45">
+		<defs>
+			<polygon id="uk" points="4.25 0 0 0 0 -23.45 4.25 -23.45"/>
+		</defs>
+		<clipPath id="ul">
+			<use width="172" height="172.35001" xlink:href="#uk"/>
+		</clipPath>
+		<g clip-path="url(#ul)">
+			<path d="m4.25-0.45-1.15-12.8c-0.4-4.533-0.767-7.933-1.1-10.2 1.167 11.767 1.533 18.6 1.1 20.5-0.267 1.267-0.867 2.133-1.8 2.6-0.297 0.148-0.58 0.249-0.85 0.3l2.45-0.25c0.567-0.033 1.017-0.083 1.35-0.15z" fill="#f2f2f2" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="pl" transform="translate(-59.258 -59.925)" viewBox="-0.051 -21.55 9.151 21.585">
+		<defs>
+			<polygon id="um" points="9.1 0 0 0 0 -21.55 9.1 -21.55"/>
+		</defs>
+		<clipPath id="uo">
+			<use width="172" height="172.35001" xlink:href="#um"/>
+		</clipPath>
+		<g clip-path="url(#uo)">
+			<path d="m9.1-1.75c-1.333-4.167-1.934-9.3-1.8-15.4 0.034-2.133-0.017-3.417-0.15-3.85-0.2-0.7-0.75-0.7-1.65 0-1.733 1.367-3.183 4.933-4.35 10.7-1.033 5-1.4 8.433-1.1 10.3 0.033 0.133 1.55-0.117 4.55-0.75 1.5-0.333 3-0.667 4.5-1z" fill="#fff" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="pm" transform="translate(-59.258 -59.925)" viewBox="0 -6.65 6.9 6.65">
+		<defs>
+			<path id="up" d="m5.8-1.05h-0.1c-0.167 0-0.383-0.117-0.65-0.35l-1.35-1.75c-0.1 0.167-0.233 0.25-0.4 0.25-0.333 0.1-0.717-0.017-1.15-0.35-0.4-0.3-0.7-0.7-0.9-1.2-0.267-0.567-0.217-0.883 0.15-0.95 0.267-0.067 0.6 0.05 1 0.35-0.1-0.333-0.083-0.517 0.05-0.55 0.2 0 0.466 0.1 0.8 0.3 0.433 0.2 0.667 0.367 0.7 0.5l0.05 0.15-0.1 0.05-0.55-0.35-0.65-0.3c-0.067 0-0.067 0.033 0 0.1 0.067 0.233 0.2 0.45 0.4 0.65l1.8 1.7c0.434 0.5 0.733 0.933 0.9 1.3 0.167 0.3 0.167 0.45 0 0.45zm-3-3.3c-0.133-0.167-0.333-0.317-0.6-0.45-0.267-0.167-0.467-0.25-0.6-0.25h-0.05c-0.133 0.033-0.133 0.25 0 0.65 0.167 0.333 0.417 0.633 0.75 0.9 0.333 0.2 0.617 0.283 0.85 0.25 0.167-0.067 0.267-0.15 0.3-0.25l-0.65-0.85zm2.75 2.85c-0.1-0.3-0.667-0.933-1.7-1.9 0.967 1.367 1.533 2.05 1.7 2.05v-0.15z"/>
+		</defs>
+		<clipPath id="uq">
+			<use width="172" height="172.35001" xlink:href="#up"/>
+		</clipPath>
+		<g clip-path="url(#uq)">
+			<g fill-rule="evenodd">
+				<polygon points="1.2 0 6.9 -1.25 5.7 -6.65 0 -5.4" fill="url(#lx)"/>
+				<polygon points="1.2 0 6.9 -1.25 5.7 -6.65 0 -5.4" fill="url(#ly)"/>
+			</g>
+		</g>
+</symbol>
+<symbol id="pn" transform="translate(-59.258 -59.925)" viewBox="0 -45.1 38.5 45.1">
+		<defs>
+			<polygon id="ur" points="38.5 0 0 0 0 -45.1 38.5 -45.1"/>
+		</defs>
+		<clipPath id="us">
+			<use width="172" height="172.35001" xlink:href="#ur"/>
+		</clipPath>
+		<g clip-path="url(#us)">
+				<use transform="translate(59.258 59.925)" y="-45.099998" width="38.5" height="45.099998" xlink:href="#pr"/>
+		</g>
+</symbol>
+<symbol id="po" transform="translate(-59.258 -59.925)" viewBox="0 -5.5 20.6 5.5">
+		<defs>
+			<polygon id="ut" points="20.6 0 0 0 0 -5.5 20.6 -5.5"/>
+		</defs>
+		<clipPath id="uu">
+			<use width="172" height="172.35001" xlink:href="#ut"/>
+		</clipPath>
+		<g clip-path="url(#uu)">
+			<path d="m0.3-0.15c0.067 0 0.583 0.05 1.55 0.15l-0.3-4.35c-0.6 0.233-1.117 0.483-1.55 0.75l0.3 3.45zm12.15-5.25-0.2 4.3-2.15 0.15 0.05-4.55-2.4 0.05 0.15 4.45-2.1 0.5-0.25-4.75c-0.667 0.1-1.4 0.233-2.2 0.4l0.3 4.75c0.867-0.066 2.367-0.233 4.5-0.5 1.9-0.233 3.25-0.367 4.05-0.4 0.966-0.067 1.983 0.017 3.05 0.25l-0.7-0.35 0.2-4.1-2.3-0.2zm6.1 0.85-1.9-0.4-0.2 4.4 2.5 0.4-0.5-0.35 0.1-4.05zm1.9 4.45 0.15-3.65-0.85-0.4-0.15 4.05h0.85z" fill="#fff" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="pp" transform="translate(-59.258 -59.925)" viewBox="0 -3.85 3.45 3.85">
+		<defs>
+			<path id="uv" d="m2.1-2.1c0.433 0.5 0.667 0.783 0.7 0.85 0.034 0.1 0 0.2-0.1 0.3l-0.3 0.15c0.033 0.167 0 0.283-0.1 0.35h-0.05l-0.15-0.05-0.1-0.15c-0.067-0.1-0.067-0.183 0-0.25-0.4-0.4-0.817-0.75-1.25-1.05l-0.1-0.15-0.05-0.15 0.1-0.05c0.033-0.034 0.267 0.133 0.7 0.5 0.367 0.267 0.617 0.5 0.75 0.7l0.2-0.15 0.1-0.05-0.7-0.8c-0.333-0.333-0.533-0.6-0.6-0.8-0.1-0.233-0.066-0.383 0.1-0.45l0.3 0.05 0.5 0.2c0.467 0.267 0.717 0.45 0.75 0.55v0.15l-0.1 0.05-0.55-0.35-0.65-0.3c-0.1 0-0.117 0.033-0.05 0.1l0.65 0.8z"/>
+		</defs>
+		<clipPath id="ux">
+			<use width="172" height="172.35001" xlink:href="#uv"/>
+		</clipPath>
+		<g clip-path="url(#ux)">
+			<g fill-rule="evenodd">
+				<polygon points="0.7 0 3.45 -0.6 2.75 -3.85 0 -3.2" fill="url(#lz)"/>
+				<polygon points="0.7 0 3.45 -0.6 2.75 -3.85 0 -3.2" fill="url(#ma)"/>
+			</g>
+		</g>
+</symbol>
+<symbol id="pq" transform="translate(-59.258 -59.925)" viewBox="0 -3.95 4.05 3.95">
+		<defs>
+			<path id="uy" d="m3.4-2.3-0.55-0.35-0.7-0.3 0.35 0.4 0.9 1.3c0.1 0.267 0.083 0.417-0.05 0.45s-0.383-0.067-0.75-0.3l-0.8-0.45 0.45 0.75c0.067 0.1 0.05 0.15-0.05 0.15l-0.2-0.1-1.25-1.05-0.1-0.1c-0.067-0.133-0.05-0.2 0.05-0.2 0.066 0 0.283 0.133 0.65 0.4l-0.7-0.95c-0.066-0.167-0.033-0.267 0.1-0.3 0.333 0.434 0.717 0.8 1.15 1.1 0.233 0.2 0.65 0.434 1.25 0.7-0.167-0.333-0.4-0.667-0.7-1l-0.6-0.85c-0.033-0.167 0.017-0.267 0.15-0.3 0.167 0 0.417 0.083 0.75 0.25 0.433 0.267 0.667 0.45 0.7 0.55 0.033 0.133 0.017 0.2-0.05 0.2z"/>
+		</defs>
+		<clipPath id="uz">
+			<use width="172" height="172.35001" xlink:href="#uy"/>
+		</clipPath>
+		<g clip-path="url(#uz)">
+			<g fill-rule="evenodd">
+				<polygon points="0.7 0 4.05 -0.75 3.35 -3.95 0 -3.2" fill="url(#mb)"/>
+				<polygon points="0.7 0 4.05 -0.75 3.35 -3.95 0 -3.2" fill="url(#mc)"/>
+			</g>
+		</g>
+</symbol>
+<symbol id="pr" transform="translate(-59.258 -59.925)" viewBox="0 -45.1 38.5 45.1">
+		<defs>
+			<path id="va" d="m19.25-1.05-19.25 1.05c0.167-2.2 0.483-4.967 0.95-8.3 0.933-6.7 2.2-12.867 3.8-18.5 1.133-3.967 2.483-7.8 4.05-11.5 0.767-1.833 1.45-3.333 2.05-4.5 0.133-0.6 1.033-1.133 2.7-1.6 1.733-0.467 3.75-0.7 6.05-0.7 2.6 0 4.717 0.25 6.35 0.75 1.5 0.434 2.283 0.95 2.35 1.55 1.867 4.4 3.667 9.733 5.4 16 1.6 5.633 2.883 11.8 3.85 18.5 0.467 3.333 0.784 6.1 0.95 8.3l-19.25-1.05z"/>
+		</defs>
+		<clipPath id="vb">
+			<use width="172" height="172.35001" xlink:href="#va"/>
+		</clipPath>
+		<g clip-path="url(#vb)">
+			<polygon points="0 -45.1 0 0 38.5 0 38.5 -45.1" fill="url(#mp)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="ps" transform="translate(-59.258 -59.925)" viewBox="0 -3.75 3.5 3.75">
+		<defs>
+			<path id="vc" d="m2.8-2.15-0.35-0.15-0.55-0.4c-0.267-0.1-0.467-0.133-0.6-0.1-0.233 0.033-0.283 0.25-0.15 0.65l0.05 0.15 0.85 0.35c0.3 0.1 0.55 0.317 0.75 0.65 0.1 0.267 0.017 0.433-0.25 0.5l-0.1 0.05c-0.167 0-0.45-0.167-0.85-0.5-0.333-0.4-0.567-0.75-0.7-1.05-0.3-0.667-0.217-1.05 0.25-1.15 0.4-0.1 0.917 0.1 1.55 0.6l0.15 0.2v0.15l-0.05 0.05zm-0.9 1.05c0.2 0.167 0.383 0.25 0.55 0.25l0.05-0.1c-0.133-0.167-0.3-0.3-0.5-0.4l-0.55-0.25c0.033 0.067 0.183 0.233 0.45 0.5z"/>
+		</defs>
+		<clipPath id="vd">
+			<use width="172" height="172.35001" xlink:href="#vc"/>
+		</clipPath>
+		<g clip-path="url(#vd)">
+			<g fill-rule="evenodd">
+				<polygon points="0.7 0 3.5 -0.6 2.8 -3.75 0 -3.1" fill="url(#md)"/>
+				<polygon points="0.7 0 3.5 -0.6 2.8 -3.75 0 -3.1" fill="url(#me)"/>
+			</g>
+		</g>
+</symbol>
+<symbol id="pt" transform="translate(-59.258 -59.925)" viewBox="0 -47.95 41.75 47.95">
+		<defs>
+			<polygon id="ve" points="40.15 -1.45 1.65 -1.45 1.65 -46.55 40.15 -46.55"/>
+		</defs>
+		<clipPath id="vf">
+			<use width="172" height="172.35001" xlink:href="#ve"/>
+		</clipPath>
+		<g clip-path="url(#vf)">
+				<use transform="translate(59.258 59.925)" y="-47.950001" width="41.75" height="47.950001" xlink:href="#pv"/>
+		</g>
+</symbol>
+<symbol id="pu" transform="translate(-59.258 -59.925)" viewBox="0 -6.15 5.7 6.15">
+		<defs>
+			<path id="vg" d="m4.6-0.8h-0.1c-0.267 0-0.717-0.367-1.35-1.1l-1.25-1.7-0.75-0.6c-0.033-0.1 0-0.183 0.1-0.25l0.1 0.05-0.25-0.45c-0.1-0.267-0.067-0.433 0.1-0.5 0.2 0 0.466 0.1 0.8 0.3 0.433 0.2 0.667 0.367 0.7 0.5v0.15l-0.1 0.05-0.55-0.35-0.65-0.3v0.15l0.65 1.05c1.367 1 2.217 1.867 2.55 2.6 0.1 0.267 0.1 0.4 0 0.4zm-0.8-1.1-1.05-1 0.8 0.95c0.467 0.5 0.733 0.767 0.8 0.8-0.133-0.267-0.317-0.517-0.55-0.75z"/>
+		</defs>
+		<clipPath id="vh">
+			<use width="172" height="172.35001" xlink:href="#vg"/>
+		</clipPath>
+		<g clip-path="url(#vh)">
+			<g fill-rule="evenodd">
+				<polygon points="1.15 0 5.7 -1 4.55 -6.15 0 -5.15" fill="url(#mf)"/>
+				<polygon points="1.15 0 5.7 -1 4.55 -6.15 0 -5.15" fill="url(#mg)"/>
+			</g>
+		</g>
+</symbol>
+<symbol id="pv" transform="translate(-59.258 -59.925)" viewBox="0 -47.95 41.75 47.95">
+		<defs>
+			<path id="vj" d="m20.9-2.5-19.25 1.05c0.167-2.2 0.483-4.966 0.95-8.3 0.933-6.7 2.2-12.867 3.8-18.5 1.133-3.967 2.483-7.8 4.05-11.5 0.767-1.833 1.45-3.333 2.05-4.5 0.133-0.6 1.033-1.133 2.7-1.6 1.733-0.467 3.75-0.7 6.05-0.7 2.6 0 4.717 0.25 6.35 0.75 1.5 0.433 2.283 0.95 2.35 1.55 1.867 4.4 3.667 9.733 5.4 16 1.6 5.633 2.883 11.8 3.85 18.5 0.466 3.333 0.783 6.1 0.95 8.3l-19.25-1.05z"/>
+		</defs>
+		<clipPath id="vk">
+			<use width="172" height="172.35001" xlink:href="#vj"/>
+		</clipPath>
+		<g clip-path="url(#vk)">
+			<polygon points="0 -46.5 1.7 0 41.75 -1.5 40.1 -47.95" fill="url(#mh)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="pw" transform="translate(-59.258 -59.925)" viewBox="0 -6.85 6.85 6.85">
+		<defs>
+			<path id="vl" d="m5.75-1.45c-0.067 0.2-0.217 0.333-0.45 0.4h-0.2c-0.434 0-0.867-0.267-1.3-0.8-1.567-1.833-2.483-2.95-2.75-3.35-0.066-0.133-0.033-0.2 0.1-0.2l0.15 0.1 2.7 3.2 0.55 0.55c0.2 0.133 0.4 0.183 0.6 0.15 0.367-0.1 0.45-0.367 0.25-0.8-0.1-0.267-0.283-0.483-0.55-0.65l-0.7-0.25c-0.233-0.1-0.383-0.2-0.45-0.3-0.034-0.1 0-0.233 0.1-0.4l0.35-0.3c0.1-0.167 0.1-0.383 0-0.65-0.167-0.4-0.4-0.617-0.7-0.65-0.233-0.067-0.5-0.05-0.8 0.05l-0.35 0.05-0.3 0.1c-0.2 0.067-0.333 0.017-0.4-0.15-0.067-0.1 0.017-0.183 0.25-0.25l0.45-0.1c0.567-0.1 0.95-0.133 1.15-0.1 0.4 0.1 0.733 0.433 1 1 0.267 0.667 0.133 1.1-0.4 1.3 0.867 0.2 1.417 0.633 1.65 1.3 0.133 0.267 0.15 0.517 0.05 0.75z"/>
+		</defs>
+		<clipPath id="vm">
+			<use width="172" height="172.35001" xlink:href="#vl"/>
+		</clipPath>
+		<g clip-path="url(#vm)">
+			<g fill-rule="evenodd">
+				<polygon points="1.25 0 6.85 -1.25 5.6 -6.85 0 -5.6" fill="url(#mi)"/>
+				<polygon points="1.25 0 6.85 -1.25 5.6 -6.85 0 -5.6" fill="url(#mj)"/>
+			</g>
+		</g>
+</symbol>
+<symbol id="px" transform="translate(-59.258 -59.925)" viewBox="0 -45.65 39.05 45.65">
+		<defs>
+			<polygon id="vn" points="39.05 0 0 0 0 -45.65 39.05 -45.65"/>
+		</defs>
+		<clipPath id="vo">
+			<use width="172" height="172.35001" xlink:href="#vn"/>
+		</clipPath>
+		<g clip-path="url(#vo)">
+			<path d="m38.5-0.55-18.95-1.1-19 1.1 0.05-0.3 0.9-7.7c0.967-6.833 2.233-13 3.8-18.5 1.8-6.333 3.833-11.65 6.1-15.95l0.05-0.05c0-0.2 0.216-0.417 0.65-0.65 0.533-0.3 1.15-0.533 1.85-0.7 1.667-0.5 3.65-0.75 5.95-0.75 1.767 0 3.467 0.15 5.1 0.45 1.3 0.233 2.233 0.567 2.8 1 0.3 0.2 0.483 0.417 0.55 0.65v0.05c1.867 4.4 3.667 9.717 5.4 15.95 1.467 5.066 2.65 10.583 3.55 16.55 0.567 3.633 0.95 6.85 1.15 9.65l0.05 0.3zm-0.4-8.1c-0.934-6.667-2.217-12.85-3.85-18.55-1.633-5.767-3.433-11.083-5.4-15.95-0.033-0.333-0.283-0.667-0.75-1-0.4-0.3-0.983-0.55-1.75-0.75-1.667-0.5-3.817-0.75-6.45-0.75-1.767 0-3.367 0.133-4.8 0.4-1.533 0.333-2.617 0.7-3.25 1.1-0.5 0.233-0.817 0.55-0.95 0.95-2.3 4.467-4.333 9.8-6.1 16-1.6 5.7-2.883 11.883-3.85 18.55-0.467 3.367-0.783 6.15-0.95 8.35v0.3l19.55-1.1 19.5 1.1v-0.3c-0.133-2.2-0.45-4.983-0.95-8.35z" fill="#fff" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="py" transform="translate(-59.258 -59.925)" viewBox="0 -4.6 4.45 4.6">
+		<defs>
+			<path id="vp" d="m2.6-2.5 0.7 0.85c0.034 0.133 0 0.233-0.1 0.3l-0.3 0.2c0.067 0.2 0.033 0.3-0.1 0.3h-0.05l-0.15-0.05-0.1-0.15c-0.033-0.1-0.033-0.184 0-0.25-0.4-0.4-0.817-0.75-1.25-1.05l-0.1-0.1-0.05-0.15 0.1-0.1c0.1 0 0.333 0.184 0.7 0.55 0.367 0.267 0.617 0.5 0.75 0.7l0.2-0.15 0.1-0.05c-0.033-0.067-0.267-0.35-0.7-0.85-0.333-0.367-0.533-0.617-0.6-0.75-0.1-0.3-0.066-0.45 0.1-0.45 0.033-0.033 0.133-0.017 0.3 0.05l0.5 0.2c0.434 0.2 0.684 0.367 0.75 0.5v0.15l-0.1 0.1-0.55-0.35c-0.4-0.233-0.617-0.333-0.65-0.3-0.067 0-0.083 0.017-0.05 0.05 0 0.033 0.217 0.3 0.65 0.8z"/>
+		</defs>
+		<clipPath id="vr">
+			<use width="172" height="172.35001" xlink:href="#vp"/>
+		</clipPath>
+		<g clip-path="url(#vr)">
+			<polygon points="1.5 0 4.45 -1.35 2.95 -4.6 0 -3.25" fill="url(#mk)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="pz" transform="translate(-59.258 -59.925)" viewBox="0 -11.3 13.45 11.3">
+		<defs>
+			<polygon id="vs" points="12.2 -4.9 0.9 -4.9 0.9 -6.55 12.2 -6.55"/>
+		</defs>
+		<clipPath id="vt">
+			<use width="172" height="172.35001" xlink:href="#vs"/>
+		</clipPath>
+		<g clip-path="url(#vt)">
+				<use transform="translate(59.258 59.925)" y="-11.3" width="13.45" height="11.3" xlink:href="#qb"/>
+		</g>
+</symbol>
+<symbol id="qa" transform="translate(-59.258 -59.925)" viewBox="0 -4.5 4.4 4.5">
+		<defs>
+			<path id="vu" d="m3.25-2.5c-0.1 0-0.217-0.067-0.35-0.2-0.2-0.167-0.4-0.283-0.6-0.35-0.2-0.1-0.4-0.15-0.6-0.15-0.267 0.067-0.3 0.3-0.1 0.7l0.05 0.15 0.85 0.3c0.4 0.233 0.633 0.466 0.7 0.7 0.1 0.267 0.033 0.433-0.2 0.5h-0.1c-0.233 0-0.517-0.167-0.85-0.5-0.333-0.367-0.583-0.717-0.75-1.05-0.267-0.667-0.183-1.05 0.25-1.15 0.4-0.034 0.934 0.183 1.6 0.65l0.15 0.15v0.15l-0.05 0.1zm-0.9 1.05c0.233 0.167 0.4 0.233 0.5 0.2 0.1 0 0.117-0.033 0.05-0.1-0.033-0.1-0.183-0.233-0.45-0.4l-0.6-0.2 0.5 0.5z"/>
+		</defs>
+		<clipPath id="vv">
+			<use width="172" height="172.35001" xlink:href="#vu"/>
+		</clipPath>
+		<g clip-path="url(#vv)">
+			<polygon points="1.45 0 4.4 -1.35 2.9 -4.5 0 -3.15" fill="url(#ml)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="qb" transform="translate(-59.258 -59.925)" viewBox="0 -11.3 13.45 11.3">
+		<defs>
+			<path id="vw" d="m12.15-6.05c-0.5 0.1-1.517 0.267-3.05 0.5-1.9 0.267-3.467 0.433-4.7 0.5-0.9 0.033-1.75 0.083-2.55 0.15-0.333 0-0.583-0.067-0.75-0.2-0.167-0.167-0.217-0.267-0.15-0.3 0.1-0.033 0.5-0.067 1.2-0.1 0.967-0.067 3.133-0.417 6.5-1.05 2.733 0.233 3.9 0.4 3.5 0.5z"/>
+		</defs>
+		<clipPath id="vx">
+			<use width="172" height="172.35001" xlink:href="#vw"/>
+		</clipPath>
+		<g clip-path="url(#vx)">
+			<polygon points="0 -6.2 3.05 0 13.45 -5.15 10.4 -11.3" fill="url(#mm)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="qc" transform="translate(-59.258 -59.925)" viewBox="0 -8.35 8.45 8.35">
+		<defs>
+			<path id="vy" d="m6.55-1.85h-0.1c-0.067 0-0.284-0.117-0.65-0.35l-1.35-1.75c-0.133 0.133-0.267 0.217-0.4 0.25-0.367 0.067-0.75-0.05-1.15-0.35-0.4-0.367-0.7-0.783-0.9-1.25-0.233-0.533-0.183-0.85 0.15-0.95 0.233-0.033 0.583 0.1 1.05 0.4-0.167-0.367-0.167-0.55 0-0.55 0.1-0.067 0.367 0.017 0.8 0.25 0.4 0.2 0.633 0.383 0.7 0.55l0.05 0.1-0.1 0.1-0.55-0.35c-0.333-0.233-0.55-0.333-0.65-0.3-0.034 0-0.034 0.033 0 0.1 0.033 0.133 0.167 0.35 0.4 0.65l1.8 1.7c0.467 0.5 0.767 0.917 0.9 1.25 0.133 0.3 0.133 0.467 0 0.5zm-3-3.35-0.6-0.45c-0.233-0.133-0.434-0.2-0.6-0.2h-0.05c-0.167 0-0.167 0.217 0 0.65 0.133 0.3 0.383 0.583 0.75 0.85 0.267 0.233 0.55 0.317 0.85 0.25 0.133 0 0.233-0.066 0.3-0.2l-0.65-0.9zm2.75 2.85c-0.167-0.4-0.733-1.033-1.7-1.9 1 1.4 1.566 2.083 1.7 2.05v-0.15z"/>
+		</defs>
+		<clipPath id="vz">
+			<use width="172" height="172.35001" xlink:href="#vy"/>
+		</clipPath>
+		<g clip-path="url(#vz)">
+			<polygon points="2.6 0 8.45 -2.65 5.8 -8.35 0 -5.65" fill="url(#mn)" fill-rule="evenodd"/>
+		</g>
+</symbol>
+<symbol id="qd" transform="translate(-59.258 -59.925)" viewBox="0 -10 5 10">
+			<image transform="scale(1,-1)" width="5" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAmUlEQVQImSXKOw6CQBRA0TvzZkAm JARjYoy7dA0uwNKG5dkYGhJFmA/Pgvoc82hr/eRCEMvtGw2AnXPhVHv62jH0QQHcuamYYmZcN4JY AMz94LTzQuuFOW94a7DXUAHwmiOfVBBjcFMsbKpcmh3HJWEAhj7ouCSKKsfa4wCmmOkqR+uF9y/u E+DZNTquiSB2nwBdJXhraL3wBzfcN/gZh9MzAAAAAElFTkSuQmCC">
+		</image>
+</symbol>
+<symbol id="qe" transform="translate(-59.258 -59.925)" viewBox="0 -47.95 41.75 47.95">
+				<use transform="translate(59.258 59.925)" y="-47.950001" width="41.75" height="47.950001" xlink:href="#pt"/>
+</symbol>
+<symbol id="qf" transform="translate(-59.258 -59.925)" viewBox="0 -5.5 20.6 5.5">
+				<use transform="translate(59.258 59.925)" y="-5.5" width="20.6" height="5.5" xlink:href="#po"/>
+</symbol>
+<symbol id="qg" transform="translate(-59.258 -59.925)" viewBox="0 -8.4 9.4 8.4">
+				<use transform="translate(59.258 59.925)" y="-8.3999996" width="9.3999996" height="8.3999996" xlink:href="#ok"/>
+</symbol>
+<symbol id="qh" transform="translate(-59.258 -59.925)" viewBox="-0.051 -21.55 9.151 21.585">
+				<use transform="translate(59.258 59.925)" x="-0.050999999" y="-21.549999" width="9.151" height="21.584999" xlink:href="#pl"/>
+</symbol>
+<symbol id="qi" transform="translate(-59.258 -59.925)" viewBox="0 -45.1 38.5 45.1">
+				<use transform="translate(59.258 59.925)" y="-45.099998" width="38.5" height="45.099998" xlink:href="#pn"/>
+</symbol>
+<symbol id="qj" transform="translate(-59.258 -59.925)" viewBox="0 -11.3 13.45 11.3">
+				<use transform="translate(59.258 59.925)" y="-11.3" width="13.45" height="11.3" xlink:href="#pz"/>
+</symbol>
+<symbol id="qk" transform="translate(-59.258 -59.925)" viewBox="0 -23.45 4.25 23.45">
+				<use transform="translate(59.258 59.925)" y="-23.450001" width="4.25" height="23.450001" xlink:href="#pk"/>
+</symbol>
+<symbol id="ql" transform="translate(-59.258 -59.925)" viewBox="0 -45.4 38.8 45.4">
+				<use transform="translate(59.258 59.925)" y="-45.400002" width="38.799999" height="45.400002" xlink:href="#oj"/>
+</symbol>
+<symbol id="qm" transform="translate(-59.258 -59.925)" viewBox="0 -36.8 34.55 36.8">
+				<use transform="translate(59.258 59.925)" y="-36.799999" width="34.549999" height="36.799999" xlink:href="#pi"/>
+</symbol>
+<symbol id="qn" transform="translate(-59.258 -59.925)" viewBox="0 -10.85 19.45 10.85">
+				<use transform="translate(59.258 59.925)" y="-10.85" width="19.450001" height="10.85" xlink:href="#oh"/>
+</symbol>
+<symbol id="qo" transform="translate(-59.258 -59.925)" viewBox="0 -30.9 20.05 30.9">
+				<use transform="translate(59.258 59.925)" y="-30.9" width="20.049999" height="30.9" xlink:href="#pg"/>
+</symbol>
+<symbol id="qp" transform="translate(-59.258 -59.925)" viewBox="0 -45.65 39.05 45.65">
+				<use transform="translate(59.258 59.925)" y="-45.650002" width="39.049999" height="45.650002" xlink:href="#px"/>
+</symbol>
+<symbol id="qq" transform="translate(-59.258 -59.925)" viewBox="0 -39.55 35.75 39.55">
+				<use transform="translate(59.258 59.925)" y="-39.549999" width="35.75" height="39.549999" xlink:href="#pe"/>
+</symbol>
+<symbol id="qr" transform="translate(-59.258 -59.925)" viewBox="0 -7.9 9.8 7.9">
+				<use transform="translate(59.258 59.925)" y="-7.9000001" width="9.8000002" height="7.9000001" xlink:href="#oo"/>
+</symbol>
+<symbol id="qs" transform="translate(-59.258 -59.925)" viewBox="0 -7 8 7">
+			<image transform="scale(1,-1)" width="8" height="7" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAYAAAA1WQxeAAAASklEQVQImWNgoBjsnj37/wdljf9f tfT+v8zM+R/k4fwfWZ7xtoXdf5UnTxgYfv9iYPj3j4GBgYHhExsbAwMbOwP//ZuMlDuBIAAAafUX EY+yqfoAAAAASUVORK5CYII=">
+		</image>
+</symbol>
+<symbol id="qt" transform="translate(-59.258 -59.925)" viewBox="-0.032 -4.168 3.06 4.193">
+				<use transform="translate(59.258 59.925)" x="-0.032000002" y="-4.1680002" width="3.0599999" height="4.1929998" xlink:href="#ou"/>
+</symbol>
+<symbol id="qu" transform="translate(-59.258 -59.925)" viewBox="-0.063 -6.103 3.363 6.103">
+				<use transform="translate(59.258 59.925)" x="-0.063000001" y="-6.1030002" width="3.3629999" height="6.1030002" xlink:href="#os"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -118.65 118.85 118.65">
+		<path d="m118.85-59.35c0-16.367-5.8-30.35-17.4-41.95-11.6-11.567-25.6-17.35-42-17.35-16.434 0-30.45 5.783-42.05 17.35-11.6 11.6-17.4 25.583-17.4 41.95 0 16.4 5.8 30.383 17.4 41.95 11.6 11.6 25.617 17.4 42.05 17.4 16.4 0 30.4-5.8 42-17.4 11.6-11.567 17.4-25.55 17.4-41.95z" fill="url(#yi)" fill-rule="evenodd"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -61.294 110.05 61.294">
+				<use transform="translate(59.258 59.925)" y="-55.75" width="110.05" height="55.75" enable-background="new" opacity=".1094" xlink:href="#qw"/>
+				<use transform="translate(59.258 59.925)" y="-61.293999" width="110.05" height="61.293999" enable-background="new" opacity=".0898" xlink:href="#qv"/>
+</symbol>
+<symbol transform="translate(-59.258 -59.925)" viewBox="0 -57.1 118.7 57.1">
+		<path d="m95.5-30.35c10.7 7.7 18.25 17.733 22.65 30.1l0.55 0.25c-0.6-15.9-6.63-29.383-18.1-40.45-11.5-11.1-25.267-16.65-41.3-16.65-15.733 0-29.316 5.367-40.75 16.1-11.367 10.667-17.55 23.767-18.55 39.3 4.6-11.966 12.183-21.65 22.75-29.05 10.8-7.567 22.817-11.35 36.05-11.35 13.533 0 25.767 3.917 36.7 11.75z" fill="url(#mq)" fill-rule="evenodd"/>
+</symbol>
+<symbol id="qv" transform="translate(-59.258 -59.925)" viewBox="0 -61.294 110.05 61.294">
+		<path d="m106.5-34.35c2.367-5.633 3.55-10.95 3.55-15.95 0-4.934-1.45-8.05-4.35-9.35-2.333-1.033-6.25-1.017-11.75 0.05-7.267 1.767-13.1 3.117-17.5 4.05-8 1.7-15.133 2.55-21.4 2.55-6.333 0-13.483-0.917-21.45-2.75-8.333-2.2-14.15-3.683-17.45-4.45-5.566-1.267-9.5-1.433-11.8-0.5-2.9 1.2-4.35 4.267-4.35 9.2 0 5.5 1.167 11.167 3.5 17 2.5 6.167 5.983 11.733 10.45 16.7 10.733 11.867 24.433 17.8 41.1 17.8 16.434 0 30.1-5.983 41-17.95 4.467-4.933 7.95-10.4 10.45-16.4z" fill="#fff" fill-rule="evenodd"/>
+</symbol>
+<symbol id="qw" transform="translate(-59.258 -59.925)" viewBox="0 -55.75 110.05 55.75">
+		<path d="m96.05-17.95c4.467-4.933 7.95-10.4 10.45-16.4 2.367-5.633 3.55-10.95 3.55-15.95 0-1.6-0.167-3.067-0.5-4.4-1.867 11.034-7.267 20.85-16.2 29.45-10.533 10.133-23.3 15.2-38.3 15.2-15.267 0-28.117-5.05-38.55-15.15-8.967-8.7-14.317-18.883-16.05-30.55-0.3 1.133-0.45 2.55-0.45 4.25 0 5.5 1.167 11.167 3.5 17 2.5 6.167 5.983 11.733 10.45 16.7 10.733 11.867 24.433 17.8 41.1 17.8 16.433 0 30.1-5.983 41-17.95z" fill="url(#mo)" fill-rule="evenodd"/>
+</symbol>
+<g transform="translate(-59.258 -59.925)">
+	<path d="m103.95 65.55c1.533 0.2 2.616 0.4 3.25 0.6 0.899 0.267 1.6 0.667 2.1 1.2v0.05c0.566 0.6 0.867 1.25 0.9 1.95 0.033 0.533-0.134 1.683-0.5 3.45l-0.351 1.85c-0.166 0.9-0.566 1.617-1.199 2.15l-0.95 0.6-0.5 3.5c1.566 0.4 2.816 1.3 3.75 2.7 0.833 1.367 1.25 3.183 1.25 5.45-0.033 2.267-0.5 5.384-1.4 9.351-1.166 4.933-2.233 8.383-3.2 10.35-1.233 2.5-2.949 4.167-5.149 5 1.267 2.2 2.383 4.983 3.35 8.35l0.8 3.801c0.267 1.633 0.384 2.866 0.351 3.699 0 0.9-0.167 1.617-0.5 2.15l-0.15 0.95c-0.2 0.866-0.666 1.6-1.399 2.2-0.801 0.666-1.784 1.033-2.95 1.1-2.533 1.934-5.45 3.616-8.75 5.05-0.3 0.834-0.834 1.533-1.601 2.101-0.866 0.6-1.883 0.899-3.05 0.899l-0.35-0.05c-0.934-0.033-1.767-0.3-2.5-0.8-0.667-0.467-1.167-1.033-1.5-1.7-2.267-0.5-5.633-1.366-10.1-2.6l-4.75-1.45c-0.733 0.267-1.55 0.383-2.45 0.35-1.1-0.033-2.05-0.383-2.85-1.05-0.733-0.6-1.216-1.316-1.45-2.15v-0.1l-0.05-0.05c-1.4-1.033-2-2.25-1.8-3.65l0.2-3.649c0.066-0.834 0.4-1.534 1-2.101 0.566-0.566 1.25-0.883 2.05-0.95 0.167 0 0.483-0.116 0.95-0.35l0.6-0.35 0.75-3.45c0.767-2.867 1.717-5.283 2.85-7.25 0.4-1.066 1.317-1.884 2.75-2.45-1.6-3.767-2.983-7.733-4.15-11.9-1.733-6.1-3.133-13.033-4.2-20.8-0.9-0.433-1.55-0.917-1.95-1.45-0.233-0.367-0.4-0.7-0.5-1-0.133-0.467-0.35-1.3-0.65-2.5-0.333-1.333-0.517-2.217-0.55-2.65-0.133-1.467 0.5-2.583 1.9-3.35 0.8-0.467 1.967-0.817 3.5-1.05l0.1-0.05 7.65-1.05 0.8-0.95c1.767-1.8 6.133-2.7 13.1-2.7l2 0.05c4.267 0.167 7.366 0.7 9.3 1.6 1.033 0.466 1.767 1.15 2.2 2.05l0.2 0.5 3.8 0.55z" fill="#daefe8" fill-rule="evenodd"/>
+			<linearGradient id="wb" x1="-143.34" x2="-60.136" y1="85.542" y2="85.542" gradientTransform="matrix(1.2019e-5 -1 1 -.001 -.00022836 .00046836)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#037A6A" offset="0"/>
+			<stop stop-color="#9ADEB8" offset=".7098"/>
+		</linearGradient>
+		<path d="m103.95 64.75c1.566 0.233 2.649 0.45 3.25 0.65 0.899 0.267 1.6 0.667 2.1 1.2v0.05c0.566 0.6 0.867 1.25 0.9 1.95 0.033 0.5-0.134 1.633-0.5 3.4l-0.351 1.9c-0.166 0.9-0.566 1.617-1.199 2.15l-0.95 0.6-0.5 3.45c1.6 0.467 2.85 1.383 3.75 2.75 0.833 1.367 1.25 3.183 1.25 5.45-0.033 2.267-0.5 5.384-1.4 9.351-1.166 4.933-2.233 8.383-3.2 10.35-1.233 2.5-2.949 4.167-5.149 5 1.267 2.2 2.383 4.983 3.35 8.35l0.8 3.801c0.467 2.933 0.417 4.883-0.149 5.85l-0.15 0.95c-0.233 0.833-0.7 1.566-1.399 2.2-0.801 0.666-1.784 1.033-2.95 1.1-2.533 1.934-5.45 3.616-8.75 5.05-0.3 0.834-0.834 1.517-1.601 2.05-0.866 0.601-1.883 0.9-3.05 0.9h-0.35c-0.934-0.033-1.767-0.3-2.5-0.8-0.667-0.467-1.167-1.05-1.5-1.75-2.967-0.634-6.333-1.5-10.1-2.601l-4.75-1.449c-0.8 0.3-1.617 0.433-2.45 0.399-1.1-0.066-2.05-0.434-2.85-1.1-0.733-0.601-1.216-1.316-1.45-2.15v-0.1h-0.05c-1.4-1.033-2-2.267-1.8-3.7l0.2-3.6c0.066-0.834 0.4-1.534 1-2.101 0.566-0.566 1.25-0.883 2.05-0.95 0.3-0.066 0.617-0.183 0.95-0.35s0.533-0.3 0.6-0.4l0.25-1.1c0.1-0.733 0.267-1.5 0.5-2.3 0.8-3 1.75-5.417 2.85-7.25 0.367-1.033 1.283-1.851 2.75-2.45-1.667-4-3.05-7.967-4.15-11.9-1.733-6.133-3.133-13.083-4.2-20.85-0.833-0.333-1.483-0.817-1.95-1.45-0.233-0.3-0.4-0.633-0.5-1-0.133-0.433-0.35-1.25-0.65-2.45-0.333-1.333-0.517-2.217-0.55-2.65-0.133-1.467 0.5-2.583 1.9-3.35 0.767-0.434 1.934-0.8 3.5-1.1h0.1l7.65-1.05 0.8-0.95c1.767-1.8 6.133-2.7 13.1-2.7l2 0.05c4.267 0.133 7.366 0.65 9.3 1.55 1.033 0.5 1.767 1.2 2.2 2.1l0.2 0.5 3.8 0.5z" fill="url(#wb)" fill-rule="evenodd"/>
+		<path d="m103.95 64.75-3.8-0.5-0.2-0.5c-0.434-0.9-1.167-1.6-2.2-2.1-1.934-0.9-5.033-1.417-9.3-1.55l-2-0.05c-6.967 0-11.333 0.9-13.1 2.7l-0.8 0.95-7.65 1.05h-0.1c-1.566 0.3-2.733 0.667-3.5 1.1-1.4 0.767-2.033 1.883-1.9 3.35 0.033 0.433 0.217 1.316 0.55 2.65 0.3 1.2 0.517 2.017 0.65 2.45 0.1 0.367 0.267 0.7 0.5 1 0.467 0.633 1.117 1.117 1.95 1.45 1.067 7.767 2.467 14.717 4.2 20.85 1.1 3.934 2.483 7.9 4.15 11.9-1.467 0.6-2.383 1.417-2.75 2.45-1.1 1.833-2.05 4.25-2.85 7.25-0.233 0.8-0.4 1.566-0.5 2.3l-0.25 1.1c-0.066 0.101-0.267 0.233-0.6 0.4s-0.65 0.283-0.95 0.35c-0.8 0.067-1.483 0.384-2.05 0.95-0.6 0.566-0.934 1.267-1 2.101l-0.2 3.6c-0.2 1.434 0.4 2.667 1.8 3.7h0.05v0.1c0.233 0.834 0.717 1.55 1.45 2.15 0.8 0.666 1.75 1.033 2.85 1.1 0.833 0.033 1.65-0.1 2.45-0.399l4.75 1.449c3.767 1.101 7.133 1.967 10.1 2.601 0.333 0.7 0.833 1.283 1.5 1.75 0.733 0.5 1.566 0.767 2.5 0.8h0.35c1.167 0 2.184-0.3 3.05-0.9 0.767-0.533 1.301-1.216 1.601-2.05 3.3-1.434 6.217-3.116 8.75-5.05 1.166-0.066 2.149-0.434 2.95-1.1 0.699-0.634 1.166-1.367 1.399-2.2l0.15-0.95c0.566-0.967 0.616-2.917 0.149-5.85l-0.8-3.801c-0.967-3.366-2.083-6.149-3.35-8.35 2.2-0.833 3.916-2.5 5.149-5 0.967-1.967 2.034-5.417 3.2-10.35 0.9-3.967 1.367-7.084 1.4-9.351 0-2.267-0.417-4.083-1.25-5.45-0.9-1.367-2.15-2.283-3.75-2.75l0.5-3.45 0.95-0.6c0.633-0.533 1.033-1.25 1.199-2.15l0.35-1.899c0.366-1.767 0.533-2.9 0.5-3.4-0.033-0.7-0.334-1.35-0.9-1.95v-0.05c-0.5-0.533-1.2-0.934-2.1-1.2-0.6-0.2-1.683-0.417-3.25-0.65z" fill="none" stroke="#daefe8" stroke-width=".25"/>
+	<path d="m103 92.95c0.066-0.2 0.233-0.45 0.5-0.75 0.3-0.3 0.417-0.667 0.35-1.101-0.066-0.399-0.267-0.767-0.6-1.1-0.233-0.267-0.55-0.483-0.95-0.65-0.767 3.334-1.399 5.834-1.899 7.5-0.967 3.467-1.884 6.434-2.75 8.9l0.399 0.15c0.667 0.166 1.066 0.25 1.2 0.25 0.467 0 0.95-0.233 1.45-0.7 0.366-0.367 0.517-0.717 0.45-1.05-0.067-0.667 0.1-1.25 0.5-1.75 0.233-0.267 0.316-0.7 0.25-1.301-0.134-0.833 0-1.449 0.399-1.85 0.367-0.4 0.566-0.717 0.601-0.95 0.033-0.267-0.084-0.649-0.351-1.149-0.333-0.634-0.233-1.217 0.3-1.75 0.267-0.334 0.4-0.65 0.4-0.95-0.033-0.267-0.1-0.617-0.2-1.05-0.1-0.3-0.12-0.534-0.05-0.7zm0.6-25.5c2.167 0.3 3.4 0.633 3.7 1l0.05 0.05c0.134 0.133 0.184 0.317 0.15 0.55-0.033 0.267-0.184 1.083-0.45 2.45l-0.399 2.05c0 0.133-0.067 0.267-0.2 0.4-0.334 0.233-0.917 0.5-1.75 0.8-0.2 1.8-0.55 4.283-1.05 7.45l2.149 0.45c1.033 0.233 1.816 0.767 2.351 1.6 0.633 1.033 0.899 2.55 0.8 4.55-0.066 2.033-0.5 4.783-1.3 8.25-1.134 4.967-2.184 8.334-3.15 10.101-0.934 1.8-2.283 2.966-4.05 3.5-0.434 0.133-1 0.199-1.7 0.199-0.8 0-1.733-0.133-2.8-0.399l-0.3 0.75c1.366 0.267 2.149 0.55 2.35 0.85 1.833 2.033 3.417 5.367 4.75 10 1.033 4.533 1.3 7.084 0.8 7.65l-0.25 0.25-0.1 1.25v0.05c-0.233 0.934-1.033 1.366-2.4 1.3h-0.25c-3 2.4-6.416 4.334-10.25 5.8l-0.05 0.851-0.05 0.1c-0.233 0.834-0.95 1.25-2.15 1.25h-0.2c-0.966-0.033-1.583-0.45-1.85-1.25l-0.2-0.85c-3.7-0.834-7.517-1.816-11.45-2.95-1.5-0.4-3.45-1-5.85-1.8-0.4 0.467-1.05 0.684-1.95 0.649-0.533-0.033-0.983-0.199-1.35-0.5-0.267-0.233-0.434-0.5-0.5-0.8l-0.25-1.05c-1.133-0.533-1.633-1.083-1.5-1.65l0.2-3.8c0-0.366 0.184-0.55 0.55-0.55 0.5 0 1.15-0.2 1.95-0.6 0.833-0.434 1.4-0.884 1.7-1.351 0.2-0.366 0.4-1.05 0.6-2.05l0.45-2.1c0.833-3.101 1.75-5.384 2.75-6.851 0.067-0.467 0.733-0.883 2-1.25l2.05-0.45c-2.1-4.466-3.883-9.3-5.35-14.5-1.934-6.699-3.367-14.066-4.3-22.1-1.233-0.3-2-0.65-2.3-1.05l-0.1-0.2c-0.133-0.433-0.333-1.217-0.6-2.35-0.267-1.167-0.417-1.883-0.45-2.15-0.033-0.4 0.217-0.717 0.75-0.95 0.433-0.2 1.233-0.417 2.4-0.65l9.5-1.3v-0.65c0-0.233 0.083-0.4 0.25-0.5l0.25-0.3c0.6-0.633 2.05-1.117 4.35-1.45 1.967-0.3 4.25-0.45 6.85-0.45h1.899c5.567 0.3 8.634 1.017 9.2 2.15 0.167 0.333 0.167 0.633 0 0.9v0.85l6.051 0.802z" fill="#21423f" fill-rule="evenodd"/>
+	<path d="m103.5 98.65c0.066-0.4-0.066-0.9-0.4-1.5-0.199-0.367-0.149-0.733 0.15-1.101 0.4-0.434 0.583-0.899 0.55-1.399 0-0.2-0.083-0.634-0.25-1.301-0.033-0.166 0.101-0.416 0.4-0.75 0.366-0.399 0.517-0.883 0.45-1.449-0.067-0.567-0.301-1.084-0.7-1.551-0.367-0.399-0.983-0.75-1.851-1.05-0.633 2.967-1.3 5.684-2 8.15-0.833 3.1-1.816 6.233-2.949 9.399l0.85 0.301c0.733 0.233 1.267 0.35 1.6 0.35 0.567-0.033 1.15-0.333 1.75-0.9 0.5-0.5 0.717-0.983 0.65-1.449-0.1-0.534 0.017-0.983 0.35-1.351 0.367-0.434 0.5-1 0.4-1.7-0.134-0.699-0.066-1.183 0.2-1.449 0.467-0.466 0.734-0.883 0.8-1.25zm-1.3-30.85c1.934 0.3 3 0.467 3.2 0.5 0.966 0.2 1.466 0.4 1.5 0.6h0.05c-0.601 3-0.884 4.533-0.851 4.6-0.233 0.2-0.866 0.467-1.899 0.8-0.3 2.5-0.7 5.3-1.2 8.4l2.65 0.5c1.533 0.367 2.433 1.533 2.699 3.5 0.233 2.1-0.183 5.5-1.25 10.2-1.1 4.833-2.116 8.133-3.05 9.899-0.899 1.733-2.149 2.834-3.75 3.3-1.333 0.367-2.899 0.233-4.7-0.399l-0.75 1.95c0.434 0.1 1.017 0.216 1.75 0.35 0.534 0.134 0.834 0.267 0.9 0.4 1.833 1.933 3.384 5.199 4.65 9.8 0.233 0.8 0.483 2.083 0.75 3.85 0.333 2 0.416 3.084 0.25 3.25l-0.4 0.4-0.1 1.45c-0.167 0.6-0.767 0.883-1.801 0.85l-0.449-0.1c-3 2.466-6.551 4.483-10.65 6.05l-0.1 1.2c-0.167 0.6-0.767 0.883-1.801 0.85-0.433-0.033-0.783-0.184-1.05-0.45l-0.25-0.399-0.3-1.2c-2.867-0.601-6.783-1.601-11.75-3-2.333-0.667-4.4-1.316-6.2-1.95-0.233 0.566-0.816 0.816-1.75 0.75-0.433-0.033-0.783-0.184-1.05-0.45l-0.25-0.399-0.3-1.301c-0.667-0.333-1.1-0.616-1.3-0.85l-0.15-0.3 0.2-3.851c0.566 0 1.3-0.233 2.2-0.699 1.167-0.567 1.9-1.284 2.2-2.15 0.267-1.333 0.55-2.566 0.85-3.7 0.9-3.267 1.833-5.55 2.8-6.85-0.067-0.233 0.45-0.517 1.55-0.851l2.75-0.6c-2.167-4.366-4.05-9.384-5.65-15.05-1.933-6.733-3.383-14.2-4.35-22.4-0.867-0.2-1.517-0.417-1.95-0.65l-0.4-0.3c-0.133-0.4-0.333-1.167-0.6-2.3-0.267-1.167-0.417-1.867-0.45-2.1 0-0.333 0.9-0.65 2.7-0.95l9.95-1.4v-1.15h0.15c0-0.133 0.066-0.267 0.2-0.4 0.5-0.5 1.783-0.917 3.85-1.25s4.383-0.5 6.95-0.5l1.899 0.05c2.834 0.1 5.067 0.367 6.7 0.8 1.667 0.467 2.3 0.967 1.9 1.5v1.5l5.253 0.65z" fill="#fff" fill-rule="evenodd"/>
+			<use transform="matrix(1 0 0 -1 158.16 68.325)" y="-3.8" width="4" height="3.8" xlink:href="#pd"/>
+			<use transform="matrix(1 0 0 -1 123.86 70.125)" y="-3.8" width="4.0500002" height="3.8" xlink:href="#pc"/>
+			<use transform="matrix(1 0 0 -1 145.16 76.325)" y="-3.8" width="4.0500002" height="3.8" xlink:href="#oz"/>
+			<path d="m71 114.6 0.95-1.6 2.9 0.2 8.05-0.8h14.65c1.767 1.866 3.334 5.133 4.7 9.8 0.233 0.934 0.467 2.217 0.7 3.85 0.333 2 0.416 3.084 0.25 3.25-2.334 2.601-5.45 4.884-9.351 6.851-1.933 1-3.649 1.733-5.149 2.199-2.7-0.333-7.417-1.466-14.15-3.399-4.8-1.367-8.083-2.533-9.85-3.5l-1.15-1 0.2-3.851c0.567 0 1.3-0.233 2.2-0.699 1.167-0.567 1.9-1.284 2.2-2.15 0.267-1.333 0.55-2.566 0.85-3.7 0.6-2.134 1.267-3.951 2-5.451z" fill="#ac170e" fill-rule="evenodd"/>
+				<use transform="matrix(1 0 0 -1 155.56 59.375)" y="-10" width="5" height="10" xlink:href="#qd"/>
+			<path d="m63.55 130.45 0.2-3.851c0.567 0 1.3-0.233 2.2-0.699 0.5-0.233 0.9-0.483 1.2-0.75l20.9 2.399 0.7 10.8h-0.05c-2.7-0.333-7.417-1.466-14.15-3.399-4.8-1.367-8.083-2.533-9.85-3.5l-1.15-1z" fill="#c22316" fill-rule="evenodd"/>
+			<path d="m63.95 126.55c0.466 0 1.133-0.217 2-0.649 1.167-0.567 1.9-1.284 2.2-2.15 0.267-1.333 0.55-2.566 0.85-3.7 0.6-2.133 1.267-3.934 2-5.399l0.9-1.551 4.3 0.051 4.45-0.5c3.033 0.899 5.817 1.783 8.35 2.649l0.9 3c0.6 2.834 0.983 6.316 1.149 10.45 0.101 1.934-0.316 3.35-1.25 4.25-0.467 0.467-0.934 0.733-1.399 0.8-2.434-0.399-5.284-1-8.55-1.8-6.533-1.635-11.833-3.451-15.9-5.451z" fill="#ff4e42" fill-rule="evenodd"/>
+			<use transform="matrix(1 0 0 -1 118.01 46.225)" y="-34.299999" width="37.25" height="34.299999" xlink:href="#oy"/>
+			<path d="m104.25 71.9-0.4 3.2c-3.366 1.267-6.35 2.167-8.949 2.7-1.801 0.367-2.901 0.567-3.301 0.6h-2.5c-1.866 0-9.3-1.233-22.3-3.7l-0.15-2.35 37.6-0.45z" fill-rule="evenodd"/>
+			<path d="m73.4 112.35 5.1-1.1c0.833-0.167 2.033-0.434 3.6-0.8 1.333-0.233 2.517-0.3 3.55-0.2l9.2 1.4c1.534 0.3 2.384 0.5 2.551 0.6 0.466 0.267 0.05 0.7-1.25 1.3l-4.95 2c-1.267 0.4-2.233 0.634-2.9 0.7-1 0.134-2.184 0.066-3.55-0.2l-10.4-1.85c-1.6-0.367-2.45-0.7-2.55-1-0.101-0.266 0.432-0.55 1.599-0.85z" fill="#ff3f45" fill-rule="evenodd"/>
+				<use transform="matrix(1 0 0 -1 135.01 47.525)" y="-10.85" width="19.450001" height="10.85" enable-background="new" opacity=".5313" xlink:href="#qn"/>
+				<use transform="matrix(1 0 0 -1 125.06 9.7249)" y="-45.400002" width="38.799999" height="45.400002" enable-background="new" opacity=".1211" xlink:href="#ql"/>
+				<use transform="matrix(1 0 0 -1 125.21 9.8748)" y="-45.099998" width="38.5" height="45.099998" enable-background="new" opacity=".4219" xlink:href="#qi"/>
+				<use transform="matrix(1 0 0 -1 123.56 8.4251)" y="-47.950001" width="41.75" height="47.950001" enable-background="new" opacity=".1797" xlink:href="#qe"/>
+				<use transform="matrix(1 0 0 -1 124.91 9.575)" y="-45.650002" width="39.049999" height="45.650002" enable-background="new" opacity=".3711" xlink:href="#qp"/>
+			<path d="m86.55 70.1 14.3-0.25c0.434 0.066 1.517-0.083 3.25-0.45 1.667-0.4 2.634-0.566 2.9-0.5-0.6 3-0.884 4.533-0.85 4.6-0.233 0.2-0.934 0.5-2.101 0.9-3.2 1.1-6.116 1.95-8.75 2.55-2.033 0.5-3.684 0.767-4.95 0.8-1.399 0.067-3.3-0.083-5.7-0.45l-16.7-2.65c-1.567-0.233-2.733-0.517-3.5-0.85l-0.7-0.45c-0.767-2.8-1.1-4.283-1-4.45l11.95 2.2c1.4-0.167 3.383-0.45 5.95-0.85 2.201-0.267 4.168-0.317 5.901-0.15z" fill="#ff5b4d" fill-rule="evenodd"/>
+			<path d="m106.15 73.5c-0.233 0.2-0.934 0.5-2.101 0.9-3.2 1.1-6.116 1.95-8.75 2.55-1.6 0.4-2.934 0.65-4 0.75 0.367-0.6 0.55-1.784 0.55-3.55l-0.1-2.5 7.05-1.75 2.05-0.05c0.434 0.066 1.517-0.083 3.25-0.45 1.667-0.4 2.634-0.566 2.9-0.5-0.599 3-0.883 4.533-0.849 4.6z" fill="#cc1e13" fill-rule="evenodd"/>
+			<use transform="matrix(1 0 0 -1 116.76 -17.975)" y="-55.5" width="55.950001" height="55.5" xlink:href="#ox"/>
+				<use transform="matrix(1 0 0 -1 149.01 16.575)" y="-11.3" width="13.45" height="11.3" enable-background="new" opacity=".2695" xlink:href="#qj"/>
+				<use transform="matrix(1 0 0 -1 147.06 41.175)" y="-8.3999996" width="9.3999996" height="8.3999996" enable-background="new" opacity=".1289" xlink:href="#qg"/>
+				<use transform="matrix(1 0 0 -1 149.31 20.975)" y="-7.9000001" width="9.8000002" height="7.9000001" enable-background="new" opacity=".4102" xlink:href="#qr"/>
+			<use transform="matrix(1 0 0 -1 147.36 44.025)" y="-6.4499998" width="9.5500002" height="6.4499998" xlink:href="#ow"/>
+				<use transform="matrix(1 0 0 -1 157.01 22.475)" x="-0.063000001" y="-6.1030002" width="3.3629999" height="6.1030002" enable-background="new" opacity=".4297" xlink:href="#qu"/>
+				<use transform="matrix(1 0 0 -1 152.76 45.625)" x="-0.032000002" y="-4.1680002" width="3.0599999" height="4.1929998" enable-background="new" opacity=".4297" xlink:href="#qt"/>
+			<path d="m99.6 82.5c0.4-0.1 0.801-0.167 1.2-0.2l4.9 0.9c1.533 0.367 2.434 1.533 2.7 3.5 0.267 2.133-0.15 5.533-1.25 10.2-1.101 4.833-2.117 8.133-3.051 9.899-0.899 1.733-2.149 2.834-3.75 3.3-1.033 0.301-2.283 0.267-3.75-0.1l-1.899-0.65c-0.233-0.033-0.45-0.133-0.65-0.3-0.434-0.333-0.583-0.8-0.45-1.399 0.2-0.867 0.567-1.483 1.101-1.851l0.8-0.25 2.3 0.851c0.733 0.233 1.267 0.35 1.601 0.35 0.6-0.033 1.183-0.333 1.75-0.9 0.5-0.5 0.716-0.983 0.649-1.449-0.1-0.534 0.017-0.983 0.351-1.351 0.366-0.434 0.5-1 0.399-1.7-0.133-0.699-0.066-1.183 0.2-1.449 0.467-0.467 0.733-0.884 0.8-1.25 0.066-0.4-0.066-0.9-0.399-1.5-0.2-0.367-0.15-0.733 0.149-1.101 0.434-0.434 0.634-0.899 0.601-1.399 0-0.2-0.101-0.634-0.301-1.301-0.033-0.166 0.101-0.416 0.4-0.75 0.366-0.399 0.517-0.883 0.45-1.449-0.066-0.567-0.3-1.084-0.7-1.551-0.566-0.633-1.583-1.1-3.05-1.399l-2-0.25c-0.233-0.334-0.417-0.783-0.55-1.35-0.301-1.1-0.267-2.25 0.1-3.45 0.1-0.234 0.55-0.451 1.35-0.651z" fill="#ff2831" fill-rule="evenodd"/>
+				<use transform="matrix(1 0 0 -1 152.61 43.525)" y="-7" width="8" height="7" xlink:href="#qs"/>
+				<use transform="matrix(1 0 0 -1 142.71 16.875)" y="-39.549999" width="35.75" height="39.549999" enable-background="new" opacity=".1719" xlink:href="#qq"/>
+				<use transform="matrix(1 0 0 -1 153.06 20.575)" y="-30.9" width="20.049999" height="30.9" enable-background="new" opacity=".6289" xlink:href="#qo"/>
+				<use transform="matrix(1 0 0 -1 145.81 17.625)" y="-36.799999" width="34.549999" height="36.799999" enable-background="new" opacity=".6797" xlink:href="#qm"/>
+				<use transform="matrix(1 0 0 -1 146.31 19.075)" y="-23.450001" width="4.25" height="23.450001" enable-background="new" opacity=".5586" xlink:href="#qk"/>
+				<use transform="matrix(1 0 0 -1 127.86 16.925)" x="-0.050999999" y="-21.549999" width="9.151" height="21.584999" enable-background="new" opacity=".5" xlink:href="#qh"/>
+			<path d="m71.45 126.15-2.75 1.8c-0.133 0.1-0.4 0.083-0.8-0.05l-0.8-0.351c-0.167-0.1-0.217-0.184-0.15-0.25l0.35-0.2 2.5-1.949c0.3-0.233 0.6-0.233 0.9 0l0.6 0.6c0.2 0.1 0.317 0.167 0.35 0.2 0 0.067-0.067 0.133-0.2 0.2z" fill="#871a11" fill-rule="evenodd"/>
+			<polygon points="68.7 126.15 68.45 128 67.05 127.35 66.95 126.2" fill="#c6d5df" fill-rule="evenodd"/>
+			<polygon points="68.45 128 68.3 126.2 71.5 124.7 71.55 125.95" fill="#b6c4ce" fill-rule="evenodd"/>
+			<polygon points="71.5 124.7 68.3 126.65 66.95 126.2 70.15 124.4" fill="#e2f1ff" fill-rule="evenodd"/>
+			<path d="m72.35 129c-0.2 0.167-0.483 0.184-0.85 0.05l-0.8-0.3c-0.267-0.1-0.2-0.283 0.2-0.55l2.5-2.15c0.3-0.166 0.617-0.166 0.95 0l0.6 0.65c0.233 0.066 0.35 0.133 0.35 0.2 0 0.033-0.05 0.1-0.15 0.199l-2.8 1.9z" fill="#871a11" fill-rule="evenodd"/>
+			<polygon points="72.25 127.15 72.05 129.05 70.6 128.6 70.45 127.25" fill="#c6d5df" fill-rule="evenodd"/>
+			<polygon points="72.05 129.05 71.9 127.2 75.15 125.6 75.25 126.85" fill="#b6c4ce" fill-rule="evenodd"/>
+			<polygon points="75.15 125.6 71.9 127.65 70.45 127.25 73.75 125.3" fill="#e2f1ff" fill-rule="evenodd"/>
+			<path d="m79.35 130.55 2.55-2.149c0.267-0.2 0.583-0.217 0.95-0.051l0.6 0.65c0.267 0.066 0.4 0.134 0.4 0.2 0 0.033-0.067 0.1-0.2 0.2l-2.8 2c-0.133 0.1-0.417 0.083-0.85-0.051l-0.85-0.35c-0.2-0.066-0.25-0.134-0.15-0.2 0.167-0.1 0.283-0.184 0.35-0.25z" fill="#871a11" fill-rule="evenodd"/>
+			<polygon points="80.75 129.5 80.55 131.45 79.05 130.85 78.9 129.6" fill="#c6d5df" fill-rule="evenodd"/>
+			<polygon points="83.75 129.15 80.55 131.45 80.35 129.55 83.65 127.9" fill="#b6c4ce" fill-rule="evenodd"/>
+			<polygon points="80.4 130.1 78.9 129.6 82.2 127.6 83.65 127.9" fill="#e2f1ff" fill-rule="evenodd"/>
+			<path d="m87.75 130c0 0.033-0.066 0.1-0.2 0.2l-2.85 2.149c-0.167 0.167-0.45 0.184-0.85 0.051l-0.9-0.25c-0.3-0.101-0.233-0.301 0.2-0.601l2.55-2.35c0.333-0.2 0.649-0.217 0.95-0.05l0.699 0.649c0.267 0.068 0.401 0.136 0.401 0.202z" fill="#871a11" fill-rule="evenodd"/>
+			<path d="m82.65 130.55 1.9-0.149-0.1 2c-0.3-0.034-0.583-0.101-0.85-0.2l-0.7-0.2-0.25-1.451z" fill="#c6d5df" fill-rule="evenodd"/>
+			<polygon points="84.45 132.4 84.15 130.5 87.5 128.65 87.65 129.95" fill="#b6c4ce" fill-rule="evenodd"/>
+			<polygon points="87.5 128.65 84.2 130.95 82.65 130.55 86 128.4" fill="#e2f1ff" fill-rule="evenodd"/>
+				<image transform="translate(75.649 66.2)" width="22" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAFCAYAAABB9hwOAAAA20lEQVQYlX2QQUrEQBBF3/8ZZ0yM IiizckBx48KN7vQE4hHEk7rzAnMRwYUYJyaZbhfdiTILC4r6VVCvPqXm8SH26zWhbQnDlth1GEAC AaQqCUl5Liyhwxrf3FIcVPjuHi+X7D09p623xTwSYoakIo3NDhSBwRLI4DSXk7YN5T6zywv0fnwU t1+b/6HZ9QTKYFnIf3Rh5JwAH+erGD4bwqYlDsN4ATFCcu8dqAQeDxgKU5ye4NXZ+IDfaK6vYuh7 YtehCDEE4neXnE3ujOYzXNdJVyWqShYvrxPvB/ODNjiPA4G8AAAAAElFTkSuQmCC">
+			</image>
+			<use transform="matrix(1 0 0 -1 134.51 4.9749)" y="-5.8499999" width="21.799999" height="5.8499999" xlink:href="#ov"/>
+				<use transform="matrix(1 0 0 -1 135.31 5.1248)" y="-5.5" width="20.6" height="5.5" enable-background="new" opacity=".5391" xlink:href="#qf"/>
+			<use transform="matrix(1 0 0 -1 132.51 -3.7248)" y="-18.6" width="26.15" height="18.6" xlink:href="#ot"/>
+		<g fill="#9f2211" fill-rule="evenodd">
+			<path d="m76.2 119.2c0.233 0.066 0.383 0.2 0.45 0.399 0.1 0.233 0.083 0.483-0.05 0.75-0.233 0.667-0.783 1.101-1.65 1.301 0.533 0.199 0.667 0.633 0.4 1.3-0.267 0.566-0.6 0.899-1 1-0.2 0.033-0.583 0-1.15-0.101l-0.45-0.1c-0.233-0.066-0.317-0.15-0.25-0.25 0.067-0.167 0.2-0.217 0.4-0.15l0.3 0.101 0.35 0.05c0.3 0.1 0.567 0.116 0.8 0.05 0.3-0.033 0.533-0.25 0.7-0.649 0.1-0.267 0.1-0.483 0-0.65l-0.35-0.3c-0.1-0.167-0.133-0.3-0.1-0.4 0.066-0.1 0.217-0.2 0.45-0.3l0.7-0.25c0.267-0.167 0.45-0.384 0.55-0.65 0.2-0.433 0.117-0.699-0.25-0.8-0.2-0.033-0.4 0.017-0.6 0.15l-0.55 0.55-2.7 3.2-0.15 0.1c-0.066 0-0.1-0.066-0.1-0.2 0.267-0.399 1.183-1.517 2.75-3.35 0.567-0.635 1.067-0.901 1.5-0.801z"/>
+			<path d="m75.1 123.3c-0.1-0.07-0.133-0.15-0.1-0.25l0.75-0.6 1.3-1.7c0.633-0.767 1.1-1.134 1.4-1.1 0.1 0 0.1 0.133 0 0.399-0.333 0.733-1.184 1.601-2.55 2.601l-0.65 1.05v0.149c0.1 0 0.317-0.116 0.65-0.35l0.55-0.3 0.1 0.05v0.15c-0.033 0.133-0.267 0.3-0.7 0.5-0.333 0.199-0.583 0.3-0.75 0.3-0.2-0.033-0.25-0.2-0.15-0.5l0.25-0.45-0.1 0.051zm2.3-2.5-0.8 0.95 1.05-1c0.233-0.233 0.417-0.483 0.55-0.75-0.067 0.033-0.333 0.3-0.8 0.8z"/>
+			<path d="m77.8 122.25c-0.167 0-0.35 0.083-0.55 0.25-0.267 0.267-0.417 0.434-0.45 0.5l0.55-0.25c0.267-0.1 0.433-0.217 0.5-0.35l-0.05-0.15zm0.35 0.15c-0.2 0.333-0.45 0.55-0.75 0.649l-0.85 0.351-0.05 0.149c-0.133 0.4-0.083 0.617 0.15 0.65 0.133 0.033 0.333 0 0.6-0.101l0.55-0.399 0.35-0.15 0.05 0.05v0.15l-0.15 0.2c-0.633 0.5-1.15 0.7-1.55 0.6-0.467-0.1-0.55-0.483-0.25-1.149 0.133-0.301 0.367-0.65 0.7-1.051 0.4-0.333 0.716-0.483 0.95-0.449 0.267 0.067 0.35 0.234 0.25 0.5z"/>
+			<path d="m78.65 123.5c-0.367 0.267-0.583 0.4-0.65 0.4-0.1 0-0.117-0.067-0.05-0.2l0.1-0.101 1.25-1.05 0.2-0.1c0.1 0 0.117 0.05 0.05 0.149l-0.45 0.75 0.8-0.449c0.367-0.233 0.617-0.334 0.75-0.301 0.133 0.034 0.15 0.184 0.05 0.45l-1.25 1.7 0.7-0.3 0.55-0.351c0.066 0 0.083 0.067 0.05 0.2-0.033 0.101-0.267 0.283-0.7 0.55-0.333 0.167-0.583 0.25-0.75 0.25-0.133-0.033-0.183-0.133-0.15-0.3l0.6-0.85c0.3-0.334 0.533-0.667 0.7-1-0.6 0.267-1.017 0.5-1.25 0.7-0.4 0.3-0.784 0.649-1.15 1.05-0.133 0-0.167-0.084-0.1-0.25l0.7-0.947z"/>
+			<path d="m80.7 125.05c0.2 0 0.417-0.083 0.65-0.25 0.267-0.133 0.467-0.283 0.6-0.45l0.65-0.85c-0.033-0.1-0.133-0.184-0.3-0.25-0.233-0.033-0.517 0.05-0.85 0.25-0.333 0.267-0.583 0.566-0.75 0.9-0.133 0.4-0.133 0.617 0 0.65zm0.6-1.8c0.434-0.333 0.817-0.45 1.15-0.35 0.2 0.033 0.333 0.116 0.4 0.25l1.35-1.75c0.3-0.301 0.55-0.417 0.75-0.351 0.167 0 0.167 0.15 0 0.45-0.167 0.366-0.467 0.8-0.9 1.3l-1.8 1.7c-0.2 0.2-0.333 0.417-0.4 0.65-0.067 0.066-0.067 0.1 0 0.1l0.65-0.3 0.55-0.351 0.1 0.051-0.05 0.151c-0.033 0.134-0.267 0.3-0.7 0.5-0.333 0.2-0.6 0.3-0.8 0.3-0.133-0.033-0.15-0.216-0.05-0.55-0.4 0.3-0.733 0.417-1 0.351-0.367-0.067-0.417-0.384-0.15-0.95 0.2-0.501 0.5-0.901 0.9-1.201zm3.4-1.75v-0.15c-0.167 0-0.733 0.684-1.7 2.051 1-0.901 1.567-1.535 1.7-1.901z"/>
+			<path d="m84.35 123.65c-0.167 0-0.333 0.083-0.5 0.25l-0.5 0.5 0.6-0.25c0.233-0.101 0.383-0.217 0.45-0.351 0.067-0.099 0.05-0.149-0.05-0.149zm-0.35 0.8-0.85 0.35-0.05 0.15c-0.2 0.366-0.167 0.583 0.1 0.649 0.167 0.067 0.367 0.034 0.6-0.1l0.6-0.4 0.35-0.149 0.05 0.05v0.15l-0.15 0.199c-0.667 0.5-1.2 0.7-1.6 0.601-0.4-0.101-0.483-0.483-0.25-1.15 0.167-0.333 0.417-0.684 0.75-1.05 0.4-0.333 0.717-0.483 0.95-0.45s0.3 0.2 0.2 0.5c-0.1 0.266-0.333 0.483-0.7 0.65z"/>
+			<path d="m85.9 123.65 0.1-0.15 0.2-0.05c0.1 0.066 0.133 0.184 0.1 0.35l0.3 0.15c0.101 0.1 0.134 0.2 0.101 0.3-0.033 0.066-0.267 0.35-0.7 0.85l-0.65 0.801c-0.067 0.066-0.05 0.1 0.05 0.1l0.65-0.3 0.55-0.351 0.099 0.05v0.149c-0.033 0.101-0.283 0.283-0.75 0.55l-0.5 0.2-0.3 0.05c-0.167-0.066-0.2-0.216-0.1-0.449 0.067-0.2 0.267-0.467 0.6-0.801l0.7-0.8-0.1-0.05-0.2-0.15c-0.133 0.2-0.383 0.434-0.75 0.7-0.4 0.367-0.633 0.533-0.7 0.5l-0.1-0.05 0.05-0.15 0.1-0.149c0.434-0.3 0.85-0.65 1.25-1.05-0.067-0.067-0.067-0.15 0-0.25z"/>
+		</g>
+			<use transform="matrix(1 0 0 -1 129.36 57.175)" y="-8.5" width="8.5" height="8.5" xlink:href="#or"/>
+			<use transform="matrix(1 0 0 -1 132.36 58.075)" y="-7.4000001" width="7.1999998" height="7.4000001" xlink:href="#op"/>
+			<use transform="matrix(1 0 0 -1 134.16 60.875)" y="-4.5" width="4.4000001" height="4.5" xlink:href="#on"/>
+			<use transform="matrix(1 0 0 -1 136.11 61.175)" y="-4.9000001" width="5" height="4.9000001" xlink:href="#ol"/>
+			<use transform="matrix(1 0 0 -1 137.66 59.025)" y="-8.3500004" width="8.4499998" height="8.3500004" xlink:href="#qc"/>
+			<use transform="matrix(1 0 0 -1 140.76 62.275)" y="-4.5" width="4.4000001" height="4.5" xlink:href="#qa"/>
+			<use transform="matrix(1 0 0 -1 142.66 62.475)" y="-4.5999999" width="4.4499998" height="4.5999999" xlink:href="#py"/>
+		<g fill="#f2f2f2" fill-rule="evenodd">
+			<path d="m76.35 119.3c0.1 0.233 0.083 0.483-0.05 0.75-0.267 0.667-0.816 1.101-1.65 1.3 0.533 0.2 0.667 0.634 0.4 1.301-0.233 0.533-0.566 0.85-1 0.949-0.2 0.067-0.583 0.051-1.15-0.05l-0.45-0.1c-0.233-0.066-0.317-0.15-0.25-0.25 0.066-0.167 0.2-0.217 0.4-0.15l0.3 0.05 0.35 0.101c0.3 0.1 0.567 0.116 0.8 0.05 0.3-0.066 0.534-0.3 0.7-0.7 0.1-0.233 0.1-0.434 0-0.6l-0.35-0.3c-0.1-0.167-0.133-0.301-0.1-0.4 0.067-0.1 0.217-0.2 0.45-0.3l0.7-0.25c0.267-0.167 0.45-0.384 0.55-0.65 0.2-0.434 0.117-0.7-0.25-0.8-0.2-0.033-0.4 0.017-0.6 0.15l-0.55 0.55-2.7 3.2-0.15 0.1c-0.1-0.066-0.133-0.134-0.1-0.2 0.1-0.2 1.017-1.316 2.75-3.35 0.533-0.634 1.033-0.9 1.5-0.8 0.267 0.066 0.417 0.199 0.45 0.399z"/>
+			<path d="m76.25 122.95v0.149c-0.033 0.134-0.267 0.301-0.7 0.5-0.333 0.2-0.583 0.301-0.75 0.301-0.2-0.034-0.25-0.217-0.15-0.551l0.25-0.399h-0.1c-0.1 0-0.133-0.066-0.1-0.2l0.75-0.6 1.25-1.7c0.7-0.8 1.183-1.167 1.45-1.101 0.1 0 0.1 0.134 0 0.4-0.333 0.733-1.183 1.6-2.55 2.6l-0.65 1.051v0.149c0.1 0 0.316-0.116 0.65-0.35l0.55-0.3 0.1 0.051zm0.85-2.5-0.8 1 1.05-1c0.233-0.233 0.417-0.483 0.55-0.75-0.133 0.033-0.4 0.283-0.8 0.75z"/>
+			<path d="m76.2 123.25c-0.167 0.366-0.117 0.583 0.15 0.65 0.167 0.066 0.367 0.017 0.6-0.15l0.55-0.35 0.35-0.15 0.05 0.05v0.15l-0.15 0.149c-0.633 0.534-1.15 0.75-1.55 0.65-0.467-0.1-0.55-0.483-0.25-1.15 0.133-0.3 0.367-0.649 0.7-1.05 0.434-0.366 0.75-0.517 0.95-0.45 0.267 0.034 0.35 0.2 0.25 0.5-0.2 0.334-0.45 0.551-0.75 0.65l-0.85 0.35-0.05 0.151zm1.3-1.3c-0.1-0.033-0.283 0.05-0.55 0.25-0.267 0.267-0.417 0.434-0.45 0.5l0.55-0.25c0.2-0.101 0.367-0.233 0.5-0.4l-0.05-0.1z"/>
+			<path d="m77.65 124.15 0.7-0.95c-0.367 0.267-0.583 0.399-0.65 0.399-0.1 0-0.117-0.066-0.05-0.199l1.35-1.2 0.2-0.05c0.1 0 0.117 0.05 0.05 0.149l-0.45 0.75 0.8-0.5c0.367-0.2 0.617-0.283 0.75-0.25s0.15 0.167 0.05 0.4c-0.033 0.066-0.217 0.366-0.55 0.899l-0.7 0.851 0.7-0.3 0.55-0.351c0.067 0 0.083 0.066 0.05 0.2-0.034 0.134-0.267 0.3-0.7 0.5l-0.75 0.3c-0.133-0.033-0.183-0.133-0.15-0.3l1.3-1.85c-0.6 0.267-1.017 0.5-1.25 0.699-0.4 0.301-0.783 0.65-1.15 1.051-0.133 0-0.167-0.084-0.1-0.25z"/>
+			<path d="m80.4 124.75c0.2 0 0.417-0.083 0.65-0.25l0.6-0.45 0.65-0.899c-0.033-0.067-0.133-0.134-0.3-0.2-0.233-0.033-0.517 0.05-0.85 0.25-0.333 0.267-0.583 0.566-0.75 0.899-0.133 0.4-0.133 0.617 0 0.65zm0.6-1.8c0.4-0.334 0.783-0.45 1.15-0.351 0.167 0 0.3 0.084 0.4 0.25l1.35-1.75c0.3-0.3 0.55-0.416 0.75-0.35 0.167 0 0.167 0.15 0 0.45-0.167 0.366-0.467 0.8-0.9 1.3l-1.8 1.7c-0.2 0.2-0.333 0.416-0.4 0.649-0.066 0.067-0.066 0.101 0 0.101l0.65-0.3 0.55-0.351 0.1 0.05-0.05 0.15c-0.033 0.134-0.267 0.3-0.7 0.5l-0.8 0.3c-0.133-0.033-0.15-0.217-0.05-0.55-0.4 0.3-0.733 0.417-1 0.35-0.367-0.066-0.417-0.383-0.15-0.949 0.2-0.499 0.5-0.899 0.9-1.199zm3.4-1.9c-0.167 0-0.733 0.684-1.7 2.05 1-0.933 1.566-1.566 1.7-1.899v-0.151z"/>
+			<path d="m83.65 123.85c0.233-0.1 0.383-0.233 0.45-0.399 0.066-0.066 0.05-0.101-0.05-0.101-0.1-0.066-0.267 0.017-0.5 0.25l-0.5 0.45 0.6-0.2zm-0.4-0.4c0.4-0.334 0.717-0.483 0.95-0.45s0.3 0.2 0.2 0.5c-0.1 0.267-0.333 0.483-0.7 0.65l-0.85 0.35-0.05 0.15c-0.2 0.366-0.167 0.583 0.1 0.649 0.167 0.066 0.367 0.017 0.6-0.149l0.6-0.351 0.35-0.149 0.05 0.05v0.149l-0.15 0.15c-0.733 0.533-1.267 0.75-1.6 0.65-0.433-0.101-0.517-0.483-0.25-1.15 0.167-0.333 0.417-0.684 0.75-1.05z"/>
+			<path d="m85.6 123.35 0.1-0.149 0.2-0.05c0.1 0.066 0.133 0.183 0.1 0.35l0.3 0.15c0.101 0.1 0.134 0.199 0.101 0.3-0.034 0.066-0.267 0.35-0.7 0.85s-0.65 0.767-0.65 0.8c-0.066 0.067-0.05 0.101 0.05 0.101l1.2-0.65 0.101 0.05v0.15c-0.034 0.134-0.284 0.3-0.75 0.5l-0.5 0.25-0.3 0.05c-0.167-0.066-0.2-0.233-0.1-0.5 0.067-0.133 0.267-0.383 0.6-0.75l0.7-0.8-0.1-0.05-0.2-0.15c-0.133 0.2-0.383 0.434-0.75 0.7-0.433 0.366-0.667 0.533-0.7 0.5l-0.1-0.05 0.05-0.2 0.1-0.1c0.433-0.301 0.85-0.65 1.25-1.051-0.069-0.068-0.069-0.151-2e-3 -0.251z"/>
+		</g>
+			<use transform="matrix(1 0 0 -1 129.86 58.075)" y="-6.8499999" width="6.8499999" height="6.8499999" xlink:href="#pw"/>
+			<use transform="matrix(1 0 0 -1 132.81 58.775)" y="-6.1500001" width="5.6999998" height="6.1500001" xlink:href="#pu"/>
+			<use transform="matrix(1 0 0 -1 134.31 61.325)" y="-3.75" width="3.5" height="3.75" xlink:href="#ps"/>
+			<use transform="matrix(1 0 0 -1 136.26 61.725)" y="-3.95" width="4.0500002" height="3.95" xlink:href="#pq"/>
+			<use transform="matrix(1 0 0 -1 138.11 59.925)" y="-6.6500001" width="6.9000001" height="6.6500001" xlink:href="#pm"/>
+			<use transform="matrix(1 0 0 -1 140.91 62.725)" y="-3.75" width="3.45" height="3.75" xlink:href="#pa"/>
+			<use transform="matrix(1 0 0 -1 142.86 62.925)" y="-3.8499999" width="3.45" height="3.8499999" xlink:href="#pp"/>
+</g>
+</svg>

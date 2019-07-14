@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+ <rect width="500" height="500" fill-opacity="0"/>
+ <g transform="matrix(1.0897 0 0 1.0897 -19.224 -32.865)">
+  <g transform="matrix(.69238 1.1992 -1.1992 .69238 335.06 -174.44)">
+   <path d="m230.16 81.19h29.161" fill="none" stroke="#d9d9d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+   <path d="m229.8 88.252h29.161" fill="none" stroke="#d9d9d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+   <path d="m229.61 94.582h29.161" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+   <path d="m229.61 99.939h29.161" fill="none" stroke="#d5d5d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+   <path d="m230.53 106.51h29.161" fill="none" stroke="#d9d9d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+   <path d="m230.16 113.09h29.161" fill="none" stroke="#c9c9c9" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+   <path d="m230.34 120.39h29.161" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+   <path d="m230.89 126.97h29.161" fill="none" stroke="#d9d9d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+   <rect x="256.16" y="69.502" width="14.61" height="311.98" ry="5.6111" color="#000000" fill="#92a7ee"/>
+  </g>
+  <path d="m435.3 191.67c2.1523 3.7279 0.88386 8.4618-2.844 10.614l-360.68 208.24c-3.7279 2.1523-8.4618 0.88387-10.614-2.844z" color="#000000" fill="#939cda"/>
+  <path d="m360.85 126.49c-8.2025 0-17.075-10.839-19.417-18.899-9.2678 15.771-23.754 40.749-10.927 53.621-3.4953 2.871-5.6875 6.8831-5.6875 11.368 0 8.7078 8.2183 15.775 18.344 15.775 7.7716 0 14.394-4.1536 17.062-10.024 7.6162-0.21001 14.064-4.423 16.594-10.266 0.98948 0.14211 1.9948 0.24187 3.0312 0.24187 10.125 0 18.344-7.0677 18.344-15.775s-8.2183-15.775-18.344-15.775c-0.60128 0-1.1948 0.032-1.7812 0.0806-2.5779-6.0248-9.3185-10.347-17.219-10.347z" color="#000000" fill="#fce8f5"/>
+ </g>
+</svg>

@@ -1,0 +1,79 @@
+
+Images
+
+Name, Author, Download URL, Attribution URL, License type
+
+kitchen, Clker-Free-Vector-Images, https://pixabay.com/vectors/kitchen-house-rooms-furniture-294596/, n/a, CCO
+bedroom, Clker-Free-Vector-Images, https://pixabay.com/vectors/house-room-bed-furniture-bedroom-294594/, n/a, CCO
+bathroom, Clker-Free-Vector-Images, https://pixabay.com/vectors/bathroom-house-furniture-rooms-294588/, n/a, CCO
+living_room,  Clker-Free-Vector-Images, https://pixabay.com/vectors/living-room-house-room-bedroom-294615/, n/a, CCO
+garden, Pixaline, https://pixabay.com/illustrations/garden-fence-garden-fence-nature-1134180/, n/a, CCO
+teddy, open Clipart=Vectors, https://pixabay.com/vectors/teddy-bear-teddy-toy-bear-cute-152700/, n/a, CCO
+cooking_pot, OpenClipart-Vectors, https://pixabay.com/users/openclipart-vectors-30363/, n/a, CCO
+coffee_maker, Clker-Free-Vector-Images, https://pixabay.com/users/clker-free-vector-images-3736/, n/a, CCO
+knife, JJuni, https://pixabay.com/illustrations/kitchen-knives-kitchen-kitchen-knife-1135268/, n/a, CCO
+pan, OpenClipart-Vectors, https://pixabay.com/vectors/cooking-education-kitchen-pan-1300675/, n/a, CCO
+toaster, OpenClipart-Vectors, https://pixabay.com/vectors/toast-toaster-breakfast-kitchen-154616/, n/a, CCO
+fridge, TKaucic, https://pixabay.com/vectors/fridge-kitchen-refrigerator-home-2827034/, n/a, CCO
+bedLamp, Clker-Free-Vector-Images, https://pixabay.com/vectors/bedside-table-light-furniture-24764/, n/a, CCO
+bed, OpenClipart-Vectors, https://pixabay.com/vectors/bed-furniture-bedroom-four-poster-575797/, n/a, CCO
+bunkbed, OpenClipart-Vectors, https://pixabay.com/vectors/bed-bedroom-bunk-bed-dormitory-1298903/, n/a, CCO
+wardrobe, OpenClipart-Vectors, https://pixabay.com/vectors/armoire-dresser-furniture-cabinet-575821/, n/a, CCO
+dresser, OpenClipart-Vectors, https://pixabay.com/vectors/dresser-furniture-cabinet-storage-576043/, n/a, CCO
+couch, OpenClipart-Vectors,https://pixabay.com/vectors/couch-sofa-furniture-seating-seat-576128/, n/a, CCO
+table, OpenClipart-Vectors, https://pixabay.com/vectors/table-furniture-round-glass-wood-576100/, n/a, CCO
+dining_table, Clker-Free-Vector-Images, https://pixabay.com/vectors/table-furniture-dining-livingroom-294592/, n/a, CCO
+television, k-images, https://pixabay.com/vectors/television-tv-sky-furniture-1923791/ ,n/a, CCO
+fireplace, OpenClipart-Vectors, https://pixabay.com/vectors/fireplace-mantel-brick-living-room-575991/ ,n/a, CCO
+toilet_basin, OpenClipart-Vectors, https://pixabay.com/vectors/toilet-washroom-bathroom-146604/, n/a, CCO
+toilet_paper, OpenClipart-Vectors, https://pixabay.com/vectors/toilet-paper-bathroom-tissue-150912/, n/a, CCO
+bath_tub, BilliTheCat, https://pixabay.com/vectors/graphic-bathtub-bath-tub-bath-3931704/, n/a, CCO
+wash_basin, OpenClipart-Vectors, https://pixabay.com/vectors/bathroom-sink-washing-water-metal-158728/, n/a, CCO
+tooth_brush, janjf93, https://pixabay.com/vectors/toothbrush-toothpaste-brushing-teeth-1712520/, n/a , CCO
+rake, OpenClipart-Vectors, https://pixabay.com/vectors/garden-gardening-rake-tool-1300347/ , n/a, CCO
+shovel, OpenClipart-Vectors, https://pixabay.com/vectors/shovel-trowel-digging-equipment-575661/, n/a, CCO
+watering_can, OpenClipart-Vectors, https://pixabay.com/vectors/gardening-can-garden-equipment-575442/ , n/a, CCO
+wheelbarrow, OpenClipart-Vectors,https://pixabay.com/vectors/wheelbarrow-tools-gardening-red-2029732/, n/a, CCO
+gloves, OpenClipart-Vectors, https://pixabay.com/vectors/gloves-gardening-leather-protection-2029685/, n/a, CCO
+speaker_on, Smashicons, https://www.flaticon.com/authors/smashicons,  Attribution for author within game page, https://file000.flaticon.com/downloads/license/license.pdf
+speaker_off, Smashicons, https://www.flaticon.com/authors/smashicons,  Attribution for author within game page, https://file000.flaticon.com/downloads/license/license.pdf
+home_icon, Freepik, https://www.flaticon.com/free-icon/home-icon-silhouette_69524#term=home&page=1&position=4 ,  Attribution for author within game page, https://file000.flaticon.com/downloads/license/license.pdf
+back, Smashicons, https://www.flaticon.com/authors/smashicons,  Attribution for author within game page, https://file000.flaticon.com/downloads/license/license.pdf
+study, Freepik, https://www.flaticon.com/free-icon/study_566944#term=learn&page=1&position=11,  Attribution for author within game page, https://file000.flaticon.com/downloads/license/license.pdf
+microwaveoven, Clker-Free-Vector-Images, https://pixabay.com/vectors/microwave-oven-appliance-kitchen-29056/, n/a, CCO
+mincer, OpenClipart-Vectors, https://pixabay.com/vectors/mincer-meat-grinder-grinder-147531/, n/a, CCO
+stove, Clker-Free-Vector-Images, https://pixabay.com/vectors/cooker-stove-retro-pink-household-295135/ , n/a, CCO
+kettle, OpenClipart-Vectors, https://pixabay.com/vectors/beverage-container-kitchen-teapot-1300298/ , n/a, CCO
+blender, OpenClipart-Vectors, https://pixabay.com/vectors/blender-appliance-kitchen-equipment-576331/ , n/a, CCO
+pillows, OpenClipart-Vectors, https://pixabay.com/vectors/pillows-throw-green-blue-yellow-29866/ , n/a, CCO
+blanket, Clker-Free-Vector-Images, https://pixabay.com/vectors/quilt-blanket-patchwork-cover-41942/, n/a, CCO
+mattress, OpenClipart-Vectors, https://pixabay.com/vectors/bed-culture-futon-japan-japanese-2029781/ , n/a, CCO
+alarm, OpenClipart-Vectors, https://pixabay.com/vectors/alarm-clock-time-alarm-bell-147779/, n/a, CCO
+cradle, Clker-Free-Vector-Images, https://pixabay.com/vectors/crib-cradle-baby-bed-teddy-bear-29483/, n/a, CCO
+armchair, OpenClipart-Vectors, https://pixabay.com/vectors/armchair-old-fashioned-orange-158713/ , n/a, CCO
+carpet, OpenClipart-Vectors, https://pixabay.com/vectors/rug-carpet-brown-white-oval-round-576081/, n/a, CCO
+speaker, Redhead_Pueppi, https://pixabay.com/vectors/music-box-audio-equipment-speakers-2923447/, n/a, CCO
+curtains, Clker-Free-Vector-Images, https://pixabay.com/vectors/curtains-cloth-pleated-fabric-42858/, n/a, CCO
+bean_bag, OpenClipart-Vectors, https://pixabay.com/vectors/bean-bag-bean-bag-beanbag-seat-575777/, n/a, CCO
+towel, Clker-Free-Vector-Images, https://pixabay.com/vectors/towel-hygiene-bath-bathroom-clean-312607/ , n/a, CCO
+dispenser, OpenClipart-Vectors, https://pixabay.com/vectors/dispenser-bathroom-clean-hand-pump-161428/ , n/a, CCO
+shower, Clker-Free-Vector-Images, https://pixabay.com/vectors/hotel-service-shower-bathroom-43902/, n/a, CCO
+hand_dryer, Clker-Free-Vector-Images, https://pixabay.com/vectors/hand-dryer-air-hygiene-blowing-36896/, n/a, CCO
+hair_dresser, OpenClipart-Vectors, https://pixabay.com/vectors/dryer-hair-hairdresser-1293118/, n/a, CCO
+birdhouse, Clker-Free-Vector-Images, https://pixabay.com/vectors/birdhouse-bird-house-blue-flower-48531/, n/a, CCO
+garden_table, Ricinator, https://pixabay.com/vectors/garden-table-out-eat-2424822/, n/a, CCO
+bush, OpenClipart-Vectors, https://pixabay.com/vectors/bush-green-shrub-grass-lush-plant-575513/, n/a, CCO
+creeper, OpenClipart-Vectors, https://pixabay.com/vectors/creeper-hanging-plant-hanging-575839/, n/a, CCO
+lawnmower, OpenClipart-Vectors, https://pixabay.com/vectors/lawnmower-lawn-mower-lawn-mower-155231/, n/a,CCO
+Axe, Clker-Free-Vector-Images, https://pixabay.com/vectors/ax-hatchet-cleaver-axe-black-297185/, n/a, CCO
+cc, Plainicon, https://www.flaticon.com/free-icon/creative-commons-circular-logo_78110#term=attribution&page=1&position=9, Attribution for author within game page, https://file000.flaticon.com/downloads/license/license.pdf
+
+
+Sounds
+
+Name, Author, Download URL, Attribution URL, License type
+
+landing_page, Royalty Free Music from Bensound, https://www.bensound.com/royalty-free-music/track/buddy , ROYALTY FREE MUSIC by www.bensound.com in game page, CCO
+level_up, Adam Vitovský, https://www.adamvitovsky.com/for-kids, credits in game page saying song by Adam Vitovsky, sound by Totya, https://creativecommons.org/licenses/by/3.0/
+button_click, www.zapsplat.com, https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-one/multimedia_button_click_016.mp3,
+in game credits as 'Sound effects obtained from https://www.zapsplat.com', CCO
